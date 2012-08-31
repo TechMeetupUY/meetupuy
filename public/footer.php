@@ -46,7 +46,7 @@
 	  <div class="container">
 	    <div class="row">
 		  <div class="span12">
-		    <p>&copy; 2012 Bounce Template <span id="totop" class="pull-right">Back to Top <i class="icon-arrow-up"></i></span></p>			
+		    <p>&copy; 2012 Meetup.UY <span id="totop" class="pull-right">Arriba <i class="icon-arrow-up"></i></span></p>			
 		  </div>		  
 		</div>	  
       </div>	  

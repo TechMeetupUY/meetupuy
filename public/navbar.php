@@ -24,7 +24,7 @@
 			<li><a data-toggle="modal" href="#joinModal">Register</a></li>
 			<li><a data-toggle="modal" href="#loginModal">Login</a></li>
 -->
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="contact.php">Contacto</a></li>
           </ul>
         </div>
       </div>
