@@ -32,11 +32,10 @@
 			</ul>		  
 		  </div>
 		  <div class="span3">
-			<h3>Subscribe</h3>
-			<p>Subscribe to our newsletter and stay up to date with the latest news and deals!</p>			
+			<h3>Mantenete al tanto!</h3>
 		    <form>
-              <input type="text" placeholder="Your Email" name="subscribe">
-			  <button class="btn btn-primary">Subscribe</button>
+              <input type="text" placeholder="@email" name="subscribe">
+			  <button class="btn btn-primary">suscríbeme</button>
 			</form>
 		  </div>		  
 		</div>	  
