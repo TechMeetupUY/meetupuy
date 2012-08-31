@@ -59,6 +59,7 @@
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum. <span class="icon-plus" data-original-title=""></span></p>
 		  </div>		  
 		</div>
+		<!--
 		<hr class="dashed">
 	    <div class="row">
 		  <div class="span4">
@@ -83,6 +84,7 @@
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum. <span class="icon-plus" data-original-title=""></span></p>
 		  </div>		  
 		</div>
+	-->
 	    <div class="row">
 		  <div class="span12">
 		    <div class="callout well">
