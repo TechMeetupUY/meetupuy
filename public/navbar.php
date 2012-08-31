@@ -6,9 +6,11 @@
 <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="index.html">Meetup.uy</a>
+          <a class="brand" href="/">Meetup.uy</a>
           <ul class="nav pull-right">
-            <li class="active"><a href="index.html">Inicio</a></li>
+            <!--
+            <li class="active"><a href="/">Inicio</a></li>
+          -->
             <li><a href="oradores.php">Oradores</a></li>
             <li><a href="convocatoria.html">Convocatoria</a></li>
             <li><a href="inscripcion.html">Inscripción</a></li>
