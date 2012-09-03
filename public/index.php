@@ -12,10 +12,12 @@
 	  <div class="container">  
 	    <div class="row">
 		  <div class="span10 offset1" style="text-align:center;">
+		  	<p>
+		  		<img src="/img/tech-meetup-logo-big.png">
+		  	</p>
 		    <h1>Bienvenidos a la primer conferencia para desarrolladores en Uruguay.</h1>	
-			<p>tech.Meetup.uy es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.</p>
-			<p>El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.</p>
-		    <p><a href="#" class="btn btn-primary btn-action">Get Started Now</a></p>  
+			
+		    <!-- <p><a href="#" class="btn btn-primary btn-action">Get Started Now</a></p>  -->
 		  </div>
 		  <!--
 		  <div class="span7">
@@ -28,6 +30,12 @@
 
 	<div id="content" class="txt-middle">
 	  <div class="container">
+	  	<div class="row">
+	  		<div class="span8 offset2">
+	  			<p>techMeetup es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades. El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.</p>
+	  			<hr class="dashed">
+	  		</div>
+	  	</row>
 	    <div class="row">
 		  <div class="span12">
 			<h2>Great features of your product or service</h2>
