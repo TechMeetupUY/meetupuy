@@ -26,14 +26,19 @@
 			  <img alt="image" src="http://placehold.it/300x150">
 			</a>		
 			<h2 class="sub">Enrique Baliño</h2>
-			<p>Enrique Baliño es Socio fundador de <a href="http://www.xn-consultores.com/">Xn Consultores</a>. Como consultor de la firma, diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa. <span class="icon-plus" data-original-title=""></span></p>
+			<p>
+				Enrique Baliño es Socio fundador de <a href="http://www.xn-consultores.com/">Xn Consultores</a>. Como consultor de la firma, diseña y facilita la implementación de soluciones de 
+				desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa. <span class="icon-plus" data-original-title="Leer más"></span></p>
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
 			  <img alt="image" src="http://placehold.it/300x150">
 			</a>
 			<h2 class="sub">Gabriel Ledesma</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum. <span class="icon-plus" data-original-title=""></span></p>
+			<p>
+				Gabriel es egresado de la Universidad ORT, tiene más de 15 años de experiencia en la industria del desarrollo de software. De los cuáles 11 los dedicó a la gestión de proyectos en 
+				importantes empresas de plaza. 
+				<span class="icon-plus" data-original-title="Leer más"></span></p>
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
