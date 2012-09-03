@@ -11,11 +11,11 @@
             <!--
             <li class="active"><a href="/">Inicio</a></li>
           -->
-            <li><a href="oradores.php">Oradores</a></li>
-            <li><a href="convocatoria.html">Convocatoria</a></li>
-            <li><a href="inscripcion.html">Inscripción</a></li>
-            <li><a href="donde.html">Dónde</a></li>
-            <li><a href="agenda.html">Agenda</a></li>
+            <li><a href="oradores">Oradores</a></li>
+            <li><a href="convocatoria">Convocatoria</a></li>
+            <li><a href="inscripcion">Inscripción</a></li>
+            <li><a href="donde">Dónde</a></li>
+            <li><a href="agenda">Agenda</a></li>
 <!--
 			<li><a href="alt.html">Alt. Home</a></li>
             <li><a href="about.html">About</a></li>
@@ -24,7 +24,7 @@
 			<li><a data-toggle="modal" href="#joinModal">Register</a></li>
 			<li><a data-toggle="modal" href="#loginModal">Login</a></li>
 -->
-            <li><a href="contact.php">Contacto</a></li>
+            <li><a href="contact">Contacto</a></li>
           </ul>
         </div>
       </div>
