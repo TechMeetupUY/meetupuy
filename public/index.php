@@ -90,15 +90,15 @@
 			</a>
 		  </div>		  
 		</div>	
-		 <div class="row">
+		<div class="row">
 		  <div class="span12">
 		    <hr class="dashed">				
 		  </div>  
 		</div> 
-			
+
 	  </div>
 	</div>
-
+</div>
 	<?php require_once("footer.php"); ?>
 	<?php require_once("modals.php"); ?>
     
