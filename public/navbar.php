@@ -14,7 +14,6 @@
             <li><a href="oradores">Oradores</a></li>
             <li><a href="convocatoria">Convocatoria</a></li>
             <li><a href="inscripcion">Inscripción</a></li>
-            <li><a href="donde">Dónde</a></li>
             <li><a href="agenda">Agenda</a></li>
 <!--
 			<li><a href="alt.html">Alt. Home</a></li>

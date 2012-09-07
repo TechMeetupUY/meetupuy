@@ -6,36 +6,19 @@
 <div id="footer">
 	  <div class="container">
 	    <div class="row">
-		  <div class="span3">
-			<h3>Quick Links</h3>
-			<ul>
-			  <li><a href="#">Home</a></li>
-			  <li><a href="#">About Us</a></li>
-			  <li><a href="#">Features</a></li>
-			  <li><a href="#">Pricing</a></li>
-			</ul>			
+		  
+		  
+		  <div class="span3 offset2">
+		  	<ul>
+		  		<li>
+					<a href="https://twitter.com/meetupUY" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @meetupUY</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</li>
 		  </div>
-		  <div class="span3">		
-			<h3>Company</h3>
-			<ul>
-			  <li><a href="#">Privacy Policy</a></li>
-			  <li><a href="#">Terms of Use</a></li>
-			  <li><a href="#">FAQ</a></li>
-			</ul>	
-		  </div>
-		  <div class="span3">
-			<h3>We're Social</h3>
-			<ul>
-			  <li><a href="#">Facebook</a></li>
-			  <li><a href="#">Twitter</a></li>
-			  <li><a href="#">Google &#43;</a></li>
-			</ul>		  
-		  </div>
-		  <div class="span3">
-			<h3>Mantenete al tanto!</h3>
-		    <form>
+		  <div class="span6">
+		    <form class="form-inline">
               <input type="text" placeholder="@email" name="subscribe">
-			  <button class="btn btn-primary">suscríbeme</button>
+			  <button class="btn btn-primary">manténme al tanto</button>
 			</form>
 		  </div>		  
 		</div>	  
