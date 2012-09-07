@@ -32,63 +32,70 @@
 	  <div class="container">
 	  	<div class="row">
 	  		<div class="span8 offset2			">
-	  			<p>techMeetup es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades. El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.</p>
-	  			<hr class="dashed">
+	  			<p>techMeetup es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.
+	  			<br>
+	  			El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.
+	  			</p>
 	  		</div>
 	  	</row>
 	    <div class="row">
 		  <div class="span12">
-			<h2>Great features of your product or service</h2>
 		    <hr class="dashed">				
 		  </div>  
 		</div>  
 	    <div class="row">
 		  <div class="span4 bouncy">
 		    <div class="icon_wrapper">
-		      <i class="icon-th-large"></i>
+		      <i class="icon-user"></i>
 		    </div>
-			<h2>Modern and Minimalistic</h2>
-			<p>Bounce was built on the awesome Twitter Bootstrap so you have easy access to all of its features.</p>	
+			<h2>Audiencia</h2>
+			<p>techMeetup es para todos aquellos interesados en las últimas tecnologías del mundo de desarrolladores.</p>	
 		  </div>
 		  <div class="span4 bouncy">
 		    <div class="icon_wrapper">
-		      <i class="icon-flag"></i>
+		      <i class="icon-map-marker"></i>
 		    </div>
-			<h2>Awesome Typography</h2>
-			<p>Bounce uses free open-source fonts from Fontspring as well as the iconic Font Awesome.</p>	
+			<h2>Dónde</h2>
+			<p>Auditorio de la Torre de las Comunicaciones. Guatemala y Avda. Rondeau. Montevideo, UY</p>	
 		  </div>
 		  <div class="span4 bouncy">
 		    <div class="icon_wrapper">
-		      <i class="icon-plane"></i>
+		      <i class="icon-calendar"></i>
 		    </div>
-			<h2>Launch Ready</h2>
-			<p>Bounce comes with several pages, giving you a head start on creating a unique design.</p>	
+			<h2>Cuándo</h2>
+			<p>Sábado, 3 de Noviembre de 2012.</p>	
 		  </div>		  
 		</div>
-		<hr class="dashed">				
+		<hr class="dashed">			
+			
+		<div class="row">
+			<div class="span12">
+				<h2>Sponsors</h2>
+			</div>
+		</div>	
 	    <div class="row">
 		  <div class="span4">
 			<a class="thumbnail" href="">
 			  <img alt="image" src="http://placehold.it/300x100">
 			</a>		
-			<h2>Image #1</h2>
-			<p>Optional subtext to help better explain the image above can go here.</p>
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
 			  <img alt="image" src="http://placehold.it/300x100">
 			</a>
-			<h2>Image #2</h2>
-			<p>Optional subtext to help better explain the image above can go here.</p>
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
 			  <img alt="image" src="http://placehold.it/300x100">
 			</a>
-			<h2>Image #3</h2>
-			<p>Optional subtext to help better explain the image above can go here.</p>
 		  </div>		  
-		</div>		
+		</div>	
+		 <div class="row">
+		  <div class="span12">
+		    <hr class="dashed">				
+		  </div>  
+		</div> 
+			
 	  </div>
 	</div>
 
