@@ -44,8 +44,10 @@
 			<a class="thumbnail" href="">
 			  <img alt="image" src="http://placehold.it/300x150">
 			</a>
-			<h2 class="sub">Juan Pérez</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum. <span class="icon-plus" data-original-title=""></span></p>
+			<h2 class="sub">Tu nombre!!!</h2>
+			<p>
+				Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo. <a href="/registro_orador">Registrate como orador</a> y te tendremos en cuenta en la selección.
+			</p>
 		  </div>		  
 		</div>
 		<!--

@@ -30,19 +30,7 @@
 
 	<div id="content" class="txt-middle">
 	  <div class="container">
-	  	<div class="row">
-	  		<div class="span8 offset2			">
-	  			<p>techMeetup es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.
-	  			<br>
-	  			El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.
-	  			</p>
-	  		</div>
-	  	</row>
-	    <div class="row">
-		  <div class="span12">
-		    <hr class="dashed">				
-		  </div>  
-		</div>  
+	  	
 	    <div class="row">
 		  <div class="span4 bouncy">
 		    <div class="icon_wrapper">

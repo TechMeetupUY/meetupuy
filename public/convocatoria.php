@@ -21,26 +21,24 @@
 	<div id="content">
 	  <div class="container">			
 	    <div class="row">
-		  <div class="span6">	
+		  <div class="span12">	
 			<h2>Our Mission</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum. Nulla porta turpis massa. Vivamus facilisis pretium mauris, ac varius augue posuere eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<p>
+				<strong>techMeetup.uy</strong> es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.
+			</p>
+			<p>
+				El evento busca ser un día de actualización profesional y encuentro para todos, el formato del evento serán 7 charlas cortas con oradores nacionales e invitados de la región más algunas sorpresas.
+			</p>
+			<p>
+				Año a año tendremos actores relevantes en las últimas tecnologías para desarrolladores en una jornada integral de charlas cortas, actividades y reclutamiento profesional. Queremos acortar las distancias entre lo que somos y lo que queremos ser a nivel profesional y podés ser parte de ello.
+			</p>
+			<p>
+				Para recibir más información del evento, seguinos en <a href="http://twitter.com/meetupUY">Twitter</a> o dejanos tu <a href="info@meetup.uy">mail</a> para recibir más información sobre “tech.Meetup.uy”, nuestro evento y novedades del rubro en Uruguay.
+			</p>
 		  </div>
-		  <div class="span6">	
-			<h2>Header</h2>
-			<p>Cras vehicula orci mauris, sed porta tellus. Phasellus id odio eget elit convallis placerat sit amet sodales quam. Mauris sit amet diam vel ligula bibendum porta eu a magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum.</p>
-		  </div>		  
+	  
 		</div>
-	    <div class="row">
-		  <div class="span4">	
-			<h2>Span4</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum.</p>
-		  </div>
-		  <div class="span8">	
-			<h2>Span8</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent arcu massa, consequat nec venenatis vel, vehicula in felis. Donec dapibus tortor consequat turpis fringilla rutrum.</p>
-		  </div>		  
-		</div>
+	   
         <div class="row">
 		  <div class="span12">
 			<h2 class="txt-middle">¿Quiénes somos?</h2>
@@ -54,8 +52,8 @@
 			  <div class="team thumbnail">			  
                 <img alt="" src="http://placehold.it/220x180">	
 				<div class="caption">
-					<h4>Ignacio Nin</h4>
-					<span>Percona</span>
+					<h4>Martín Loy</h4>
+					<span>Guruhub</span>
 					<ul class="unstyled">
 					  <li>
 					    <a class="twitter" href="http://twitter.com/nachexnachex"><i class="icon-twitter-sign"></i></a>
@@ -68,8 +66,8 @@
 			  <div class="team thumbnail">			  
                 <img alt="" src="http://placehold.it/220x180">	
 				<div class="caption">
-					<h4>Martín Loy</h4>
-					<span>GuruHub</span>
+					<h4>Ignacio Nin</h4>
+					<span>Percona</span>
 					<ul class="unstyled">
 					  <li>
 					    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
