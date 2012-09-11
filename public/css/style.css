@@ -391,6 +391,10 @@ ul.plans {
 	font-weight: normal;
 	margin: 0;
 }
+
+#copywrite a {
+    color: #FFFFFF;
+}
 #totop {
     cursor: pointer;
 }

@@ -33,7 +33,7 @@
 				Año a año tendremos actores relevantes en las últimas tecnologías para desarrolladores en una jornada integral de charlas cortas, actividades y reclutamiento profesional. Queremos acortar las distancias entre lo que somos y lo que queremos ser a nivel profesional y podés ser parte de ello.
 			</p>
 			<p>
-				Para recibir más información del evento, seguinos en <a href="http://twitter.com/meetupUY">Twitter</a> o dejanos tu <a href="info@meetup.uy">mail</a> para recibir más información sobre “tech.Meetup.uy”, nuestro evento y novedades del rubro en Uruguay.
+				Para recibir más información del evento, seguinos en <a href="http://twitter.com/meetupUY">Twitter</a> o dejanos tu <a href="mailto:info@meetup.uy">mail</a>.
 			</p>
 		  </div>
 	  
