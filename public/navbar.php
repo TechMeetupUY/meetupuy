@@ -6,7 +6,9 @@
 <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">techMeetup.uy</a>
+          <a class="brand" href="/">
+            <img src="/img/tech-meetup-logo-small.png" height="40px">
+          </a>
           <ul class="nav pull-right">
             <!--
             <li class="active"><a href="/">Inicio</a></li>
