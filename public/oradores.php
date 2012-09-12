@@ -22,7 +22,7 @@
 	  <div class="container">			
 	    <div class="row">
 		  <div class="span4">
-			<a class="thumbnail" href="">
+			<a class="thumbnail">
 			  <img alt="image" src="/img/oradores/enriqueb_square.jpg">
 			</a>		
 			<h2 class="sub">Enrique Baliño</h2>
@@ -31,7 +31,7 @@
 				desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa. <span class="icon-plus" data-original-title="Leer más"></span></p>
 		  </div>
 		  <div class="span4">
-			<a class="thumbnail" href="">
+			<a class="thumbnail">
 			  <img alt="image" src="/img/oradores/ledesma_square.jpg">
 			</a>
 			<h2 class="sub">Gabriel Ledesma</h2>
@@ -41,7 +41,7 @@
 				<span class="icon-plus" data-original-title="Leer más"></span></p>
 		  </div>
 		  <div class="span4">
-			<a class="thumbnail" href="">
+			<a class="thumbnail">
 			  <img alt="image" src="http://placehold.it/300x300">
 			</a>
 			<h2 class="sub">Tu nombre!!!</h2>
@@ -90,20 +90,11 @@
 
 	<?php require_once("footer.php"); ?>
     <?php require_once("modals.php"); ?>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
-    <script src="js/bootstrap.js"></script>
-	<script>
-	$(window).load(function() {
-		$("#totop").click(function () {
-			$("body, html").animate({
-				scrollTop: 0
-			}, 300);
-			return false;
-		}); 
-	});
-	</script>
+    <script src="/js/bootstrap.js"></script>
+    <script src="/js/script.js"></script>
 	
   </body>
 </html>
