@@ -11,9 +11,12 @@
       <div class="modal-body">
 	   <div class="row">
 	   	<div class="span2">
-	   		<a class="thumbnail" href="#">
+	   		<div class="thumbnail">
 	   			<img alt="" src="/img/oradores/enriqueb_square.jpg">
-	   		</a>
+	   		</div>
+	   		<div>
+	   			<a href="https://twitter.com/ebalino">@ebalino</>
+	   		</div>
 	   	</div>
 	   	<div class="span4">
 	   		<p>
@@ -34,9 +37,6 @@
 			<p>
 				<stong>En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing</stong>, unidad editorial y de contenidos de Xn Consultores.
 			</p>
-
-
-
 	   	</div>
 	   </div>
       </div>
@@ -50,9 +50,12 @@
       <div class="modal-body">
 	   <div class="row">
 	   	<div class="span2">
-	   		<a class="thumbnail" href="#">
+	   		<div class="thumbnail">
 	   			<img alt="" src="/img/oradores/ledesma_square.jpg">
-	   		</a>
+	   		</div>
+	   		<div>
+	   			<a href="https://twitter.com/gafaled">@gafaled</>
+	   		</div>
 	   	</div>
 	   	<div class="span4">
 	   		<p>

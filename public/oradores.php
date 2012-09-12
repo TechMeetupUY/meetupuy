@@ -22,9 +22,9 @@
 	  <div class="container">			
 	    <div class="row">
 		  <div class="span4">
-			<a class="thumbnail">
+			<div class="thumbnail">
 			  <img alt="image" src="/img/oradores/enriqueb_square.jpg">
-			</a>		
+			</div>		
 			<h2 class="sub">Enrique Baliño</h2>
 			<p>
 				Enrique Baliño es Socio fundador de <a href="http://www.xn-consultores.com/">Xn Consultores</a>. Como consultor de la firma, diseña y facilita la implementación de soluciones de 
@@ -33,9 +33,9 @@
 			</p>
 		  </div>
 		  <div class="span4">
-			<a class="thumbnail">
+			<div class="thumbnail">
 			  <img alt="image" src="/img/oradores/ledesma_square.jpg">
-			</a>
+			</div>
 			<h2 class="sub">Gabriel Ledesma</h2>
 			<p>
 				Gabriel es egresado de la Universidad ORT, tiene más de 15 años de experiencia en la industria del desarrollo de software. De los cuáles 11 los dedicó a la gestión de proyectos en 
@@ -44,9 +44,9 @@
 			</p>
 		  </div>
 		  <div class="span4">
-			<a class="thumbnail">
+			<div class="thumbnail">
 			  <img alt="image" src="http://placehold.it/300x300&text=:)">
-			</a>
+			</div>
 			<h2 class="sub">Tu nombre!!!</h2>
 			<p>
 				Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo. <a href="/registro_orador">Registrate como orador</a> y te tendremos en cuenta en la selección.

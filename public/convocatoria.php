@@ -22,7 +22,6 @@
 	  <div class="container">			
 	    <div class="row">
 		  <div class="span12">	
-			<h2>Our Mission</h2>
 			<p>
 				<strong>techMeetup.uy</strong> es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.
 			</p>
