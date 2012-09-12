@@ -15,7 +15,7 @@
 	   			<img alt="" src="/img/oradores/enriqueb_square.jpg">
 	   		</div>
 	   		<div>
-	   			<a href="https://twitter.com/ebalino">@ebalino</>
+	   			<a href="https://twitter.com/ebalino">@ebalino</a>
 	   		</div>
 	   	</div>
 	   	<div class="span4">
@@ -54,7 +54,7 @@
 	   			<img alt="" src="/img/oradores/ledesma_square.jpg">
 	   		</div>
 	   		<div>
-	   			<a href="https://twitter.com/gafaled">@gafaled</>
+	   			<a href="https://twitter.com/gafaled">@gafaled</a>
 	   		</div>
 	   	</div>
 	   	<div class="span4">

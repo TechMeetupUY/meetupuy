@@ -27,8 +27,23 @@
 			<p>Con 30 minutos para presentar tus ideas, este evento será muy intenso y dinámico. ¡Preparate para mostrar lo que más te interesa!</p>
 			<p>Enviá tu paper postulándote como speaker para participar de la primera tech.Meetup. Contanos quién sos, qué hacés y contanos la importancia de tu ponencia.</p>
 			<p>Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo.</p>
+			<p>Algunos temas interesantes:
+		  	  	<ul>
+					<li>Agile / Scrum</li>
+					<li>Integración continua / Unit Testing</li>
+					<li>Websockets</li>
+					<li>HTML5</li>
+					<li>APIs</li>
+					<li>BigData</li>
+					<li>Mobile</li>
+					<li>Gaming</li>
+					<li>Cloud</li>
+					<li>Arduino / Robotica</li>
+					<li>...</li>
+				</ul>
+			</p>
+			
 			<p>Mandanos tu paper completando este formulario.</p>
-	  	  	</p>
 	  	  </div>
 	  	  <div class="span7 offset1">
 		  	<iframe 
