@@ -23,7 +23,7 @@
 	    <div class="row">
 		  <div class="span4">
 			<a class="thumbnail" href="">
-			  <img alt="image" src="http://placehold.it/300x150">
+			  <img alt="image" src="/img/oradores/enriqueb_square.jpg">
 			</a>		
 			<h2 class="sub">Enrique Baliño</h2>
 			<p>
@@ -32,7 +32,7 @@
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
-			  <img alt="image" src="http://placehold.it/300x150">
+			  <img alt="image" src="/img/oradores/ledesma_square.jpg">
 			</a>
 			<h2 class="sub">Gabriel Ledesma</h2>
 			<p>
@@ -42,7 +42,7 @@
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail" href="">
-			  <img alt="image" src="http://placehold.it/300x150">
+			  <img alt="image" src="http://placehold.it/300x300">
 			</a>
 			<h2 class="sub">Tu nombre!!!</h2>
 			<p>
