@@ -47,7 +47,7 @@
 	</div>
 
 	<?php require_once("footer.php"); ?>
-    <?php require_once("modals.php"); ?>
+    
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
