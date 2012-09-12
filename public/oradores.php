@@ -45,7 +45,7 @@
 		  </div>
 		  <div class="span4">
 			<a class="thumbnail">
-			  <img alt="image" src="http://placehold.it/300x300">
+			  <img alt="image" src="http://placehold.it/300x300&text=:)">
 			</a>
 			<h2 class="sub">Tu nombre!!!</h2>
 			<p>
