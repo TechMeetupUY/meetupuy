@@ -49,7 +49,7 @@
 	    <div class="row">
 		  <div class="span8 offset2">
 		  <iframe src="https://docs.google.com/a/meetup.uy/spreadsheet/embeddedform?formkey=dGNaVWdQdEoyT2Q3bXBtNlFRejE0Z1E6MQ" 
-		  width="760" height="1300" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+		  width="600" height="1300" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 		  </div>
 		</div>		
 	  </div>
