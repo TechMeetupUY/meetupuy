@@ -43,74 +43,13 @@
         <div class="row">
 		  <div class="span12">
 		  	<hr class="dashed">	
-			<h2 class="txt-middle">¿Quiénes somos?</h2>
-		    <hr class="dashed">				
+			<h2 class="txt-middle">Preinscribite!</h2>			
 		  </div>  
 		</div>		
 	    <div class="row">
-		  <div class="span12">
-		  <ul class="thumbnails">
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="http://placehold.it/220x180">	
-				<div class="caption">
-					<h4>Martín Loy</h4>
-					<span>Guruhub</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/nachexnachex"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>  
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="http://placehold.it/220x180">	
-				<div class="caption">
-					<h4>Ignacio Nin</h4>
-					<span>Percona</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="http://placehold.it/220x180">	
-				<div class="caption">
-					<h4>Diego Sapriza</h4>
-					<span>Centra</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>
-
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="http://placehold.it/220x180">	
-				<div class="caption">
-					<h4>John Smith</h4>
-					<span>Founder</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="facebook" href=""><i class="icon-facebook-sign"></i></a>
-					  </li>
-					  <li>
-					    <a class="twitter" href=""><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>			
-		  </ul>
+		  <div class="span8 offset2">
+		  <iframe src="https://docs.google.com/a/meetup.uy/spreadsheet/embeddedform?formkey=dGNaVWdQdEoyT2Q3bXBtNlFRejE0Z1E6MQ" 
+		  width="760" height="1300" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 		  </div>
 		</div>		
 	  </div>
