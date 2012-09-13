@@ -30,7 +30,6 @@
 
 	<div id="content" class="txt-middle">
 	  <div class="container">
-	  	
 	    <div class="row">
 		  <div class="span4 bouncy">
 		    <div class="icon_wrapper">
@@ -55,29 +54,35 @@
 		  </div>		  
 		</div>
 		<hr class="dashed">			
-			
 		<div class="row">
 			<div class="span12">
 				<h2>Sponsors</h2>
 			</div>
 		</div>	
-	    <div class="row">
+	    <div class="row sponsors">
 		  <div class="span4">
-			<a class="thumbnail" href="http://guruhub.com.uy" target="_blank">
+			<a class="thumbnail" href="http://guruhub.com.uy?ref=meetup.uy" target="_blank">
 			  <img alt="image" src="/img/sponsors/guruhub.png">
 			</a>		
 		  </div>
 		  <div class="span4">
-			<a class="thumbnail" href="http://centra.com.uy">
+			<a class="thumbnail" href="http://centra.com.uy?ref=meetup.uy" target="_blank">
 			  <img alt="image" src="/img/sponsors/centra.jpg">
 			</a>
 		  </div>
 		  <div class="span4">
+			<a class="thumbnail" href="http://percona.com?ref=meetup.uy" target="_blank">
+			  <img alt="image" src="/img/sponsors/percona.jpg">
+			</a>
+		  </div>	  
+		</div>	
+		<div class="row sponsors">
+			<div class="span4">
 			<a class="thumbnail" href="mailto:info@meetup.uy" target="_blank">
 			  <img alt="image" src="http://placehold.it/300x100&text=esponsoreá!!">
 			</a>
-		  </div>		  
-		</div>	
+		  </div>	
+		</div>
 		<div class="row">
 		  <div class="span12">
 		    <hr class="dashed">				
