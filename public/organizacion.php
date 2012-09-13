@@ -46,7 +46,7 @@
 				</li>  
 			    <li class="span3">
 				  <div class="team thumbnail">			  
-	                <img alt="" src="http://placehold.it/220x220&text=:)">	
+	                <img alt="" src="/img/organizacion/nacho_nin.jpg">	
 					<div class="caption">
 						<h4>Ignacio Nin</h4>
 						<span>Percona</span>
