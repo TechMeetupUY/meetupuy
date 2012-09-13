@@ -29,53 +29,92 @@
 		</div>		
 	    <div class="row">
 		  <div class="span9 offset2">
-		  <ul class="thumbnails">
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="/img/organizacion/martin_loy.jpg">	
-				<div class="caption">
-					<h4>Martín Loy</h4>
-					<span>Guruhub</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>  
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="http://placehold.it/220x220&text=:)">	
-				<div class="caption">
-					<h4>Ignacio Nin</h4>
-					<span>Percona</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/NachexNachex"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>
-		    <li class="span3">
-			  <div class="team thumbnail">			  
-                <img alt="" src="/img/organizacion/diego_sapriza.jpg">	
-				<div class="caption">
-					<h4>Diego Sapriza</h4>
-					<span>Centra</span>
-					<ul class="unstyled">
-					  <li>
-					    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
-					  </li>					  
-					</ul>
-				</div>
-			  </div> 
-			</li>
-			
-		  </ul>
+			  <ul class="thumbnails">
+			    <li class="span3">
+				  <div class="team thumbnail">			  
+	                <img alt="" src="/img/organizacion/martin_loy.jpg">	
+					<div class="caption">
+						<h4>Martín Loy</h4>
+						<span>Guruhub</span>
+						<ul class="unstyled">
+						  <li>
+						    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
+						  </li>					  
+						</ul>
+					</div>
+				  </div> 
+				</li>  
+			    <li class="span3">
+				  <div class="team thumbnail">			  
+	                <img alt="" src="http://placehold.it/220x220&text=:)">	
+					<div class="caption">
+						<h4>Ignacio Nin</h4>
+						<span>Percona</span>
+						<ul class="unstyled">
+						  <li>
+						    <a class="twitter" href="http://twitter.com/NachexNachex"><i class="icon-twitter-sign"></i></a>
+						  </li>					  
+						</ul>
+					</div>
+				  </div> 
+				</li>
+			    <li class="span3">
+				  <div class="team thumbnail">			  
+	                <img alt="" src="/img/organizacion/diego_sapriza.jpg">	
+					<div class="caption">
+						<h4>Diego Sapriza</h4>
+						<span>Centra</span>
+						<ul class="unstyled">
+						  <li>
+						    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
+						  </li>					  
+						</ul>
+					</div>
+				  </div> 
+				</li>
+				
+			  </ul>
 		  </div>
-		</div>		
+		</div>	
+		
+			<div class="row">
+			  <div class="span12">
+				<h2 class="txt-middle">Nos apoyan</h2>
+			    <hr class="dashed">				
+			  </div>  
+			</div>
+			<div class="row">
+				<div class="span6 offset3">
+					<ul class="thumbnails">
+						<li class="span2">
+							<a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank">
+								<img class="img-rounded" alt="" src="/img/apoyan/pampa.jpg">
+							</a>
+							<div class="caption">
+								<h3>Pampa</h3>
+							</caption>
+						</li>
+
+						<li class="span2">
+							<a class="thumbnails" href="https://twitter.com/soygero" target="_blank">
+								<img class="img-rounded" alt="" src="http://weareuytech.com/images/people/6-geronimo-silva-pereira.jpg">
+							</a>
+							<div class="caption">
+								<h3>Gero</h3>
+							</caption>
+						</li>
+						<li class="span2">
+							<a class="thumbnails" href="http://d11.com.uy" target="_blank">
+								<img class="img-rounded" alt="" src="http://placehold.it/160x160">
+							</a>
+							<div class="caption">
+								<h3>D11</h3>
+							</caption>
+						</li>
+					</ul>
+				</div>
+			</div>	
+		
 	  </div>
 	</div>
 
