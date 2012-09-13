@@ -1,4 +1,4 @@
-nav<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
    <?php require_once("head_meta.php"); ?>
