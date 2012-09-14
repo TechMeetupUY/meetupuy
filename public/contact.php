@@ -38,9 +38,8 @@
 		      </div>
 		      <div class="span4">
 		      	<h2><i class="icon-calendar"></i> Cuándo</h2>
-		      	<p>
-		      		3 de Noviembre de 2012
-		      	</p>
+		      	<p>Sábado, 3 de Noviembre de 2012</p>	
+				<p>Inicio 9:00am</p>	
 		      </div>
 		    </div>	
 		    <div class="row">

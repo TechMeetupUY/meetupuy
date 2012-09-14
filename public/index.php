@@ -43,7 +43,11 @@
 		      <i class="icon-map-marker"></i>
 		    </div>
 			<h2>Dónde</h2>
-			<p>Auditorio de la Torre de las Comunicaciones. Guatemala y Avda. Rondeau. Montevideo, UY</p>	
+			<p>Torre de las Telecomunicaciones
+		          <br>
+		          Av. Rondeau y Guatemala
+		          <br>
+		          Montevideo, UY</p>	
 		  </div>
 		  <div class="span3 bouncy">
 		    <div class="icon_wrapper">
