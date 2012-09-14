@@ -403,3 +403,6 @@ ul.plans {
 .sponsors {
     margin-top: 10px
 }
+.icon-dollar{
+    background-image: '/img/glyphicons_227_usd.png';
+}
