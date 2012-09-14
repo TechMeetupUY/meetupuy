@@ -8,9 +8,9 @@ $pagina = $_SERVER["REQUEST_URI"];
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="/">
-            <img src="/img/tech-meetup-logo-small.png" height="40px">
+            <img src="/img/tech-meetup-logo-small.png" height="70px" alt=TECHmeetup>
           </a>
-          <ul class="nav pull-right">
+          <ul class="nav pull-right" style="margin-top:20px;">
             <!--
             <li class="active"><a href="/">Inicio</a></li>
           -->

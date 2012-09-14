@@ -31,27 +31,39 @@
 	<div id="content" class="txt-middle">
 	  <div class="container">
 	    <div class="row">
-		  <div class="span4 bouncy">
+		  <div class="span3 bouncy">
 		    <div class="icon_wrapper">
 		      <i class="icon-user"></i>
 		    </div>
 			<h2>Audiencia</h2>
-			<p>techMeetup es para todos aquellos interesados en las últimas tecnologías del mundo de desarrolladores.</p>	
+			<p>Todos aquellos interesados en las últimas tecnologías del mundo de desarrolladores.</p>	
 		  </div>
-		  <div class="span4 bouncy">
+		  <div class="span3 bouncy">
 		    <div class="icon_wrapper">
 		      <i class="icon-map-marker"></i>
 		    </div>
 			<h2>Dónde</h2>
-			<p>Auditorio de la Torre de las Comunicaciones. Guatemala y Avda. Rondeau. Montevideo, UY</p>	
+			<p>Torre de las Telecomunicaciones
+		          <br>
+		          Av. Rondeau y Guatemala
+		          <br>
+		          Montevideo, UY</p>	
 		  </div>
-		  <div class="span4 bouncy">
+		  <div class="span3 bouncy">
 		    <div class="icon_wrapper">
 		      <i class="icon-calendar"></i>
 		    </div>
 			<h2>Cuándo</h2>
-			<p>Sábado, 3 de Noviembre de 2012.</p>	
-		  </div>		  
+			<p>Sábado, 3 de Noviembre de 2012</p>	
+			<p>Inicio 9:00am</p>	
+		  </div>
+		  <div class="span3 bouncy">
+                        <div class="icon_wrapper">
+                            <i class="icon-money"></i>
+                        </div>
+			<h2>Cuánto</h2>
+			<p>Precio único $U 400.-</p>	
+		  </div>
 		</div>
 		<hr class="dashed">			
 		<div class="row">
@@ -70,7 +82,7 @@
 			  <img alt="image" src="/img/sponsors/centra.jpg">
 			</a>
 		  </div>
-			<div class="span4">
+	   	  <div class="span4">
 			<a class="thumbnail" href="mailto:info@meetup.uy" target="_blank">
 			  <img alt="image" src="http://placehold.it/300x100&text=Sponsoreá!!">
 			</a>

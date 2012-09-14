@@ -150,12 +150,13 @@ h1, h2, h3, h4, h5, h6 {
 -------------------------------------------------- */
 #landing {
     background: none repeat scroll 0 0 #F1F1F1;
-    padding: 30px 0;
+    padding: 80px 0 40px 0;
 }
 #landing h1 {
     color: #308CCF;
     font-size: 42px;
     line-height: 1;
+	margin-top:22px;
 }
 #landing p {
     color: #17405E;
@@ -204,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
 -------------------------------------------------- */
 #header {
     background: none repeat scroll 0 0 #F1F1F1;
-    padding: 30px 0;
+    padding: 80px 0 30px 0;
 }
 #header h1 {
     color: #308CCF;
@@ -403,3 +404,20 @@ ul.plans {
 .sponsors {
     margin-top: 10px
 }
+
+/* edits D11 */
+.navbar-inner {
+	min-height: 57px;
+}
+ul.navbar {
+	margin-top:20px;
+}
+.navbar .nav > li > a {
+	font-size:18px;
+}
+.navbar .nav > li > a {
+	padding-left:8px;
+	padding-right:8px;
+	margin-left:15px;
+}
+/* fin edits D11 */
