@@ -53,10 +53,10 @@
 			<p>Sábado, 3 de Noviembre de 2012</p>	
 			<p>Inicio 9:00am</p>	
 		  </div>
-		  <div class="span3">
-		    <div heigth='61px' width='220px'>
-		      <img src="/img/glyphicons_227_usd.png">
-		    </div>
+		  <div class="span3 bouncy">
+                        <div class="icon_wrapper">
+                            <i class="icon-money"></i>
+                        </div>
 			<h2>Cuánto</h2>
 			<p>Precio único $U 400.-</p>	
 		  </div>
