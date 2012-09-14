@@ -50,7 +50,8 @@
 		      <i class="icon-calendar"></i>
 		    </div>
 			<h2>Cuándo</h2>
-			<p>Sábado, 3 de Noviembre de 2012.</p>	
+			<p>Sábado, 3 de Noviembre de 2012</p>	
+			<p>Inicio 9:00am</p>	
 		  </div>
 		  <div class="span3">
 		    <div heigth='61px' width='220px'>
@@ -77,6 +78,7 @@
 			  <img alt="image" src="/img/sponsors/centra.jpg">
 			</a>
 		  </div>
+		  <!--
 		  <div class="span4">
 			<a class="thumbnail" href="http://percona.com?ref=meetup.uy" target="_blank">
 			  <img alt="image" src="/img/sponsors/percona.jpg">
@@ -84,6 +86,7 @@
 		  </div>	  
 		</div>	
 		<div class="row sponsors">
+		-->
 			<div class="span4">
 			<a class="thumbnail" href="mailto:info@meetup.uy" target="_blank">
 			  <img alt="image" src="http://placehold.it/300x100&text=esponsoreá!!">
