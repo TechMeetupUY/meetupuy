@@ -105,7 +105,7 @@
 						</li>
 						<li class="span2">
 							<a class="thumbnails" href="http://d11.com.uy" target="_blank">
-								<img class="img-rounded" alt="" src="http://placehold.it/160x160">
+								<img class="img-rounded" alt="" src="/img/apoyan/d11.png">
 							</a>
 							<div class="caption">
 								<h3>D11</h3>
