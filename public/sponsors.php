@@ -36,11 +36,6 @@
 				</li>				
 			    <li>
 				  <div class="feature">
-				    <h4><i class="icon-user"></i> 2 Entradas a la conferencia</h4>
-                  </div>				
-				</li>
-			    <li>
-				  <div class="feature">
 				    <h4><i class="icon-star"></i> Descripción y logo (160x160) en la web.</h4>
                   </div>				
 				</li>			
