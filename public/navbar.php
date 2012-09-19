@@ -13,9 +13,10 @@ $pagina = $_SERVER["REQUEST_URI"];
           <ul class="nav pull-right" style="margin-top:20px;">
             <!--
             <li class="active"><a href="/">Inicio</a></li>
-          -->
             <li class="<?php if($pagina=='/oradores'){ echo 'active'; }; ?>"><a href="oradores">Oradores</a></li>
+            -->
             <li class="<?php if($pagina=='/convocatoria'){ echo 'active'; }; ?>"><a href="convocatoria">Convocatoria</a></li>
+            <!--<li class="<?php if($pagina=='/sponsors'){ echo 'active'; }; ?>"><a href="sponsors">Sponsors</a></li>-->
             <!--<li><a href="inscripcion">Inscripción</a></li>-->
             
             <!--
