@@ -12,14 +12,22 @@
 	  <div class="container">  
 	    <div class="row">
 		  <div class="span12">
-		    <h1>¡Estamos buscando sponsors!</h1>
+		    <h1>¿Querés apoyar la conferencia?</h1>
 		  </div>
 		</div>
 	  </div>
 	</div>
 
 	<div id="content">
-	  <div class="container">			
+	  <div class="container">	
+	  <div class="row">
+	  		<div class="span12">
+	  			<p>
+	  				Hola
+	  			</p>
+	  		</div>
+	  	</div>
+		
 	    <div class="row">
 		  <div class="span4">
             <div class="product-plan">
