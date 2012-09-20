@@ -84,7 +84,7 @@
 			  </div>  
 			</div>
 			<div class="row">
-				<div class="span6 offset3">
+				<div class="span8 offset2">
 					<ul class="thumbnails">
 						<li class="span2">
 							<a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank">
@@ -110,6 +110,12 @@
 							<div class="caption">
 								<h3>D11</h3>
 							</caption>
+						</li>
+                        <li class="span2">
+							<a class="thumbnails" href="mailto:info@meetup.uy">
+								<img class="img-rounded" alt="" src="http://placehold.it/160x160&text=¡Apoyá!">
+							</a>
+
 						</li>
 					</ul>
 				</div>

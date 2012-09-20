@@ -83,7 +83,7 @@
 			</a>
 		  </div>
 	   	  <div class="span4">
-			<a class="thumbnail" href="mailto:info@meetup.uy" target="_blank">
+			<a class="thumbnail" href="/sponsors" target="_blank">
 			  <img alt="image" src="http://placehold.it/300x100&text=Apoyá!!">
 			</a>
 		  </div>	
