@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <div class="price">
-                                        <h3>U$S 500 <small></small></h3>
+                                        <h3>U$S 500 <small>+ imp.</small></h3>
                                     </div>				
                                 </li>				
                                 <li>
@@ -80,7 +80,7 @@
                                 </li>
                                 <li>
                                     <div class="price">
-                                        <h3>U$S 1.000 <small></small></h3>
+                                        <h3>U$S 1.000 <small>+ imp.</small></h3>
                                     </div>				
                                 </li>				
                                 <li>
@@ -126,7 +126,7 @@
                                 </li>
                                 <li>
                                     <div class="price">
-                                        <h3>U$S 2.500 <small></small></h3>
+                                        <h3>U$S 2.500 <small>+ imp.</small></h3>
                                     </div>				
                                 </li>				
                                 <li>
