@@ -48,7 +48,7 @@
                                 </li>				
                                 <li>
                                     <div class="feature">
-                                        <h4><i class="icon-user"></i> 2 Entradas a la conferencia</h4>
+                                        <h4><i class="icon-user"></i> 4 Entradas a la conferencia</h4>
                                     </div>				
                                 </li>
                                 <li>
@@ -85,7 +85,7 @@
                                 </li>				
                                 <li>
                                     <div class="feature">
-                                        <h4><i class="icon-user"></i> 5 Entradas a la conferencia</h4>
+                                        <h4><i class="icon-user"></i> 8 Entradas a la conferencia</h4>
                                     </div>				
                                 </li>
                                 <li>
@@ -131,7 +131,7 @@
                                 </li>				
                                 <li>
                                     <div class="feature">
-                                        <h4><i class="icon-user"></i> 10 Entradas a la conferencia</h4>
+                                        <h4><i class="icon-user"></i> 20 Entradas a la conferencia</h4>
                                     </div>				
                                 </li>
                                 <li>
