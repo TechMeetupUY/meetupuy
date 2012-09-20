@@ -35,7 +35,6 @@
 	                <img alt="" src="/img/organizacion/martin_loy.jpg">	
 					<div class="caption">
 						<h4>Martín Loy</h4>
-						<span>Guruhub</span>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
@@ -49,7 +48,6 @@
 	                <img alt="" src="/img/organizacion/nacho_nin.jpg">	
 					<div class="caption">
 						<h4>Ignacio Nin</h4>
-						<span>Percona</span>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/NachexNachex"><i class="icon-twitter-sign"></i></a>
@@ -63,7 +61,6 @@
 	                <img alt="" src="/img/organizacion/diego_sapriza.jpg">	
 					<div class="caption">
 						<h4>Diego Sapriza</h4>
-						<span>Centra</span>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
