@@ -37,6 +37,7 @@
 					<li>Equipos de trabajo remotos</li>
 					<li>Escalabilidad</li>
 					<li>Control de cambios / Versionamiento</li>
+					<li>Monitoreo</li>
 					<li>...</li>
 				</ul>
 			</p>
