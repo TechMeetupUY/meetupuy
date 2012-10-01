@@ -7,9 +7,9 @@
   <body>
 
     <?php require_once("navbar.php"); ?>
-	
+
 	<div id="header">
-	  <div class="container">  
+	  <div class="container">
 	    <div class="row">
 		  <div class="span12">
 		    <h1>Registrate como orador</h1>
@@ -19,7 +19,7 @@
 	</div>
 
 	<div id="content">
-	  <div class="container">			
+	  <div class="container">
 	    <div class="row">
 	  	  <div class="span4">
 	  	  	<h2>¡Llamado a speakers!</h2>
@@ -27,31 +27,29 @@
 			<p>Con 30 minutos para presentar tus ideas, este evento será muy intenso y dinámico. ¡Preparate para mostrar lo que más te interesa!</p>
 			<p>Enviá tu paper postulándote como speaker para participar de la primera tech.Meetup. Contanos quién sos, qué hacés y contanos la importancia de tu ponencia.</p>
 			<p>Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo.</p>
-			<p>Algunos temas interesantes:
+			<p>Las charlas tendrán como hilo conductor:</p>
+			<p align="center"><big>El proceso de desarrollo.</big></p>
+			<p>Algunos temas:
 		  	  	<ul>
 					<li>Agile / Scrum</li>
-					<li>Integración continua / Unit Testing</li>
-					<li>Websockets</li>
-					<li>HTML5</li>
-					<li>APIs</li>
-					<li>BigData</li>
-					<li>Mobile</li>
-					<li>Gaming</li>
-					<li>Cloud</li>
-					<li>Arduino / Robotica</li>
+					<li>Integración continua</li>
+					<li>TDD</li>
+					<li>Equipos de trabajo remotos</li>
+					<li>Escalabilidad</li>
+					<li>Control de cambios / Versionamiento</li>
 					<li>...</li>
 				</ul>
 			</p>
-			
+
 			<p>Mandanos tu paper completando este formulario.</p>
 	  	  </div>
 	  	  <div class="span7 offset1">
-		  	<iframe 
-		  		src="https://docs.google.com/a/meetup.uy/spreadsheet/embeddedform?formkey=dDA0RFMyTUw1aEZBZWNPTWtUV0U3OHc6MQ" 
-		  		width="460" 
-		  		height="1024" 
-		  		frameborder="0" 
-		  		marginheight="0" 
+		  	<iframe
+		  		src="https://docs.google.com/a/meetup.uy/spreadsheet/embeddedform?formkey=dDA0RFMyTUw1aEZBZWNPTWtUV0U3OHc6MQ"
+		  		width="460"
+		  		height="1024"
+		  		frameborder="0"
+		  		marginheight="0"
 		  		marginwidth="0">
 		  			Cargando...
 		  	</iframe>
@@ -62,12 +60,12 @@
 	</div>
 
 	<?php require_once("footer.php"); ?>
-    
+
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/bootstrap.js"></script>
 	<script src="/js/script.js"></script>
-	
+
   </body>
 </html>
