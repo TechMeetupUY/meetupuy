@@ -68,7 +68,7 @@
                 <hr class="dashed">			
                 <div class="row">
                     <div class="span12">
-                        <h2>Temas</h2>
+                        <h2>Algunos de los temas que trataremos:</h2>
                     </div>
                 </div>	
                 <div class="row sponsors">
