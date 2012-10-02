@@ -28,17 +28,34 @@
 			<p>Enviá tu paper postulándote como speaker para participar de la primera tech.Meetup. Contanos quién sos, qué hacés y contanos la importancia de tu ponencia.</p>
 			<p>Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo.</p>
 			<p>Las charlas tendrán como hilo conductor:</p>
-			<p align="center"><big>El proceso de desarrollo.</big></p>
-			<p>Algunos temas:
+			<p>
 		  	  	<ul>
-					<li>Agile / Scrum</li>
-					<li>Integración continua</li>
-					<li>TDD</li>
-					<li>Equipos de trabajo remotos</li>
-					<li>Escalabilidad</li>
-					<li>Control de cambios / Versionamiento</li>
-					<li>Monitoreo</li>
-					<li>...</li>
+                    <li>    
+                       Proceso de desarrollo
+                        <ul>
+                            <li>Trabajo en equipo / scrum / agile</li>
+                            <li>Integración continua</li>
+                            <li>Review</li>
+                            <li>Continuous delivery</li>
+                            <li>Testing / QA</li>
+                        </ul>
+                    </li>
+					<li>
+                        Infraestructura y producción
+                        <ul>
+                            <li>Monitoreo</li>
+                            <li>Escalamiento y redundancia</li>
+                            <li>Control de cambios / versionamiento</li>
+                            <li>Deployment</li>
+                        </ul>
+                    </li>
+                    <li>
+                        Mesas de discusión
+                        <ul>
+                            <li>Trabajo remoto</li>
+                            <li>Experiencias reales de todo lo anterior junto!</li>
+                        </ul>
+                    </li>
 				</ul>
 			</p>
 
