@@ -128,15 +128,23 @@
                 </div>	
                 <div class="row sponsors">
                     <div class="span4">
-                        <a class="thumbnail" href="http://guruhub.com.uy?ref=meetup.uy" target="_blank">
+                        <a class="thumbnail" href="http://guruhub.com.uy/?ref=meetup.uy" target="_blank">
                             <img alt="image" src="/img/sponsors/guruhub.png">
                         </a>		
                     </div>
                     <div class="span4">
-                        <a class="thumbnail" href="http://centra.com.uy?ref=meetup.uy" target="_blank">
+                        <a class="thumbnail" href="http://centra.com.uy/?ref=meetup.uy" target="_blank">
                             <img alt="image" src="/img/sponsors/centra.jpg">
                         </a>
                     </div>
+                    <div class="span4">
+                        <a class="thumbnail" href="http://case-inc.com/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/case.png">
+                        </a>		
+                    </div>
+                    
+                </div>
+                <div class="row sponsors">
                     <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="http://placehold.it/300x100&text=Apoyá!!">
