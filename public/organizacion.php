@@ -9,7 +9,7 @@
     <?php require_once("navbar.php"); ?>
 
 	<div id="header">
-	  <div class="container">  
+	  <div class="container">
 	    <div class="row">
 		  <div class="span12">
 		    <h1>Organización</h1>
@@ -19,66 +19,79 @@
 	</div>
 
 	<div id="content">
-	  <div class="container">			
+	  <div class="container">
 
         <div class="row">
 		  <div class="span12">
 			<h2 class="txt-middle">El equipo</h2>
-		    <hr class="dashed">				
-		  </div>  
-		</div>		
+		    <hr class="dashed">
+		  </div>
+		</div>
 	    <div class="row">
-		  <div class="span9 offset2">
+		  <div class="span12">
 			  <ul class="thumbnails">
 			    <li class="span3">
-				  <div class="team thumbnail">			  
-	                <img alt="" src="/img/organizacion/martin_loy.jpg">	
+				  <div class="team thumbnail">
+	                <img alt="" src="/img/organizacion/martin_loy.jpg">
 					<div class="caption">
 						<h4>Martín Loy</h4>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
-						  </li>					  
+						  </li>
 						</ul>
 					</div>
-				  </div> 
-				</li>  
+				  </div>
+				</li>
 			    <li class="span3">
-				  <div class="team thumbnail">			  
-	                <img alt="" src="/img/organizacion/nacho_nin.jpg">	
+				  <div class="team thumbnail">
+	                <img alt="" src="/img/organizacion/nacho_nin.jpg">
 					<div class="caption">
 						<h4>Ignacio Nin</h4>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/NachexNachex"><i class="icon-twitter-sign"></i></a>
-						  </li>					  
+						  </li>
 						</ul>
 					</div>
-				  </div> 
+				  </div>
 				</li>
 			    <li class="span3">
-				  <div class="team thumbnail">			  
-	                <img alt="" src="/img/organizacion/diego_sapriza.jpg">	
+				  <div class="team thumbnail">
+	                <img alt="" src="/img/organizacion/diego_sapriza.jpg">
 					<div class="caption">
 						<h4>Diego Sapriza</h4>
 						<ul class="unstyled">
 						  <li>
 						    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
-						  </li>					  
+						  </li>
 						</ul>
 					</div>
-				  </div> 
+				  </div>
 				</li>
-				
+				<li class="span3">
+				  <div class="team thumbnail">
+	                <img alt="" src="/img/organizacion/martinc.jpg">
+					<div class="caption">
+						<h4>Martín Cabrera</h4>
+						<ul class="unstyled">
+						  <li>
+						    <a class="twitter" href="http://twitter.com/martun"><i class="icon-twitter-sign"></i></a>
+						  </li>
+						</ul>
+					</div>
+				  </div>
+				</li>
+
 			  </ul>
 		  </div>
-		</div>	
-		
+		</div>
+
 			<div class="row">
 			  <div class="span12">
 				<h2 class="txt-middle">Nos apoyan</h2>
-			    <hr class="dashed">				
-			  </div>  
+			    <hr class="dashed">
+			  </div>
 			</div>
 			<div class="row">
 				<div class="span8 offset2">
@@ -116,8 +129,8 @@
 						</li>
 					</ul>
 				</div>
-			</div>	
-		
+			</div>
+
 	  </div>
 	</div>
 
@@ -128,6 +141,6 @@
 	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/bootstrap.js"></script>
 	<script src="/js/script.js"></script>
-	
+
   </body>
 </html>
