@@ -37,7 +37,7 @@
 						<h4>Martín Loy</h4>
 						<ul class="unstyled">
 						  <li>
-						    <a class="twitter" href="http://twitter.com/MartinLoy"><i class="icon-twitter-sign"></i></a>
+						    <a class="twitter" href="http://twitter.com/MartinLoy"  target="_blank"><i class="icon-twitter-sign"></i></a>
 						  </li>
 						</ul>
 					</div>
@@ -50,7 +50,7 @@
 						<h4>Ignacio Nin</h4>
 						<ul class="unstyled">
 						  <li>
-						    <a class="twitter" href="http://twitter.com/NachexNachex"><i class="icon-twitter-sign"></i></a>
+						    <a class="twitter" href="http://twitter.com/NachexNachex"  target="_blank"><i class="icon-twitter-sign"></i></a>
 						  </li>
 						</ul>
 					</div>
@@ -63,7 +63,7 @@
 						<h4>Diego Sapriza</h4>
 						<ul class="unstyled">
 						  <li>
-						    <a class="twitter" href="http://twitter.com/AV4TAr"><i class="icon-twitter-sign"></i></a>
+						    <a class="twitter" href="http://twitter.com/AV4TAr"  target="_blank"><i class="icon-twitter-sign"></i></a>
 						  </li>
 						</ul>
 					</div>
@@ -76,7 +76,7 @@
 						<h4>Martín Cabrera</h4>
 						<ul class="unstyled">
 						  <li>
-						    <a class="twitter" href="http://twitter.com/murtun"><i class="icon-twitter-sign"></i></a>
+						    <a class="twitter" href="http://twitter.com/murtun" target="_blank"><i class="icon-twitter-sign"></i></a>
 						  </li>
 						</ul>
 					</div>
