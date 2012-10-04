@@ -76,7 +76,7 @@
 						<h4>Martín Cabrera</h4>
 						<ul class="unstyled">
 						  <li>
-						    <a class="twitter" href="http://twitter.com/martun"><i class="icon-twitter-sign"></i></a>
+						    <a class="twitter" href="http://twitter.com/murtun"><i class="icon-twitter-sign"></i></a>
 						  </li>
 						</ul>
 					</div>
