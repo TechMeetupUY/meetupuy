@@ -94,7 +94,7 @@
 			  </div>
 			</div>
 			<div class="row">
-				<div class="span8 offset2">
+				<div class="span8 offset3">
 					<ul class="thumbnails">
 						<li class="span2">
 							<a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank">
@@ -111,14 +111,6 @@
 							</a>
 							<div class="caption">
 								<h3>Gero</h3>
-							</caption>
-						</li>
-						<li class="span2">
-							<a class="thumbnails" href="http://d11.com.uy" target="_blank">
-								<img class="img-rounded" alt="" src="/img/apoyan/d11.png">
-							</a>
-							<div class="caption">
-								<h3>D11</h3>
 							</caption>
 						</li>
                         <li class="span2">
