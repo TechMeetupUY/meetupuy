@@ -28,7 +28,7 @@
 		  </div>
 		</div>
 	    <div class="row">
-		  <div class="span12 offset2">
+		  <div class="span12 offset130px">
 			  <ul class="thumbnails">
 			    <li class="span3">
 				  <div class="team thumbnail">
