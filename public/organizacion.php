@@ -28,7 +28,7 @@
 		  </div>
 		</div>
 	    <div class="row">
-		  <div class="span12">
+		  <div class="span12 offset2">
 			  <ul class="thumbnails">
 			    <li class="span3">
 				  <div class="team thumbnail">
@@ -69,6 +69,16 @@
 					</div>
 				  </div>
 				</li>
+
+			  </ul>
+		  </div>
+
+		</div>
+
+		<div class="row">
+		  <div class="span6 offset3">
+			  <ul class="thumbnails">
+
 				<li class="span3">
 				  <div class="team thumbnail">
 	                <img alt="" src="/img/organizacion/martinc.jpg">
@@ -82,9 +92,22 @@
 					</div>
 				  </div>
 				</li>
-
+				<li class="span3">
+				  <div class="team thumbnail">
+	                <img alt="" src="/img/organizacion/nicolasb.jpg">
+					<div class="caption">
+						<h4>Nicolás Bianchi</h4>
+						<ul class="unstyled">
+						  <li>
+						    <a class="twitter" href="http://twitter.com/nicobf" target="_blank"><i class="icon-twitter-sign"></i></a>
+						  </li>
+						</ul>
+					</div>
+				  </div>
+				</li>
 			  </ul>
 		  </div>
+
 		</div>
 
 			<div class="row">
