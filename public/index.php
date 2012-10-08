@@ -168,7 +168,7 @@
                     </div>
                     <div class="span4">
                         <a class="thumbnail" href="/sponsors">
-                            <img alt="image" src="http://placehold.it/300x100&text=Apoyá!!">
+                            <img alt="image" src="/img/sponsors/apoya.gif">
                         </a>
                     </div>
                 </div>
