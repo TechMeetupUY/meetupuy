@@ -379,6 +379,10 @@ ul.plans {
 	text-decoration: underline;
 }
 
+.offset130px {
+    margin-left: 130px;
+}
+
 /* Copywrite
 -------------------------------------------------- */
 #copywrite {
