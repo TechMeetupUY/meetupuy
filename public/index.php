@@ -162,6 +162,11 @@
                 </div>
                 <div class="row sponsors">
                     <div class="span4">
+                        <a class="thumbnail" href="http://newcontext.com/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/new-context.png">
+                        </a>
+                    </div>
+                    <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="http://placehold.it/300x100&text=Apoyá!!">
                         </a>
