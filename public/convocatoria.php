@@ -61,7 +61,7 @@
 
 	    <div class="row">
 		  <div class="span8 offset2">
-		  <iframe src='https://eventioz.com.ar/events/meetupuy/registrations/new?iframe=' width='600' height='1800' allowTransparency='false' frameborder='0' scrolling='yes' style='width:500;height:800;border:none'></iframe>
+		  <iframe src='https://eventioz.com.ar/events/meetupuy/registrations/new?iframe=' width='600' height='1800' allowTransparency='false' frameborder='0' scrolling='yes' style='width:600;height:1800;border:none'></iframe>
 
 		  </div>
 		</div>
