@@ -112,7 +112,7 @@
 
 			<div class="row">
 			  <div class="span12">
-				<h2 class="txt-middle">Nos apoyan</h2>
+				<h2 class="txt-middle">Nos apoyan en la organización</h2>
 			    <hr class="dashed">
 			  </div>
 			</div>
@@ -125,7 +125,7 @@
 							</a>
 							<div class="caption">
 								<h3>Pampa</h3>
-							</caption>
+							</div>
 						</li>
 
 						<li class="span2">
@@ -134,7 +134,7 @@
 							</a>
 							<div class="caption">
 								<h3>Gero</h3>
-							</caption>
+							</div>
 						</li>
                         <li class="span2">
 							<a class="thumbnails" href="mailto:info@meetup.uy">

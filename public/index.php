@@ -215,7 +215,22 @@
                         <hr class="dashed">
                     </div>
                 </div>
-
+                <div class="row">
+                    <div class="span12">
+                        <h2>Apoyan</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="span2 offset5">
+                        <ul class="thumbnails">
+                            <li class="span2">
+                                <a class="thumbnail" href="http://cuti.org.uy/?ref=meetup.uy" target="_blank">
+                                    <img alt="" src="/img/apoyan/cuti.png">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
