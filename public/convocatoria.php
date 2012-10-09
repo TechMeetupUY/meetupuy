@@ -48,8 +48,9 @@
 		</div>
 	    <div class="row">
 		  <div class="span8 offset2">
-		  <iframe src="https://docs.google.com/a/meetup.uy/spreadsheet/embeddedform?formkey=dGNaVWdQdEoyT2Q3bXBtNlFRejE0Z1E6MQ"
-		  width="600" height="1300" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+
+		  <iframe src='https://eventioz.com.ar/events/meetupuy/registrations/new?iframe=' width='600' height='1800' allowTransparency='false' frameborder='0' scrolling='yes' style='width:500;height:800;border:none'></iframe>
+
 		  </div>
 		</div>
 	  </div>
