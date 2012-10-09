@@ -66,6 +66,7 @@
                         <p>Red Pagos - Colectivo No: 34264</p>
                     </div>
                 </div>
+                <!--
                 <div class="row">
                     <div class="span12">
                         <div class="callout well">
@@ -79,7 +80,7 @@
                         </div>
                     </div>
                 </div>
-<!--
+            -->
                 <div class="row">
                     <div class="span6">
                         <div class="callout well">
@@ -102,7 +103,6 @@
                         </div>
                     </div>
                 </div>
--->
                 <hr class="dashed">
                 <div class="row">
                     <div class="span12">
