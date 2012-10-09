@@ -51,7 +51,7 @@
 				?>
 		<div class="row">
 		  <div class="span6 offset3 alert alert-info">
-				<p align="center"><strong>¿Querés una beca?</strong> <br/>Completa todos tus datos en el siguiente formulario, al final podes indicar que querés la beca. Luego que lo hagas te contactaremos.</p>
+				<p align="center"><strong><big>¿Querés una beca?</big></strong> <br/>Completa todos tus datos en el siguiente formulario, al final podes indicar que querés la beca. Luego que lo hagas te contactaremos.</p>
 
 		  </div>
 		</div>
