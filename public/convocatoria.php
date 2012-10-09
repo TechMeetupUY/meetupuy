@@ -39,16 +39,28 @@
 	  	  	<?php require_once 'cuadro_speakers.php'; ?>
 	  	  </div>
 		</div>
+<hr class="dashed">
 
         <div class="row">
-		  <div class="span12">
-		  	<hr class="dashed">
+		  <div class="span8 offset2 ">
 			<h2 class="txt-middle">Llena este formulario para inscribirte.</h2>
 		  </div>
 		</div>
+		<?php
+				if(isset($_GET['beca'])){
+				?>
+		<div class="row">
+		  <div class="span6 offset3 alert alert-info">
+				<p align="center"><strong>¿Querés una beca?</strong> <br/>Completa todos tus datos en el siguiente formulario, al final podes indicar que querés la beca. Luego que lo hagas te contactaremos.</p>
+
+		  </div>
+		</div>
+		<?php
+				}
+			?>
+
 	    <div class="row">
 		  <div class="span8 offset2">
-
 		  <iframe src='https://eventioz.com.ar/events/meetupuy/registrations/new?iframe=' width='600' height='1800' allowTransparency='false' frameborder='0' scrolling='yes' style='width:500;height:800;border:none'></iframe>
 
 		  </div>

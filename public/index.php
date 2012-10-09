@@ -96,7 +96,7 @@
                         <div class="callout well">
                             <h2>Si sos estudiante...</h2>
                             <p>y querés una beca, llená el siguiente formulario.</p>
-                            <a class="btn btn-primary btn-warning btn-large" href="/convocatoria">
+                            <a class="btn btn-primary btn-warning btn-large" href="/convocatoria?beca">
                                 Quiero una beca.
                                 <i class="icon-arrow-right"></i>
                             </a>
