@@ -220,12 +220,18 @@
                         <h2>Apoyan</h2>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="span2 offset5">
+                <div class="row apoyan" style="padding-top: 10px;">
+                    <div class="span4 offset4">
                         <ul class="thumbnails">
                             <li class="span2">
                                 <a class="thumbnail" href="http://cuti.org.uy/?ref=meetup.uy" target="_blank">
                                     <img alt="" src="/img/apoyan/cuti.png">
+                                </a>
+                            </li>
+
+                            <li class="span2">
+                                <a class="thumbnail" href="http://montevideovalley.com/?ref=meetup.uy" target="_blank">
+                                    <img alt="" src="/img/apoyan/montevideovalley.png">
                                 </a>
                             </li>
                         </ul>
