@@ -11,11 +11,11 @@
         <div id="landing">
             <div class="container">
                 <div class="row">
-                    <div class="span10 offset1" style="text-align:center;">
+                    <div class="span8 offset2" style="text-align:center;">
                         <p>
                             <img src="/img/tech-meetup-logo-big.png">
                         </p>
-                        <h1>Bienvenidos a la primer conferencia para desarrolladores en Uruguay.</h1>
+                        <h1>conferencia para y por desarrolladores, Bienvenidos.</h1>
 
 <!-- <p><a href="#" class="btn btn-primary btn-action">Get Started Now</a></p>  -->
                     </div>
@@ -202,6 +202,11 @@
                     <div class="span4">
                         <a class="thumbnail" href="http://newcontext.com/?ref=meetup.uy" target="_blank">
                             <img alt="image" src="/img/sponsors/new-context.png">
+                        </a>
+                    </div>
+                    <div class="span4">
+                        <a class="thumbnail" href="http://www.pyxisportal.com/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/pyxis.png">
                         </a>
                     </div>
                     <div class="span4">
