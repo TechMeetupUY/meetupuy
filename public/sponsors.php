@@ -59,7 +59,7 @@
                                 </li>
                                 <li>
                                     <div class="feature">
-                                        <h4><i class="icon-eye-open"></i> Un roll-up banner en el hall mientras dure la conferencia.</h4>
+                                        <h4><i class="icon-eye-open"></i> Un roll-up banner en el hall mientras dure la conferencia.*</h4>
                                     </div>
                                 </li>
                                 <li>
@@ -79,6 +79,7 @@
                                 </li>
                             </ul>
                         </div>
+                        <p><small>* El roll-up banner lo proporcionará el sponsor.</small></p>
                     </div>
 
                 </div>

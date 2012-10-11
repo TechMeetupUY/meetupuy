@@ -210,6 +210,13 @@
                         </a>
                     </div>
                     <div class="span4">
+                        <a class="thumbnail" href="http://farm.co/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/farmco.jpg">
+                        </a>
+                    </div>
+                </div>
+                <div class="row sponsors">
+                    <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="/img/sponsors/apoya.gif">
                         </a>
