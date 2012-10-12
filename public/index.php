@@ -217,6 +217,11 @@
                 </div>
                 <div class="row sponsors">
                     <div class="span4">
+                        <a class="thumbnail" href="http://www.anii.org.uy/web/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/anii.png">
+                        </a>
+                    </div>
+                    <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="/img/sponsors/apoya.gif">
                         </a>
