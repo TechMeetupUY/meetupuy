@@ -222,6 +222,11 @@
                         </a>
                     </div>
                     <div class="span4">
+                        <a class="thumbnail" href="http://uruit.com/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/uruit.png">
+                        </a>
+                    </div>
+                    <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="/img/sponsors/apoya.gif">
                         </a>
