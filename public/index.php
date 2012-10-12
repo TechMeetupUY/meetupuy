@@ -243,14 +243,18 @@
                     </div>
                 </div>
                 <div class="row apoyan" style="padding-top: 10px;">
-                    <div class="span4 offset4">
+                    <div class="span6 offset3">
                         <ul class="thumbnails">
                             <li class="span2">
                                 <a class="thumbnail" href="http://cuti.org.uy/?ref=meetup.uy" target="_blank">
                                     <img alt="" src="/img/apoyan/cuti.png">
                                 </a>
                             </li>
-
+                            <li class="span2">
+                                <a class="thumbnail" href="http://latu21.latu.org.uy/ingenio/" target="_blank">
+                                    <img alt="" src="/img/apoyan/ingenio.png">
+                                </a>
+                            </li>
                             <li class="span2">
                                 <a class="thumbnail" href="http://montevideovalley.com/?ref=meetup.uy" target="_blank">
                                     <img alt="" src="/img/apoyan/montevideovalley.png">
