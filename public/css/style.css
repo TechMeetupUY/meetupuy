@@ -383,6 +383,11 @@ ul.plans {
     margin-left: 130px;
 }
 
+.lista-oradores .sub a{
+    font-size:15px;
+    text-decoration:none;
+}
+
 /* Copywrite
 -------------------------------------------------- */
 #copywrite {
