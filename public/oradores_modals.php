@@ -174,6 +174,10 @@
 	   	</div>
 	   	<div class="span4">
 	   		<p>
+                Fernando trabaja como Consultor Senior para Percona. Antes de unierse a Percona, trabajó como contratista para varias instituciones de servicios financieros, empresas de telecomunicaciones y los proveedores de tecnología más pequeñas.
+            </p>
+            </p>
+        Durante ese período, adquirió experiencia en el manejo diferentes sistemas de tipo UNIX, el desarrollo o la mejora de software tolerante a fallos, y la gestión de equipos pequeños de personas técnicamente capacitadas.
 	   		</p>
 	   	</div>
 	   </div>
