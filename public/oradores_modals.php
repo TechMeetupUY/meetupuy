@@ -99,3 +99,83 @@
 	   </div>
       </div>
     </div>
+
+    <div class="modal hide fade" id="silvaModal">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Fede Silva - <a href="https://twitter.com/fedesilva">@fedesilva</a></h3>
+      </div>
+      <div class="modal-body">
+	   <div class="row">
+	   	<div class="span2">
+	   		<div class="thumbnail">
+	   			<img alt="" src="/img/oradores/fede_silva.jpg">
+	   		</div>
+	   	</div>
+	   	<div class="span4">
+	   		<p>
+	   		</p>
+	   	</div>
+	   </div>
+      </div>
+    </div>
+
+    <div class="modal hide fade" id="morenoModal">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Fede Silva - <a href="https://twitter.com/kernelp4nic">@kernelp4nic</a></h3>
+      </div>
+      <div class="modal-body">
+	   <div class="row">
+	   	<div class="span2">
+	   		<div class="thumbnail">
+	   			<img alt="" src="/img/oradores/sebastian_moreno.jpg">
+	   		</div>
+	   	</div>
+	   	<div class="span4">
+	   		<p>
+	   		</p>
+	   	</div>
+	   </div>
+      </div>
+    </div>
+
+    <div class="modal hide fade" id="sanguinettiModal">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Nicolás Sanguinetti - <a href="https://twitter.com/godfoca">@godfoca</a></h3>
+      </div>
+      <div class="modal-body">
+	   <div class="row">
+	   	<div class="span2">
+	   		<div class="thumbnail">
+	   			<img alt="" src="/img/oradores/nicolas_sanguinetti.jpg">
+	   		</div>
+	   	</div>
+	   	<div class="span4">
+	   		<p>
+	   		</p>
+	   	</div>
+	   </div>
+      </div>
+    </div>
+
+    <div class="modal hide fade" id="iparModal">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Fernando Ipar - <a href="http://fernandoipar.com/">fernandoipar.com</a></h3>
+      </div>
+      <div class="modal-body">
+	   <div class="row">
+	   	<div class="span2">
+	   		<div class="thumbnail">
+	   			<img alt="" src="/img/oradores/fernando_ipar.jpg">
+	   		</div>
+	   	</div>
+	   	<div class="span4">
+	   		<p>
+	   		</p>
+	   	</div>
+	   </div>
+      </div>
+    </div>
