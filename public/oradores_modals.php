@@ -14,6 +14,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/enriqueb_square.jpg">
                 </div>
+                <p>Trabajo en equipo.</p>
             </div>
             <div class="span4">
                 <p>
@@ -57,6 +58,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/ledesma_square.jpg">
                 </div>
+                <p>Agile / Scrum.</p>
             </div>
             <div class="span4">
                 <p>
@@ -87,6 +89,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/maximiliano_firtman.jpg">
                 </div>
+                <p>Mobile / HTML5.</p>
             </div>
             <div class="span4">
                 <p>
@@ -118,6 +121,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/fede_silva.jpg">
                 </div>
+                <p>CI + Vagrant.</p>
             </div>
             <div class="span4">
                 <p>
@@ -137,7 +141,7 @@
 <div class="modal hide fade" id="morenoModal">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
-        <h3>Fede Silva - <a href="https://twitter.com/kernelp4nic" target="_blank">@kernelp4nic</a></h3>
+        <h3>Sebastián Moreno - <a href="https://twitter.com/kernelp4nic" target="_blank">@kernelp4nic</a></h3>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -145,6 +149,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/sebastian_moreno.jpg">
                 </div>
+                <p>CI + Vagrant.</p>
             </div>
             <div class="span4">
                 <p>
@@ -165,6 +170,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/nicolas_sanguinetti.jpg">
                 </div>
+                <p>Deploy + Git.</p>
             </div>
             <div class="span4">
                 <p>
@@ -221,6 +227,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/adrian.jpg">
                 </div>
+                <p>CI + Review.</p>
             </div>
             <div class="span4">
                 <p>
@@ -249,6 +256,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/gian.jpg">
                 </div>
+                <p>CI + Review.</p>
             </div>
             <div class="span4">
                 <p>
@@ -276,6 +284,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/gonzalo.jpg">
                 </div>
+                <p>CI + Review.</p>
             </div>
             <div class="span4">
                 <p>
