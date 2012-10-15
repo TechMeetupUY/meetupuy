@@ -17,23 +17,30 @@
             </div>
             <div class="span4">
                 <p>
-                    <strong>Enrique Baliño es Socio fundador de Xn Consultores.</strong> Como consultor de la firma, diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa.
+                    <strong>Enrique Baliño es Socio fundador de Xn Consultores.</strong> Como consultor de la firma,
+                    diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional
+                    basado en Indagación Apreciativa.
                 </p>
                 <p>
-                    <strong>Con frecuencia es invitado a participar de conferencias para organizaciones y empresas de diversos países</strong>, sobre temas de Liderazgo, Actitudes y Éxito, entre otras.
+                    <strong>Con frecuencia es invitado a participar de conferencias para organizaciones y empresas de
+                        diversos países</strong>, sobre temas de Liderazgo, Actitudes y Éxito, entre otras.
                 </p>
                 <p>
-                    <strong>Tuvo una extensa y destacada actividad en IBM. Fue Presidente y Gerente General de IBM Uruguay</strong>; Director de Satisfacción de Clientes, Director de Sector Público para IBM Latinoamérica; Presidente y Gerente General de IBM Latinoamérica Sur.
+                    <strong>Tuvo una extensa y destacada actividad en IBM. Fue Presidente y Gerente General de IBM Uruguay</strong>;
+                    Director de Satisfacción de Clientes, Director de Sector Público para IBM Latinoamérica; Presidente y Gerente
+                    General de IBM Latinoamérica Sur.
                 </p>
                 <p>
-                <stong>Es miembro del directorio de ISBEL y T2Voice.</strong>
-                    </p>
-                    <p>
-                    <stong>Es Ingeniero de Sistemas graduado en la Universidad de la República (Uruguay).</stong> Ha obtenido educación ejecutiva en la Universidad de Carnegie Mellon, Pittsburgh y la Universidad de Columbia, New York, en Estados Unidos.
-                    </p>
-                    <p>
-                    <stong>En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing</stong>, unidad editorial y de contenidos de Xn Consultores.
-                    </p>
+                    <stong>Es miembro del directorio de ISBEL y T2Voice.</strong>
+                </p>
+                <p>
+                    <stong>Es Ingeniero de Sistemas graduado en la Universidad de la República (Uruguay).</stong> Ha obtenido
+                    educación ejecutiva en la Universidad de Carnegie Mellon, Pittsburgh y la Universidad de Columbia, New York, en Estados Unidos.
+                </p>
+                <p>
+                    <stong>En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing</stong>,
+                    unidad editorial y de contenidos de Xn Consultores.
+                </p>
             </div>
         </div>
     </div>
@@ -114,6 +121,13 @@
             </div>
             <div class="span4">
                 <p>
+                    Cuando Dios hizo apt-get install earth, los paquetes los había armado Fede Silva.
+                </p>
+                <p>
+                    Fede actualmente se emplea como <i>multi-purpose hacker</i> en inconcert.cc, en donde está a cargo de la infrastructura de Continuous Integration.
+                </p>
+                <p>
+                    Era fan de scala antes que saliera en el noticiero y por eso programó el sistema de carga distribuida de la empresa usando akka.
                 </p>
             </div>
         </div>
@@ -183,10 +197,13 @@
             </div>
             <div class="span4">
                 <p>
-                    Fernando trabaja como Consultor Senior para Percona. Antes de unierse a Percona, trabajó como contratista para varias instituciones de servicios financieros, empresas de telecomunicaciones y los proveedores de tecnología más pequeñas.
+                    Fernando trabaja como Consultor Senior para Percona. Antes de unierse a Percona, trabajó como
+                    contratista para varias instituciones de servicios financieros, empresas de telecomunicaciones
+                    y los proveedores de tecnología más pequeñas.
                 </p>
                 </p>
-                Durante ese período, adquirió experiencia en el manejo diferentes sistemas de tipo UNIX, el desarrollo o la mejora de software tolerante a fallos, y la gestión de equipos pequeños de personas técnicamente capacitadas.
+                Durante ese período, adquirió experiencia en el manejo diferentes sistemas de tipo UNIX, el desarrollo
+                o la mejora de software tolerante a fallos, y la gestión de equipos pequeños de personas técnicamente capacitadas.
                 </p>
             </div>
         </div>
@@ -207,11 +224,14 @@
             </div>
             <div class="span4">
                 <p>
-                    Es un estudiante de ingeniería en FING finalizando la carrera. En este momento se encuentra desarrollando aplicaciones web con el lenguaje de programación Ruby utilizando tecnologías como Ruby On Rails, Sinatra, Sidekiq, etc.
+                    Es un estudiante de ingeniería en FING finalizando la carrera. En este momento se encuentra
+                    desarrollando aplicaciones web con el lenguaje de programación Ruby utilizando tecnologías como
+                    Ruby On Rails, Sinatra, Sidekiq, etc.
                 </p>
                 <p>
-                    Le interesan todas las áreas que abarcan el desarrollo de aplicaciones, ya sean infraestructura, diseño de interfaces graficas, programación (entre otras). Siempre esta dispuesto a embarcarse en nuevos desafíos y sobre todo aprender cosas nuevas.
-
+                    Le interesan todas las áreas que abarcan el desarrollo de aplicaciones, ya sean infraestructura,
+                    diseño de interfaces graficas, programación (entre otras). Siempre esta dispuesto a embarcarse en
+                    nuevos desafíos y sobre todo aprender cosas nuevas.
                 </p>
             </div>
         </div>
