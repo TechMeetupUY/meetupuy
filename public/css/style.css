@@ -433,6 +433,8 @@ ul.navbar {
 
 .badge {
     -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     position: absolute;
     text-decoration: none;
     width: 200px;
