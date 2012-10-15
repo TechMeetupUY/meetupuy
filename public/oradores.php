@@ -47,19 +47,22 @@
 
 		<div class="row">
 		    <div class="span4">
-				<div class="thumbnail">
+				<div class="thumbnail badge-inside">
+                                  <span class="badge blue">Alpha</span> 
 				  <img alt="image" src="/img/oradores/sebastian_moreno.jpg">
 				</div>
 				<h2 class="sub">Sebastián Moreno <a data-toggle="modal" href="#morenoModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
 		 	</div>
 		    <div class="span4">
-				<div class="thumbnail">
-				  <img alt="image" src="/img/oradores/nicolas_sanguinetti.jpg">
+				<div class="thumbnail badge-inside">
+                                    <span class="badge green">Beta</span> 
+                                    <img alt="image" src="/img/oradores/nicolas_sanguinetti.jpg">
 				</div>
 				<h2 class="sub">Nicolás Sanguinetti <a data-toggle="modal" href="#sanguinettiModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
 		 	</div>
 		 	<div class="span4">
-				<div class="thumbnail">
+				<div class="thumbnail badge-inside">
+                                  <span class="badge orange">Invitado</span>  
 				  <img alt="image" src="/img/oradores/maximiliano_firtman.jpg">
 				</div>
 				<h2 class="sub">Maximiliano Firtman <a data-toggle="modal" href="#firtmanModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
