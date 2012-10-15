@@ -82,7 +82,30 @@
 				<h2 class="sub">Fernando Ipar <a data-toggle="modal" href="#iparModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                 <!-- <p>Percona</p> -->
 		 	</div>
-
+            <div class="span4">
+				<div class="thumbnail">
+				  <a data-toggle="modal" href="#gomenzModal"><img alt="image" src="/img/oradores/adrian.jpg"></a>
+				</div>
+				<h2 class="sub">Adrian Gomenz <a data-toggle="modal" href="#gomenzModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                <!-- <p>Moove IT</p> -->
+		 	</div>
+            <div class="span4">
+				<div class="thumbnail">
+				  <a data-toggle="modal" href="#zasModal"><img alt="image" src="/img/oradores/gian.jpg"></a>
+				</div>
+				<h2 class="sub">Gianfranco Zas <a data-toggle="modal" href="#zasModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                <!-- <p>Moove IT</p> -->
+		 	</div>
+        </div>
+        <hr class="dashed">
+        <div class="row">
+            <div class="span4">
+				<div class="thumbnail">
+				  <a data-toggle="modal" href="#arrecheModal"><img alt="image" src="/img/oradores/gonzalo.jpg"></a>
+				</div>
+				<h2 class="sub">Gonzalo Arreche <a data-toggle="modal" href="#arrecheModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                <!-- <p>Moove IT</p> -->
+		 	</div>
 		  <div class="span4">
 			<div class="thumbnail">
 			  <img alt="image" src="http://placehold.it/300x300&text=:)">
