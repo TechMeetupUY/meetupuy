@@ -12,7 +12,7 @@
 	  <div class="container">
 	    <div class="row">
 		  <div class="span12">
-		    <h1>Nuestros oradores</h1>
+		    <h1>Algunos de nuestros oradores:</h1>
 		  </div>
 		</div>
 	  </div>
