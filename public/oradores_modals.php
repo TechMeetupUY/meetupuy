@@ -68,3 +68,34 @@
 	   </div>
       </div>
     </div>
+
+	<div class="modal hide fade" id="firtmanModal">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Maximiliano firtman - <a href="https://twitter.com/firt">@firt</a></h3>
+      </div>
+      <div class="modal-body">
+	   <div class="row">
+	   	<div class="span2">
+	   		<div class="thumbnail">
+	   			<img alt="" src="/img/oradores/maximiliano_firtman.jpg">
+	   		</div>
+	   	</div>
+	   	<div class="span4">
+	   		<p>
+	   			Es desarrollador móvil en plataformas nativas y últimamente especializado en mobile HTML5.
+            </p>
+            <p>
+                Es director y profesor certificado en ITMaster, y autor de varios <a href="http://firt.mobi/books.php" target="_blank">libros</a> en español e inglés, incluyendo "AJAX con jQuery para profesionales" de Alfaomega, "Programming the Mobile Web" y "jQuery Mobile" de O'Reilly Media.
+            </p>
+            <p>
+                Fue reconocido como Adobe Community Profesional y Nokia Developer Champion y ha creado proyectos como <a href="http://www.mobilehtml5.org" target="_blank">mobilehtml5.org</a> y <a href="http://iwebinspector.com"  target="_blank">iwebinspector.com</a>.
+            </p>
+            <p>
+                Ha participado como speaker en latinoamérica (MobileCamp, Adobe en Vivo), Estados Unidos (Velocity, OSCON, Breaking Development) y Europa (QCon London, toster.moscow, GOTO), entre otras.
+			</p>
+            <p><a href="http://firt.mobi" target="_blank">http://firt.mobi</a></p>
+	   	</div>
+	   </div>
+      </div>
+    </div>
