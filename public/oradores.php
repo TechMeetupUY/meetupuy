@@ -88,9 +88,6 @@
 			  <img alt="image" src="http://placehold.it/300x300&text=:)">
 			</div>
 			<h2 class="sub">Tu nombre!!!</h2>
-			<p>
-				Todos tienen la oportunidad de presentarse por igual, porque entendemos que sin ideas nuevas no hay desarrollo. <a href="/registro_orador">Registrate como orador</a> y te tendremos en cuenta en la selección.
-			</p>
 		  </div>
 		</div>
 
