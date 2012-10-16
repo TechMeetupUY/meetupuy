@@ -500,3 +500,7 @@ ul.navbar {
     overflow: hidden; 
     position: relative
 }
+
+.github-fork-ribbon-wrapper {
+    z-index: 1031;
+}
