@@ -234,6 +234,12 @@
                 </div>
                 <div class="row sponsors">
                     <div class="span4">
+                        <a class="thumbnail" href="http://ingsw.com/?ref=meetup.uy" target="_blank">
+                            <img alt="image" src="/img/sponsors/ingsw.png">
+                        </a>
+                    </div>
+
+                    <div class="span4">
                         <a class="thumbnail" href="/sponsors">
                             <img alt="image" src="/img/sponsors/apoya.gif">
                         </a>
