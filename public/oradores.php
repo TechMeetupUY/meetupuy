@@ -20,6 +20,11 @@
 
 	<div id="content" class="lista-oradores">
 	  <div class="container">
+          <div class="row">
+              <div class="span12">
+                <p>* Aún hay tiempo hasta el 20/10 para enviarnos tu propuesta, por lo que la lista de speakers no es la final!.</p>
+              </div>
+          </div>
 	    <div class="row">
 
 		  <div class="span4">
