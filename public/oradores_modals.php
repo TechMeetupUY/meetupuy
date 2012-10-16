@@ -32,16 +32,16 @@
                     General de IBM Latinoamérica Sur.
                 </p>
                 <p>
-                    <stong>Es miembro del directorio de ISBEL y T2Voice.</strong>
-                </p>
-                <p>
+                <stong>Es miembro del directorio de ISBEL y T2Voice.</strong>
+                    </p>
+                    <p>
                     <stong>Es Ingeniero de Sistemas graduado en la Universidad de la República (Uruguay).</stong> Ha obtenido
                     educación ejecutiva en la Universidad de Carnegie Mellon, Pittsburgh y la Universidad de Columbia, New York, en Estados Unidos.
-                </p>
-                <p>
+                    </p>
+                    <p>
                     <stong>En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing</stong>,
                     unidad editorial y de contenidos de Xn Consultores.
-                </p>
+                    </p>
             </div>
         </div>
     </div>
@@ -153,6 +153,18 @@
             </div>
             <div class="span4">
                 <p>
+                    Con 16 años entendió que su pasión eran las computadoras y todo lo que las rodeaba, por eso fué a realizar un tramite para sacar un permiso y ponerse a trabajar en eso.
+                    Empezó con administración de sistemas, como muchos otros, y entendió que era lo que ocurría atrás del escenario.
+                    En poco tiempo estaba a cargo del soporte (on-site) de un hotel 5 estrellas en punta del este.
+                </p>
+                <p>
+                    Un par de años luego se dió cuenta que era momento de aprender otra cosa, así que se fué a inConcert (especialistas en callcenter y voz sobre ip), como sysadmin y al ver la cantidad de increíbles developers que había allí quiso aprender a programar.
+                </p>
+                <p>
+                    Hoy en día, se encarga de toda la infraestructura interna de inConcert, y también programa javascript(front-end)/lua(back-end)/python-selenium(testing).
+                </p>
+                <p>
+                    La cualidad que más lo identifica es las ganas de aprender cosas nuevas.
                 </p>
             </div>
         </div>
