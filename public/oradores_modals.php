@@ -14,7 +14,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/enriqueb_square.jpg">
                 </div>
-                <p>Trabajo en equipo.</p>
             </div>
             <div class="span4">
                 <p>
@@ -51,6 +50,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gabriel Ledesma - <a href="https://twitter.com/gafaled" target="_blank">@gafaled</a></h3>
+        <h4>Agile / Scrum.</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -58,7 +58,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/ledesma_square.jpg">
                 </div>
-                <p>Agile / Scrum.</p>
+
             </div>
             <div class="span4">
                 <p>
@@ -82,6 +82,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Maximiliano firtman - <a href="https://twitter.com/firt" target="_blank">@firt</a></h3>
+        <h4>Mobile / HTML5.</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -89,7 +90,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/maximiliano_firtman.jpg">
                 </div>
-                <p>Mobile / HTML5.</p>
             </div>
             <div class="span4">
                 <p>
@@ -114,6 +114,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Fede Silva - <a href="https://twitter.com/fedesilva" target="_blank">@fedesilva</a></h3>
+        <h4>Continuous Improvement - o cómo poner los robots de tu lado</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -121,7 +122,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/fede_silva.jpg">
                 </div>
-                <p>Continuos Integration / Deployment</p>
             </div>
             <div class="span4">
                 <p>
@@ -142,6 +142,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Sebastián Moreno - <a href="https://twitter.com/kernelp4nic" target="_blank">@kernelp4nic</a></h3>
+        <h4>Continuous Improvement - o cómo poner los robots de tu lado</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -149,7 +150,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/sebastian_moreno.jpg">
                 </div>
-                <p>Continuos Integration / Deployment</p>
             </div>
             <div class="span4">
                 <p>
@@ -175,6 +175,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Nicolás Sanguinetti - <a href="https://twitter.com/godfoca" target="_blank">@godfoca</a></h3>
+        <h4>Deployment en Github</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -182,7 +183,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/nicolas_sanguinetti.jpg">
                 </div>
-                <p>Deploy + Git.</p>
+
             </div>
             <div class="span4">
                 <p>
@@ -205,7 +206,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Fernando Ipar - <a href="http://fernandoipar.com/" target="_blank">fernandoipar.com</a></h3>
-
+        <h4>Deploy con Vagrant</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -213,7 +214,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/fernando_ipar.jpg">
                 </div>
-                <p>Deploy con Vagrant</p>
+
             </div>
             <div class="span4">
                 <p>
@@ -234,7 +235,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Adrian Gomez</h3>
-
+        <h4>CI + Review</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -242,7 +243,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/adrian.jpg">
                 </div>
-                <p>CI + Review</p>
+
             </div>
             <div class="span4">
                 <p>
@@ -264,7 +265,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gianfranco Zas - <a href="http://twitter.com/snmgian" target="_blank">@snmgian</a></h3>
-
+        <h4>CI + Review</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -272,7 +273,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/gian.jpg">
                 </div>
-                <p>CI + Review</p>
             </div>
             <div class="span4">
                 <p>
@@ -293,7 +293,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gonzalo Arreche - <a href="http://twitter.com/grilix" target="_blank">@grilix</a></h3>
-
+        <h4>CI + Review</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -301,7 +301,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/gonzalo.jpg">
                 </div>
-                <p>CI + Review.</p>
             </div>
             <div class="span4">
                 <p>
@@ -319,7 +318,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Máximo Martinez - <a href="http://twitter.com/MaxMz" target="_blank">@MaxMz</a></h3>
-        <p>Desarrollo mobile con Mono</p>
+        <h4>Desarrollo mobile con Mono</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -327,7 +326,6 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/maximo_martinez.jpg">
                 </div>
-                <p>Desarrollo mobile con Mono</p>
             </div>
             <div class="span4">
                 <p>
