@@ -121,7 +121,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/fede_silva.jpg">
                 </div>
-                <p>CI + Vagrant.</p>
+                <p>Continuos Integration / Deployment</p>
             </div>
             <div class="span4">
                 <p>
@@ -149,7 +149,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/sebastian_moreno.jpg">
                 </div>
-                <p>CI + Vagrant.</p>
+                <p>Continuos Integration / Deployment</p>
             </div>
             <div class="span4">
                 <p>
@@ -205,6 +205,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Fernando Ipar - <a href="http://fernandoipar.com/" target="_blank">fernandoipar.com</a></h3>
+
     </div>
     <div class="modal-body">
         <div class="row">
@@ -212,6 +213,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/fernando_ipar.jpg">
                 </div>
+                <p>Deploy con Vagrant</p>
             </div>
             <div class="span4">
                 <p>
@@ -228,10 +230,11 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="gomenzModal">
+<div class="modal hide fade" id="gomezModal">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
-        <h3>Adrian Gomenz</h3>
+        <h3>Adrian Gomez</h3>
+
     </div>
     <div class="modal-body">
         <div class="row">
@@ -239,7 +242,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/adrian.jpg">
                 </div>
-                <p>CI + Review.</p>
+                <p>CI + Review</p>
             </div>
             <div class="span4">
                 <p>
@@ -261,6 +264,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gianfranco Zas - <a href="http://twitter.com/snmgian" target="_blank">@snmgian</a></h3>
+
     </div>
     <div class="modal-body">
         <div class="row">
@@ -268,7 +272,7 @@
                 <div class="thumbnail">
                     <img alt="" src="/img/oradores/gian.jpg">
                 </div>
-                <p>CI + Review.</p>
+                <p>CI + Review</p>
             </div>
             <div class="span4">
                 <p>
@@ -289,6 +293,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gonzalo Arreche - <a href="http://twitter.com/grilix" target="_blank">@grilix</a></h3>
+
     </div>
     <div class="modal-body">
         <div class="row">
@@ -314,6 +319,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Máximo Martinez - <a href="http://twitter.com/MaxMz" target="_blank">@MaxMz</a></h3>
+        <p>Desarrollo mobile con Mono</p>
     </div>
     <div class="modal-body">
         <div class="row">

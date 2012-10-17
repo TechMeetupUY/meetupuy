@@ -14,7 +14,7 @@ $pagina = $_SERVER["REQUEST_URI"];
             <!--
             <li class="active"><a href="/">Inicio</a></li>
             -->
-            <li class="<?php if($pagina=='/oradores'){ echo 'active'; }; ?>"><a href="oradores">Oradores</a></li>
+            <!-- <li class="<?php if($pagina=='/oradores'){ echo 'active'; }; ?>"><a href="oradores">Oradores</a></li> -->
             <li class="<?php if($pagina=='/convocatoria'){ echo 'active'; }; ?>"><a href="convocatoria">Registrate!</a></li>
             <li class="<?php if($pagina=='/sponsors'){ echo 'active'; }; ?>"><a href="sponsors">Auspicio</a></li>
             <!--<li><a href="inscripcion">Inscripción</a></li>-->
