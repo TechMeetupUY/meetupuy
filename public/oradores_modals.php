@@ -309,3 +309,29 @@
         </div>
     </div>
 </div>
+
+<div class="modal hide fade" id="martinezModal">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Máximo Martinez - <a href="http://twitter.com/MaxMz" target="_blank">@MaxMz</a></h3>
+    </div>
+    <div class="modal-body">
+        <div class="row">
+            <div class="span2">
+                <div class="thumbnail">
+                    <img alt="" src="/img/oradores/maximo_martinez.jpg">
+                </div>
+                <p>Desarrollo mobile con Mono</p>
+            </div>
+            <div class="span4">
+                <p>
+                    Max pasó 3 años desarrollando componentes .Net antes de decidir cambiar de imperio y empezar a trabajar en apps para iPhone.
+                </p>
+                <p>Actualmente es parte de <a href="http://paganza.com" target=_blank>Paganza</a> y Outbox donde desarrolla para iPhone, Android, Kinect y cualquier otra plataforma que parezca interesante.</p>
+                <p>
+                    Cuando no esta frente de una computadora se lo puede encontrar con un control de XBox o colgado de un ala delta.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

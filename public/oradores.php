@@ -68,9 +68,9 @@
 		    <div class="span4">
 				<div class="thumbnail badge-inside">
                     <!--<span class="badge green">Beta</span> -->
-                    <a data-toggle="modal" href="#sanguinettiModal"><img alt="image" src="/img/oradores/nicolas_sanguinetti.jpg"></a>
+                    <a data-toggle="modal" href="#martinezModal"><img alt="image" src="/img/oradores/maximo_martinez.jpg"></a>
 				</div>
-				<h2 class="sub">Nicolás Sanguinetti <a data-toggle="modal" href="#sanguinettiModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+				<h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinezModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                 <!-- <p>Github</p> -->
 		 	</div>
 		 	<div class="span4">
