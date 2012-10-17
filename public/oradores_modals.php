@@ -62,7 +62,7 @@
             </div>
             <div class="span4">
                 <p>
-                    Gabriel es egresado de la Universidad ORT, tiene más de 15 años de experiencia en la industria del desarrollo de software. De los cuáles 11 los dedicó a la gestión de proyectos en importantes empresas de plaza.
+                    Gabriel es egresado de la Universidad ORT, tiene más de 15 años de experiencia en la industria del desarrollo de software. De los cuales 11 los dedicó a la gestión de proyectos en importantes empresas de plaza.
                 </p>
                 <p>
                     Hace 6 años decidió que era vital adoptar nuevos métodos de gestión eficientes y realistas.
@@ -153,18 +153,18 @@
             </div>
             <div class="span4">
                 <p>
-                    Con 16 años entendió que su pasión eran las computadoras y todo lo que las rodeaba, por eso fué a realizar un tramite para sacar un permiso y ponerse a trabajar en eso.
+                    Con 16 años entendió que su pasión eran las computadoras y todo lo que las rodeaba, por eso fue a realizar un trámite para sacar un permiso y ponerse a trabajar en eso.
                     Empezó con administración de sistemas, como muchos otros, y entendió que era lo que ocurría atrás del escenario.
-                    En poco tiempo estaba a cargo del soporte (on-site) de un hotel 5 estrellas en punta del este.
+                    En poco tiempo estaba a cargo del soporte (on-site) de un hotel 5 estrellas en Punta del Este.
                 </p>
                 <p>
-                    Un par de años luego se dió cuenta que era momento de aprender otra cosa, así que se fué a inConcert (especialistas en callcenter y voz sobre ip), como sysadmin y al ver la cantidad de increíbles developers que había allí quiso aprender a programar.
+                    Un par de años después se dio cuenta que era momento de aprender otra cosa, así que se fue a inConcert (especialistas en callcenter y voz sobre IP), como sysadmin y al ver la cantidad de increíbles developers que había allí quiso aprender a programar.
                 </p>
                 <p>
                     Hoy en día, se encarga de toda la infraestructura interna de inConcert, y también programa javascript(front-end)/lua(back-end)/python-selenium(testing).
                 </p>
                 <p>
-                    La cualidad que más lo identifica es las ganas de aprender cosas nuevas.
+                    La cualidad que mas lo identifica es las ganas de aprender cosas nuevas.
                 </p>
             </div>
         </div>
@@ -218,7 +218,7 @@
             </div>
             <div class="span4">
                 <p>
-                    Fernando trabaja como Consultor Senior para Percona. Antes de unierse a Percona, trabajó como
+                    Fernando trabaja como Consultor Senior para Percona. Antes de unirse a Percona, trabajó como
                     contratista para varias instituciones de servicios financieros, empresas de telecomunicaciones
                     y los proveedores de tecnología más pequeñas.
                 </p>
@@ -247,7 +247,7 @@
             </div>
             <div class="span4">
                 <p>
-                    Es un estudiante de ingeniería en FING finalizando la carrera. En este momento se encuentra
+                    Es un estudiante de ingeniería en Facultad de Ingeniería finalizando la carrera. En este momento se encuentra
                     desarrollando aplicaciones web con el lenguaje de programación Ruby utilizando tecnologías como
                     Ruby On Rails, Sinatra, Sidekiq, etc.
                 </p>
