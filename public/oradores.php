@@ -93,9 +93,9 @@
 		 	</div>
             <div class="span4">
 				<div class="thumbnail">
-				  <a data-toggle="modal" href="#gomenzModal"><img alt="image" src="/img/oradores/adrian.jpg"></a>
+				  <a data-toggle="modal" href="#gomezModal"><img alt="image" src="/img/oradores/adrian.jpg"></a>
 				</div>
-				<h2 class="sub">Adrian Gomenz <a data-toggle="modal" href="#gomenzModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+				<h2 class="sub">Adrian Gomez <a data-toggle="modal" href="#gomezModal"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                 <!-- <p>Moove IT</p> -->
 		 	</div>
             <div class="span4">
