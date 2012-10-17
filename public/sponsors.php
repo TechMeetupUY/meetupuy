@@ -26,7 +26,7 @@
                             Queremos crear una <strong>conferencia de primera</strong> accesible a la mayor cantidad de desarrolladores posible.
                             Su apoyo ayudará a pagar los costos locativos y operativos de la misma.
                             Para hacerlo simple creamos el siguiente paquete. Si tenés alguna idea u otra forma de apoyar mandanos
-                            un <a href="mailto:info@meetup.uy">correo</a>, tenemos flexibilidad y podemos a trabajar con ustedes para diseñar
+                            un <a href="mailto:info@meetup.uy">correo</a>, tenemos flexibilidad y podemos trabajar con ustedes para diseñar
                             un paquete adecuado.
                         </p>
                     </div>
