@@ -339,3 +339,56 @@
         </div>
     </div>
 </div>
+
+<div class="modal hide fade" id="riveraModal">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Rodrigo Rivera</h3>
+        <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
+    </div>
+    <div class="modal-body">
+        <div class="row">
+            <div class="span2">
+                <div class="thumbnail">
+                    <img alt="" src="/img/oradores/rodrigo_rivera.png">
+                </div>
+            </div>
+            <div class="span4">
+                <p>
+                    Estudiante muy próximo a recibirse de Ingeniero en Computación de la Universidad de la República, finalizando el proyecto de grado sobre interacción tangible, realidad aumentada y robótica, usando bibliotecas y frameworks open-source y multiplataforma con Kinect.
+                </p>
+                <p>Desarrollador senior en UruIT desde principios de 2011, habiendo realizado proyectos de investigación en el uso de Kinect con tecnologías Microsoft y trabajando para un cliente muy importante de USA en un producto multiplataforma usando tecnologías y lenguajes como C++/C#/WPF/Mono para el área de la química y bioquímica.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal hide fade" id="camargoModal">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
+        <h3>Gabriel Camargo</h3>
+        <h4>Design driven process - Proceso de innovación</h4>
+    </div>
+    <div class="modal-body">
+        <div class="row">
+            <div class="span2">
+                <div class="thumbnail">
+                    <img alt="" src="/img/oradores/gabriel_camargo.jpg">
+                </div>
+            </div>
+            <div class="span4">
+                <p>
+                    Gabriel es un jugador de fútbol jamas descubierto, que ante esta situación no tuvo mas remedio que dedicarse a la tecnología.
+                </p>
+                <p>
+                    Actualmente se desempeña como CEO de Ingenious Softworks (firma de capitales mixtos especializada en proveer servicios de innovación y desarrollo a compañías en los Estados Unidos), Chairman de Ballpit Monster Studios (estudio de videojuegos de capitales estadounidenses radicado en Uruguay), y directivo de la Cámara Uruguaya de Tecnologías de la Información (CUTI).
+                </p>
+                <p>
+                    Si bien a lo largo de su carrera ha ocupado varias posiciones técnicas y de gestión en empresas tecnológicas en Uruguay, Mexico y Estados Unidos; en los últimos años se ha dedicado al desarrollo de relaciones corporativas y a liderar los procesos de innovación de los múltiples productos y emprendimientos con los que ha estado relacionado.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
