@@ -27,6 +27,12 @@
                         </a>
                     </div>
                 </div>
+                <hr class="dashed">
+                 <div class="row">
+                    <div class="span10 offset1" style="text-align:center;">
+                        <h1>En breve publicaremos los temas.</h1>
+                    </div>
+                </div>
             </div>
         </div>
 
