@@ -5,11 +5,13 @@
   </head>
 
   <body>
+      <!--
     <div class="github-fork-ribbon-wrapper right">
         <div class="github-fork-ribbon">
             <a href="#">Beta</a>
         </div>
     </div>
+      -->
     <?php require_once("navbar.php"); ?>
 
 	<div id="header">
