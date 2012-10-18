@@ -3,7 +3,7 @@
  * Modals
  */
 ?>
-<div class="modal hide fade" id="balinoModal">
+<div class="modal hide fade" id="balino">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Enrique Baliño - <a href="https://twitter.com/ebalino" target="_blank">@ebalino</a></h3>
@@ -46,7 +46,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="ledesmaModal">
+<div class="modal hide fade" id="ledesma">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gabriel Ledesma - <a href="https://twitter.com/gafaled" target="_blank">@gafaled</a></h3>
@@ -78,7 +78,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="firtmanModal">
+<div class="modal hide fade" id="firtman">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Maximiliano firtman - <a href="https://twitter.com/firt" target="_blank">@firt</a></h3>
@@ -110,7 +110,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="silvaModal">
+<div class="modal hide fade" id="silva">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Fede Silva - <a href="https://twitter.com/fedesilva" target="_blank">@fedesilva</a></h3>
@@ -138,7 +138,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="morenoModal">
+<div class="modal hide fade" id="moreno">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Sebastián Moreno - <a href="https://twitter.com/kernelp4nic" target="_blank">@kernelp4nic</a></h3>
@@ -171,7 +171,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="sanguinettiModal">
+<div class="modal hide fade" id="sanguinetti">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Nicolás Sanguinetti - <a href="https://twitter.com/godfoca" target="_blank">@godfoca</a></h3>
@@ -202,7 +202,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="iparModal">
+<div class="modal hide fade" id="ipar">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Fernando Ipar - <a href="http://fernandoipar.com/" target="_blank">fernandoipar.com</a></h3>
@@ -231,7 +231,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="gomezModal">
+<div class="modal hide fade" id="gomez">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Adrian Gomez</h3>
@@ -261,7 +261,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="zasModal">
+<div class="modal hide fade" id="zas">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gianfranco Zas - <a href="http://twitter.com/snmgian" target="_blank">@snmgian</a></h3>
@@ -289,7 +289,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="arrecheModal">
+<div class="modal hide fade" id="arreche">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gonzalo Arreche - <a href="http://twitter.com/grilix" target="_blank">@grilix</a></h3>
@@ -314,7 +314,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="martinezModal">
+<div class="modal hide fade" id="martinez">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Máximo Martinez - <a href="http://twitter.com/MaxMz" target="_blank">@MaxMz</a></h3>
@@ -340,7 +340,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="riveraModal">
+<div class="modal hide fade" id="rivera">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Rodrigo Rivera</h3>
@@ -364,7 +364,7 @@
     </div>
 </div>
 
-<div class="modal hide fade" id="camargoModal">
+<div class="modal hide fade" id="camargo">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gabriel Camargo</h3>
