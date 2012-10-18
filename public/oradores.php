@@ -134,6 +134,13 @@
         <hr class="dashed">
 
         <?php include 'registrate_row.php' ?>
+
+        <hr class="dashed">
+        <div class="row">
+            <div class="span12">
+                <p style="text-align: center;">* Oradores confirmados hasta el momento, la organización se reserva el derecho de cambiar las charlas en cualquier momento.</p>
+            </div>
+        </div>
 	  </div>
 	</div>
 
