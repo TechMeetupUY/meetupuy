@@ -124,11 +124,14 @@
 		  </div>
 		</div>
 -->
+        <?php if(false){ ?>
 	    <div class="row">
 		  <div class="span12">
 		  	<?php require_once 'cuadro_speakers.php'; ?>
 		  </div>
 		</div>
+        <?php } ?>
+        <?php include 'registrate_row.php' ?>
 	  </div>
 	</div>
 
