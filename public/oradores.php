@@ -131,6 +131,8 @@
 		  </div>
 		</div>
         <?php } ?>
+        <hr class="dashed">
+
         <?php include 'registrate_row.php' ?>
 	  </div>
 	</div>
