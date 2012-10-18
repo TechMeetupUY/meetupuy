@@ -3,7 +3,7 @@
  * Modals
  */
 ?>
-<div class="modal hide fade" id="balinioModal">
+<div class="modal hide fade" id="balinoModal">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Enrique Baliño - <a href="https://twitter.com/ebalino" target="_blank">@ebalino</a></h3>
