@@ -21,7 +21,7 @@
 	<div id="content">
 	  <div class="container">
 	    <div class="row">
-		  <div class="span7">
+		  <div class="span12">
 			<p>
 				<strong>techMeetup.uy</strong> es el primer evento que expone la capacidad de las últimas tecnologías a la comunidad de desarrollo uruguaya en sus diversas especialidades.
 			</p>
@@ -35,9 +35,11 @@
 				Para recibir más información del evento, seguinos en <a href="http://twitter.com/meetupUY">Twitter</a> o dejanos tu <a href="mailto:info@meetup.uy">mail</a>.
 			</p>
 		  </div>
+          <?php if(false) { ?>
 	  	  <div class="span5">
 	  	  	<?php require_once 'cuadro_speakers.php'; ?>
 	  	  </div>
+           <?php } ?>
 		</div>
 <hr class="dashed">
 
