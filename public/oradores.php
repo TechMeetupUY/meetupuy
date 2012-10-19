@@ -150,7 +150,7 @@
         <script type="text/javascript">
             $(document).ready(function(){
                 var hashes = window.location.href.split("#");
-                $('#'+hashes[1]+'Modal').modal();
+                $('#'+hashes[1]).modal();
 
                 $('a[data-toggle="modal"]').click(function(){
                     window.location = $(this).attr('href');
