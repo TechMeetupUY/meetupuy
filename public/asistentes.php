@@ -36,7 +36,7 @@ $results = $twitter->request('lists/members', array('slug'=>$twitterList, 'owner
 	<div id="content">
 	  <div class="container">
           <div class="row">
-              <div class="span10 offset1">
+              <div class="span8 offset2">
                   <ul class="thumbnails">
                     <?php foreach ($results->users as $result): ?>
                         <li class="span1">
