@@ -27,6 +27,11 @@
                         </a>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="span12">
+                        <p style="text-align: center;"><small>La organización se reserva el derecho de cambiar las charlas y/o horarios en cualquier momento.</small></p>
+                    </div>
+                </div>
                 <hr class="dashed">
                  <div class="row">
                     <div class="span10 offset1" style="text-align:center;">
