@@ -109,7 +109,6 @@
 		  </div>
 
 		</div>
-
 			<div class="row">
 			  <div class="span12">
 				<h2 class="txt-middle">Nos apoyan en la organización</h2>
@@ -120,27 +119,20 @@
 				<div class="span8 offset3">
 					<ul class="thumbnails">
 						<li class="span2">
-							<a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank">
-								<img class="img-rounded" alt="" src="/img/apoyan/pampa.jpg">
-							</a>
+							<a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank"><img class="img-rounded" alt="" src="/img/apoyan/pampa.jpg"></a>
 							<div class="caption">
 								<h3>Pampa</h3>
 							</div>
 						</li>
 
 						<li class="span2">
-							<a class="thumbnails" href="https://twitter.com/soygero" target="_blank">
-								<img class="img-rounded" alt="" src="http://weareuytech.com/images/people/6-geronimo-silva-pereira.jpg">
-							</a>
+							<a class="thumbnails" href="https://twitter.com/soygero" target="_blank"><img class="img-rounded" alt="" src="http://weareuytech.com/images/people/6-geronimo-silva-pereira.jpg"></a>
 							<div class="caption">
 								<h3>Gero</h3>
 							</div>
 						</li>
                         <li class="span2">
-							<a class="thumbnails" href="mailto:info@meetup.uy">
-								<img class="img-rounded" alt="" src="http://placehold.it/160x160&text=¡Apoyá!">
-							</a>
-
+							<a class="thumbnails" href="mailto:info@meetup.uy"><img class="img-rounded" alt="" src="http://placehold.it/160x160&text=¡Apoyá!"></a>
 						</li>
 					</ul>
 				</div>
