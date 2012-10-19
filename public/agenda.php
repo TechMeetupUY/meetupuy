@@ -21,6 +21,36 @@
         <div id="content">
             <div class="container">
                 <div class="row">
+                    <div class="span8 offset2">
+                        <div class="accordion" id="accordion2">
+                            <div class="accordion-group">
+                                <div class="accordion-heading">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                                        Collapsible Group Item #1
+                                    </a>
+                                </div>
+                                <div id="collapseOne" class="accordion-body collapse in">
+                                    <div class="accordion-inner">
+                                        Anim pariatur cliche...
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-group">
+                                <div class="accordion-heading">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                                        Collapsible Group Item #2
+                                    </a>
+                                </div>
+                                <div id="collapseTwo" class="accordion-body collapse">
+                                    <div class="accordion-inner">
+                                        Anim pariatur cliche...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="span6 offset3">
                         <a class="thumbnail" >
                             <img src="/img/meetup_uy_charlas.jpg">
@@ -33,7 +63,7 @@
                     </div>
                 </div>
                 <hr class="dashed">
-                 <div class="row">
+                <div class="row">
                     <div class="span10 offset1" style="text-align:center;">
                         <h1>En breve publicaremos los temas.</h1>
                     </div>

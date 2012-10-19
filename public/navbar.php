@@ -17,11 +17,8 @@ $pagina = $_SERVER["REQUEST_URI"];
             <img src="/img/tech-meetup-logo-small.png" height="70px" alt=TECHmeetup>
           </a>
           <ul class="nav pull-right" style="margin-top:20px;">
-            <!--
-            <li class="active"><a href="/">Inicio</a></li>
-            -->
             <li class="<?php if($pagina=='/oradores'){ echo 'active'; }; ?>"><a href="oradores">Oradores</a></li>
-            <li class="<?php if($pagina=='/agenda'){ echo 'active'; }; ?>"><a href="agenda">Agenda</a></li>
+            <!-- <li class="<?php if($pagina=='/agenda'){ echo 'active'; }; ?>"><a href="agenda">Agenda</a></li> -->
             <li class="<?php if($pagina=='/convocatoria'){ echo 'active'; }; ?>"><a href="convocatoria"><strong>Registro</strong></a></li>
             <li class="<?php if($pagina=='/sponsors'){ echo 'active'; }; ?>"><a href="sponsors">Auspicio</a></li>
             <!--<li><a href="inscripcion">Inscripción</a></li>-->
