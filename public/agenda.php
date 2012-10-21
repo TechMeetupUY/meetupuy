@@ -27,7 +27,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseCI">
-                                        Continuous Improvement - o cómo poner los robots de tu lado.
+                                        <i class="icon-chevron-right"></i> Continuous Improvement - o cómo poner los robots de tu lado.
                                     </a>
                                 </div>
                                 <div id="collapseCI" class="accordion-body collapse">
@@ -78,7 +78,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseDDP">
-                                        Design driven process - Proceso de innovación
+                                        <i class="icon-chevron-right"></i> Design driven process - Proceso de innovación
                                     </a>
                                 </div>
                                 <div id="collapseDDP" class="accordion-body collapse">
@@ -102,7 +102,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseAgile">
-                                        Sr. Pedro Fullstack, a sus órdenes. [Agile / Scrum]
+                                        <i class="icon-chevron-right"></i> Sr. Pedro Fullstack, a sus órdenes. [Agile / Scrum]
                                     </a>
                                 </div>
                                 <div id="collapseAgile" class="accordion-body collapse">
@@ -129,7 +129,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseMono">
-                                        Desarrollo mobile con Mono.
+                                        <i class="icon-chevron-right"></i> Desarrollo mobile con Mono.
                                     </a>
                                 </div>
                                 <div id="collapseMono" class="accordion-body collapse">
@@ -151,7 +151,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseVagrant">
-                                        Deploy de aplicaciones con Vagrant.
+                                        <i class="icon-chevron-right"></i> Deploy de aplicaciones con Vagrant.
                                     </a>
                                 </div>
                                 <div id="collapseVagrant" class="accordion-body collapse">
@@ -173,7 +173,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseHtml5">
-                                        Mobile / HTML5.
+                                        <i class="icon-chevron-right"></i> Mobile / HTML5.
                                     </a>
                                 </div>
                                 <div id="collapseHtml5" class="accordion-body collapse">
@@ -195,7 +195,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseReview">
-                                        CI + Review
+                                        <i class="icon-chevron-right"></i> CI + Review
                                     </a>
                                 </div>
                                 <div id="collapseReview" class="accordion-body collapse">
@@ -227,7 +227,7 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseKinect">
-                                        Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.
+                                        <i class="icon-chevron-right"></i> Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.
                                     </a>
                                 </div>
                                 <div id="collapseKinect" class="accordion-body collapse">
