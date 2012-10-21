@@ -22,7 +22,7 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="span8">
+                    <div class="span9">
                         <div class="accordion" id="accordion2">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
@@ -247,7 +247,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="span4">
+                    <div class="span3">
                         <a class="thumbnail" >
                             <img src="/img/meetup_uy_charlas.jpg">
                         </a>
