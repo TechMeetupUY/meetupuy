@@ -48,7 +48,7 @@
 
                         <h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
-                    <div class="span4">
+                    <div class="span4 badge-inside">
                             <span class="badge orange">Invitado</span>
                             <a class="thumbnail"  data-toggle="modal" href="#firtman"><img alt="image" src="/img/oradores/maximiliano_firtman.jpg"></a>
                         <h2 class="sub">Maximiliano Firtman <a data-toggle="modal" href="#firtman"><span class="icon-plus" data-original-title="Leer más"></a></h2>
