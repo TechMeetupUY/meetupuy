@@ -4,11 +4,13 @@
  */
 $pagina = $_SERVER["REQUEST_URI"];
 ?>
+<!--
 <div class="github-fork-ribbon-wrapper right">
     <div class="github-fork-ribbon">
         <a href="convocatoria">Registrate</a>
     </div>
 </div>
+-->
 <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
