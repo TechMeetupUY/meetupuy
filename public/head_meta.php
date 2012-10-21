@@ -5,7 +5,7 @@
 ?>
     <meta charset="utf-8">
     <title>Meetup.uy</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="Primer conferencia para desarrolladores en Uruguay.">
     <meta name="copyright" content="2012 MeetupUY">
     <link rel="image_src" href="http://meetup.uy/img/tech-meetup-logo-twitter.jpg" />
