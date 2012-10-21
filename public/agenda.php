@@ -12,7 +12,7 @@
             <div class="container">
                 <div class="row">
                     <div class="span12">
-                        <h1>Aquí estan los temas que trataremos:</h1>
+                        <h1>Estos son los temas que trataremos:</h1>
                     </div>
                 </div>
             </div>
