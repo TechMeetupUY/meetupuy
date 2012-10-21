@@ -21,7 +21,7 @@
         <div id="content">
             <div class="container">
                 <div class="row">
-                    <div class="span8 offset2">
+                    <div class="span8">
                         <div class="accordion" id="accordion2">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
@@ -157,15 +157,14 @@ Pretendo hacer una breve descripción de técnicas que puedan ayudar en la preve
                             </div>
                         </div>
                     </div>
-                </div>
-                <hr class="dashed">
-                <div class="row">
-                    <div class="span6 offset3">
+                    <div class="span4">
                         <a class="thumbnail" >
                             <img src="/img/meetup_uy_charlas.jpg">
                         </a>
                     </div>
                 </div>
+                <hr class="dashed">
+                
                 <div class="row">
                     <div class="span12">
                         <p style="text-align: center;"><small>La organización se reserva el derecho de cambiar las charlas y/o horarios en cualquier momento.</small></p>
