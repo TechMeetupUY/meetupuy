@@ -65,9 +65,7 @@
                         <h2 class="sub">Adrian Gomez <a data-toggle="modal" href="#gomez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                     <div class="span4">
-                        <div class="thumbnail">
                             <a class="thumbnail" data-toggle="modal" href="#zas"><img alt="image" src="/img/oradores/gian.jpg"></a>
-                        </div>
                         <h2 class="sub">Gianfranco Zas <a data-toggle="modal" href="#zas"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
@@ -84,9 +82,8 @@
                     </div>
 
                     <div class="span4">
-                        <div class="thumbnail">
-                            <a data-toggle="modal" href="#camargo"><img alt="image" src="/img/oradores/gabriel_camargo.jpg"></a>
-                        </div>
+
+                            <a class="thumbnail" data-toggle="modal" href="#camargo"><img alt="image" src="/img/oradores/gabriel_camargo.jpg"></a>
                         <h2 class="sub">Gabriel Camargo <a data-toggle="modal" href="#camargo"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
