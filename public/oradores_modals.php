@@ -11,34 +11,32 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/enriqueb_square.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/enriqueb_square.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
-                    <strong>Enrique Baliño es Socio fundador de Xn Consultores.</strong> Como consultor de la firma,
+                    Enrique Baliño es Socio fundador de Xn Consultores. Como consultor de la firma,
                     diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional
                     basado en Indagación Apreciativa.
                 </p>
                 <p>
-                    <strong>Con frecuencia es invitado a participar de conferencias para organizaciones y empresas de
-                        diversos países</strong>, sobre temas de Liderazgo, Actitudes y Éxito, entre otras.
+                    Con frecuencia es invitado a participar de conferencias para organizaciones y empresas de
+                        diversos países, sobre temas de Liderazgo, Actitudes y Éxito, entre otras.
                 </p>
                 <p>
-                    <strong>Tuvo una extensa y destacada actividad en IBM. Fue Presidente y Gerente General de IBM Uruguay</strong>;
+                    Tuvo una extensa y destacada actividad en IBM. Fue Presidente y Gerente General de IBM Uruguay;
                     Director de Satisfacción de Clientes, Director de Sector Público para IBM Latinoamérica; Presidente y Gerente
                     General de IBM Latinoamérica Sur.
                 </p>
                 <p>
-                <stong>Es miembro del directorio de ISBEL y T2Voice.</strong>
+                Es miembro del directorio de ISBEL y T2Voice.
                     </p>
                     <p>
-                    <stong>Es Ingeniero de Sistemas graduado en la Universidad de la República (Uruguay).</stong> Ha obtenido
+                    Es Ingeniero de Sistemas graduado en la Universidad de la República (Uruguay). Ha obtenido
                     educación ejecutiva en la Universidad de Carnegie Mellon, Pittsburgh y la Universidad de Columbia, New York, en Estados Unidos.
                     </p>
                     <p>
-                    <stong>En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing</stong>,
+                    En 2010 publicó el libro “No Más Pálidas. Cuatro actitudes para el éxito”, editado por Xn Publishing,
                     unidad editorial y de contenidos de Xn Consultores.
                     </p>
             </div>
@@ -55,12 +53,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/ledesma_square.jpg">
-                </div>
-
+                    <img class="thumbnail" alt="" src="/img/oradores/ledesma_square.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Gabriel es egresado de la Universidad ORT, tiene más de 15 años de experiencia en la industria del desarrollo de software. De los cuales 11 los dedicó a la gestión de proyectos en importantes empresas de plaza.
                 </p>
@@ -87,11 +82,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/maximiliano_firtman.jpg">
-                </div>
+                <img class="thumbnail"  alt="" src="/img/oradores/maximiliano_firtman.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Es desarrollador móvil en plataformas nativas y últimamente especializado en mobile HTML5.
                 </p>
@@ -119,11 +112,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/fede_silva.jpg">
-                </div>
+                <img class="thumbnail" alt="" src="/img/oradores/fede_silva.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Cuando Dios hizo apt-get install earth, los paquetes los había armado Fede Silva.
                 </p>
@@ -147,11 +138,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/sebastian_moreno.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/sebastian_moreno.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Con 16 años entendió que su pasión eran las computadoras y todo lo que las rodeaba, por eso fue a realizar un trámite para sacar un permiso y ponerse a trabajar en eso.
                     Empezó con administración de sistemas, como muchos otros, y entendió que era lo que ocurría atrás del escenario.
@@ -180,12 +169,11 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/nicolas_sanguinetti.jpg">
-                </div>
+                    <img class="thumbnail"  alt="" src="/img/oradores/nicolas_sanguinetti.jpg">
+
 
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Nicolás (foca) decidió que quería ser programador cuando era chico, y
                     el mundo es un peor lugar por ello. Desde hace años viene escribiendo
@@ -211,12 +199,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/fernando_ipar.jpg">
-                </div>
-
+                    <img class="thumbnail"  alt="" src="/img/oradores/fernando_ipar.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Fernando trabaja como Consultor Senior para Percona. Antes de unirse a Percona, trabajó como
                     contratista para varias instituciones de servicios financieros, empresas de telecomunicaciones
@@ -240,12 +225,10 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/adrian.jpg">
-                </div>
 
+                    <img class="thumbnail" alt="" src="/img/oradores/adrian.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Es un estudiante de ingeniería en Facultad de Ingeniería finalizando la carrera. En este momento se encuentra
                     desarrollando aplicaciones web con el lenguaje de programación Ruby utilizando tecnologías como
@@ -270,11 +253,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/gian.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/gian.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Gianfranco cuenta con 6 años de experiencia en desarrollo de software, en proyectos de diferentes áreas de negocio y diferentes tecnologías. También ha integrado el equipo docente de Universidad ORT.
                 </p>
@@ -298,11 +279,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/gonzalo.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/gonzalo.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Una persona apasionada por la calidad, dedica gran parte de su tiempo a promover las buenas prácticas y crear proyectos con excelente nivel técnico. Siempre está pensando en mejorar los procesos para ayudar al equipo.
                 </p>
@@ -323,11 +302,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/maximo_martinez.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/maximo_martinez.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Max pasó 3 años desarrollando componentes .Net antes de decidir cambiar de imperio y empezar a trabajar en apps para iPhone.
                 </p>
@@ -349,11 +326,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/rodrigo_rivera.png">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/rodrigo_rivera.png">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Estudiante muy próximo a recibirse de Ingeniero en Computación de la Universidad de la República, finalizando el proyecto de grado sobre interacción tangible, realidad aumentada y robótica, usando bibliotecas y frameworks open-source y multiplataforma con Kinect.
                 </p>
@@ -373,11 +348,9 @@
     <div class="modal-body">
         <div class="row">
             <div class="span2">
-                <div class="thumbnail">
-                    <img alt="" src="/img/oradores/gabriel_camargo.jpg">
-                </div>
+                    <img class="thumbnail" alt="" src="/img/oradores/gabriel_camargo.jpg">
             </div>
-            <div class="span4">
+            <div class="span3">
                 <p>
                     Gabriel es un jugador de fútbol jamas descubierto, que ante esta situación no tuvo mas remedio que dedicarse a la tecnología.
                 </p>
