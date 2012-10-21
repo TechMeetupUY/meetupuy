@@ -12,7 +12,7 @@
             <div class="container">
                 <div class="row">
                     <div class="span12">
-                        <h1>La Agenda!!!</h1>
+                        <h1>Aquí estan los temas que trataremos:</h1>
                     </div>
                 </div>
             </div>
@@ -20,6 +20,7 @@
 
         <div id="content">
             <div class="container">
+
                 <div class="row">
                     <div class="span8">
                         <div class="accordion" id="accordion2">
@@ -256,6 +257,7 @@
 
                 <div class="row">
                     <div class="span12">
+                        <p style="text-align: center;"><small>El órden de las charlas se dará a conocer en el momento de la acreditación.</small></p>
                         <p style="text-align: center;"><small>La organización se reserva el derecho de cambiar las charlas y/o horarios en cualquier momento.</small></p>
                     </div>
                 </div>
