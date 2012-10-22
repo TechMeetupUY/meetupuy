@@ -244,24 +244,17 @@
                                 </div>
                             </div>
                         </div>
-                        <p>En intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>... tendremos <big>sorpresas</big> en todas las intancias, no te lo podés perder - <a href="/convocatoria"><strong>Registrate!</strong></a></p>
+                        <p>En los intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>... tendremos <big>sorpresas</big> en todas las instancias, no te lo podes perder - <a href="/convocatoria"><strong>Registrate aquí!</strong></a></p>
                     </div>
                     <div class="span3">
                         <a class="thumbnail" >
                             <img src="/img/meetup_uy_charlas.jpg">
                         </a>
-                    </div>
-                </div>
-                <hr class="dashed">
-
-                <div class="row">
-                    <div class="span12">
                         <p style="text-align: center;"><small>El órden de las charlas se dará a conocer en el momento de la acreditación.</small></p>
-                        <!--
-                        <p style="text-align: center;"><small>La organización se reserva el derecho de cambiar las charlas y/o horarios en cualquier momento.</small></p>
-                        -->
                     </div>
                 </div>
+
+
 
             </div>
         </div>
