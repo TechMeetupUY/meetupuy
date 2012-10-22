@@ -253,9 +253,7 @@
                         <p style="text-align: center;"><small>El órden de las charlas se dará a conocer en el momento de la acreditación.</small></p>
                     </div>
                 </div>
-
-
-
+                <?php require_once 'include/registrate_row.inc.php' ?>
             </div>
         </div>
 
