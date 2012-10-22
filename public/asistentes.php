@@ -1,16 +1,6 @@
 <?php
 
-require_once '../library/twitter.class.php';
-
-if(!is_readable('../config/twitter.conf.php')){
-    die('Por favor configurar Twitter, copiar ../config/twitter.conf.ori.php en ../config/twitter.conf.php y cambiar los valores');
-}
-require_once '../config/twitter.conf.php';
-
-$twitter = new Twitter;
-$twitter = new Twitter($consumerKey, $consumerSecret, $accessToken, $accessTokenSecret);
-
-$results = $twitter->request('lists/members', array('slug'=>$twitterList, 'owner_screen_name'=>$twitterUser), 'GET');
+require_once 'include/sqlite_asistentes.inc.php';
 
 $title = "Asistentes";
 ?>
@@ -39,11 +29,14 @@ $title = "Asistentes";
           <div class="row">
               <div class="span8 offset2">
                   <ul class="thumbnails">
-                    <?php foreach ($results->users as $result): ?>
-                        <li class="span1">
-                            <a class="thumbnail" href="http://twitter.com/<?php echo $result->screen_name ?>" target="_blank">
-                            <img src="<?php echo $result->profile_image_url; ?>" alt="<?php echo $result->screen_name ?>">
+                    <?php
 
+                    $sql = "SELECT * FROM asistentes ORDER BY RANDOM();";
+                    $results = $asistentesTbl->fetchAll();
+                    foreach ($results as $result): ?>
+                        <li class="span1">
+                            <a class="thumbnail" href="http://twitter.com/<?php echo $result->twitter_handle ?>" target="_blank">
+                            <img width="48px" src="<?php echo $result->avatar_url; ?>" alt="<?php echo $result->nombre ?>" title="<?php echo $result->nombre ?>">
                             </a>
                         </li>
                     <?php endforeach ?>
