@@ -44,7 +44,7 @@
 <hr class="dashed">
 
         <div class="row">
-		  <div class="span8 offset2 ">
+		  <div class="span12">
 			<h2 class="txt-middle">Llena este formulario para inscribirte.</h2>
 		  </div>
 		</div>
@@ -62,7 +62,7 @@
 			?>
 
 	    <div class="row">
-		  <div class="span8 offset2">
+		  <div class="span12 txt-middle">
 		  <iframe src='https://eventioz.com.ar/events/meetupuy/registrations/new?iframe=' width='600' height='1800' allowTransparency='false' frameborder='0' scrolling='yes' style='width:600;height:1800;border:none'></iframe>
 
 		  </div>

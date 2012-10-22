@@ -83,6 +83,10 @@
                     </div>
 
                 </div>
+
+                <?php
+                include './include/sponsors.inc.php';
+                ?>
             </div>
         </div>
 
