@@ -83,9 +83,7 @@
                                 </div>
                                 <div id="collapseDDP" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>
-                                            ...
-                                        </p>
+                                        <p></p>
                                         <p>
                                             <ul class="thumbnails">
                                                 <li class="span1">
@@ -156,7 +154,7 @@
                                 </div>
                                 <div id="collapseVagrant" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>...</p>
+                                        <p></p>
                                         <p>
                                             <ul class="thumbnails">
                                                 <li class="span1">
@@ -178,7 +176,7 @@
                                 </div>
                                 <div id="collapseHtml5" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>...</p>
+                                        <p></p>
                                         <p>
                                             <ul class="thumbnails">
                                                 <li class="span1">
@@ -200,7 +198,7 @@
                                 </div>
                                 <div id="collapseReview" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>...</p>
+                                        <p></p>
                                         <p>
                                             <ul class="thumbnails">
                                                 <li class="span1">
@@ -232,7 +230,7 @@
                                 </div>
                                 <div id="collapseKinect" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>...</p>
+                                        <p></p>
                                         <p>
                                             <ul class="thumbnails">
                                                 <li class="span1">
