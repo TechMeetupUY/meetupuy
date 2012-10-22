@@ -7,7 +7,7 @@
     </div>
 </div>
 <div class="row apoyan" style="padding-top: 10px;">
-    <div class="span10 offset1">
+    <div class="span6 offset3">
         <ul class="thumbnails">
             <li class="span2">
                 <a class="thumbnail" href="http://cuti.org.uy/?ref=meetup.uy" target="_blank">
@@ -32,6 +32,11 @@
             <li class="span2">
                 <a class="thumbnail" href="http://aje.org.uy/?ref=meetup.uy" target="_blank">
                     <img alt="" src="/img/apoyan/aje.png">
+                </a>
+            </li>
+            <li class="span2">
+                <a class="thumbnail" href="http://www.creativemedia.com.uy/?ref=meetup.uy" target="_blank">
+                    <img alt="" src="/img/apoyan/creativemedia.png">
                 </a>
             </li>
         </ul>
