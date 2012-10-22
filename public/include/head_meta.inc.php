@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/blue.css">
 
     <link href="css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href="css/fonts.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/temas.css" rel="stylesheet">
