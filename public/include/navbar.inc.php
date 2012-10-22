@@ -21,7 +21,7 @@ $pagina = $_SERVER["REQUEST_URI"];
           </a>
 
           <a class="brand" href="/">
-            <img src="/img/tech-meetup-logo-small.png" height="70px" alt=TECHmeetup>
+            <img src="/img/tech-meetup-logo-small.png" height="70px" alt="#meetupUY">
           </a>
           <div class="nav-collapse collapse">
 

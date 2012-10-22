@@ -4,7 +4,7 @@
  *   */
 ?>
     <meta charset="utf-8">
-    <title>Meetup.uy</title>
+    <title>#meetupUY<?php if(isset($title)){ echo " - ".$title; }?></title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="Primer conferencia para desarrolladores en Uruguay.">
     <meta name="copyright" content="2012 MeetupUY">
