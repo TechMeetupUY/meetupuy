@@ -103,16 +103,13 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseAgile">
-                                        <i class="icon-chevron-right"></i> Sr. Pedro Fullstack, a sus órdenes. [Agile / Scrum]
+                                        <i class="icon-chevron-right"></i> Mr. Pedro Fullstack, a sus órdenes. [Agile / Scrum]
                                     </a>
                                 </div>
                                 <div id="collapseAgile" class="accordion-body collapse">
                                     <div class="accordion-inner">
                                         <p>
-                                            Cuando uno comienza un desafío propio debe estar preparado para abordar la heterogeneidad de muchas labores, pero aporta, debe ser capaz de reaccionar a tiempo de los cambios que tiene el contexto en el cual desarrollo su emprendimiento, te quiero contar algunas técnicas de Scrum y Agile que te pueden dar una mano en eso, por eso, te presento al Sr. Pedro Fullstack, él te va contar como aprendió que lo mas importante es adaptarse rápidamente.
-                                        </p>
-                                        <p>
-                                            Pretendo hacer una breve descripción de técnicas que puedan ayudar en la preventa, venta y desarrollo de un producto usando agile y scrum, valiéndome de una historia vivida por Pedro Fullstack.
+                                            A través de la experiencia de Mr. Pedro, te quiero contar cómo fue incorporando un framework Agile para la gestión de sus procesos dentro de su emprendimiento de software factory, de forma empírica y basado en mejora contínua hizo viable su proyecto sin  agregar overhead innecesario en la gestión y por sobre todas las cosas valorando a la gente como su mayor capital de trabajo.
                                         </p>
                                         <p>
                                         <ul class="thumbnails">
