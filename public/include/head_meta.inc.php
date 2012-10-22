@@ -4,9 +4,9 @@
  *   */
 ?>
     <meta charset="utf-8">
-    <title>Meetup.uy</title>
+    <title>#meetupUY<?php if(isset($title)){ echo " - ".$title; }?></title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="Primer conferencia para desarrolladores en Uruguay.">
+    <meta name="description" content="Primer conferencia por y para desarrolladores en Uruguay. 3 de Noviembre, 9am, Auditorio Torre Telecomunicaciones">
     <meta name="copyright" content="2012 MeetupUY">
     <link rel="image_src" href="http://meetup.uy/img/tech-meetup-logo-twitter.jpg" />
     <link href="css/bootstrap.css" rel="stylesheet">
