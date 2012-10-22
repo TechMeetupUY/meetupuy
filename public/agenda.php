@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php require_once("head_meta.php"); ?>
+        <?php require_once 'include/head_meta.inc.php'; ?>
     </head>
 
     <body>
 
-        <?php require_once("navbar.php"); ?>
+        <?php require_once 'include/navbar.inc.php'; ?>
 
         <div id="header">
             <div class="container">
