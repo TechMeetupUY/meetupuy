@@ -132,6 +132,9 @@
                 $('a[data-toggle="modal"]').click(function(){
                     window.location = $(this).attr('href');
                 });
+                $('.modal').on('hidden', function () {
+                    window.location = '';
+                })
             });
         </script>
     </body>
