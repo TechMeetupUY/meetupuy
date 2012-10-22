@@ -1,5 +1,8 @@
+<?php
+    $title = "Agenda";
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
         <?php require_once 'include/head_meta.inc.php'; ?>
     </head>

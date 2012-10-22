@@ -12,6 +12,7 @@ $twitter = new Twitter($consumerKey, $consumerSecret, $accessToken, $accessToken
 
 $results = $twitter->request('lists/members', array('slug'=>$twitterList, 'owner_screen_name'=>$twitterUser), 'GET');
 
+$title = "Asistentes";
 ?>
 <!DOCTYPE html>
 <html lang="es">
