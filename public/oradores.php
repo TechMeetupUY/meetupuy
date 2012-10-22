@@ -136,7 +136,7 @@
                     window.location = $(this).attr('href');
                 });
                 $('.modal').on('hidden', function () {
-                    window.location = '';
+                    window.location = '#';
                 })
             });
         </script>
