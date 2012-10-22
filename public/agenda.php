@@ -58,18 +58,18 @@
                                             Todo el material usado para la demo va a estar disponible para que los asistentes puedan investigar a partir de donde los dejamos en la charla.
                                         </p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#silva">
-                                                        <img src="/img/oradores/fede_silva.jpg">
-                                                    </a>
-                                                </li>
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#moreno">
-                                                        <img src="/img/oradores/sebastian_moreno.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#silva">
+                                                    <img src="/img/oradores/fede_silva.jpg">
+                                                </a>
+                                            </li>
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#moreno">
+                                                    <img src="/img/oradores/sebastian_moreno.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -85,13 +85,13 @@
                                     <div class="accordion-inner">
                                         <p></p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#camargo">
-                                                        <img src="/img/oradores/gabriel_camargo.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#camargo">
+                                                    <img src="/img/oradores/gabriel_camargo.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -112,13 +112,13 @@
                                             Pretendo hacer una breve descripción de técnicas que puedan ayudar en la preventa, venta y desarrollo de un producto usando agile y scrum, valiéndome de una historia vivida por Pedro Fullstack.
                                         </p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#ledesma">
-                                                        <img src="/img/oradores/ledesma_square.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#ledesma">
+                                                    <img src="/img/oradores/ledesma_square.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -134,13 +134,13 @@
                                     <div class="accordion-inner">
                                         <p>La experiencia de Paganza desarrollando una app nativa para iOS y Android usando <a href="http://www.mono-project.com/" target="_blank">Mono</a>.</p><p>Hablaremos de que es Mono y tecnologias asociadas como <a href="http://xamarin.com/monotouch" target="_blank">MonoTouch</a> y Mono for Android. Cómo es desarrollar con estas herramientas, problemas encontrados y posibles caminos a seguir.</p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#martinez">
-                                                        <img src="/img/oradores/maximo_martinez.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#martinez">
+                                                    <img src="/img/oradores/maximo_martinez.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -156,13 +156,13 @@
                                     <div class="accordion-inner">
                                         <p></p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#ipar">
-                                                        <img src="/img/oradores/fernando_ipar.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#ipar">
+                                                    <img src="/img/oradores/fernando_ipar.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -178,13 +178,13 @@
                                     <div class="accordion-inner">
                                         <p></p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#firtman">
-                                                        <img src="/img/oradores/maximiliano_firtman.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#firtman">
+                                                    <img src="/img/oradores/maximiliano_firtman.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -200,23 +200,23 @@
                                     <div class="accordion-inner">
                                         <p></p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#gomez">
-                                                        <img src="/img/oradores/adrian.jpg">
-                                                    </a>
-                                                </li>
-                                                 <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#zas">
-                                                        <img src="/img/oradores/gian.jpg">
-                                                    </a>
-                                                </li>
-                                                 <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#arreche">
-                                                        <img src="/img/oradores/gonzalo.jpg">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#gomez">
+                                                    <img src="/img/oradores/adrian.jpg">
+                                                </a>
+                                            </li>
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#zas">
+                                                    <img src="/img/oradores/gian.jpg">
+                                                </a>
+                                            </li>
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#arreche">
+                                                    <img src="/img/oradores/gonzalo.jpg">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -232,18 +232,19 @@
                                     <div class="accordion-inner">
                                         <p></p>
                                         <p>
-                                            <ul class="thumbnails">
-                                                <li class="span1">
-                                                    <a class="thumbnail" data-toggle="modal" href="#rivera">
-                                                        <img src="/img/oradores/rodrigo_rivera.png">
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                        <ul class="thumbnails">
+                                            <li class="span1">
+                                                <a class="thumbnail" data-toggle="modal" href="#rivera">
+                                                    <img src="/img/oradores/rodrigo_rivera.png">
+                                                </a>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <p>En intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>... tendremos <big>sorpresas</big> en todas las intancias, no te lo podés perder - <a href="/convocatoria"><strong>Registrate!</strong></a></p>
                     </div>
                     <div class="span3">
                         <a class="thumbnail" >
