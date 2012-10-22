@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <?php require_once("head_meta.php"); ?>
+        <?php require_once("include/head_meta.inc.php"); ?>
     </head>
 
     <body>
 
-        <?php require_once("navbar.php"); ?>
+        <?php require_once("include/navbar.inc.php"); ?>
 
         <div id="header">
             <div class="container">
@@ -100,13 +100,13 @@
                 <?php if (false) { ?>
                     <div class="row">
                         <div class="span12">
-                            <?php require_once 'cuadro_speakers.php'; ?>
+                            <?php require_once 'include/cuadro_speakers.inc.php'; ?>
                         </div>
                     </div>
                 <?php } ?>
                 <hr class="dashed">
 
-                <?php include 'registrate_row.php' ?>
+                <?php require_once 'include/registrate_row.inc.php' ?>
 
                 <hr class="dashed">
                 <div class="row">
@@ -117,8 +117,8 @@
             </div>
         </div>
 
-        <?php require_once("footer.php"); ?>
-        <?php require_once("oradores_modals.php"); ?>
+        <?php require_once 'include/footer.inc.php'; ?>
+        <?php require_once 'include/oradores_modals.inc.php'; ?>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>

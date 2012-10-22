@@ -58,20 +58,20 @@
                             <br>Red Pagos - Colectivo No: 34264<br>paypal: pagos@meetup.uy</p>
                     </div>
                 </div>
-                <?php include 'registrate_row.php' ?>
+                <?php require_once 'include/registrate_row.inc.php' ?>
                 <hr class="dashed">
-                <?php include './include/sponsors.inc.php'; ?>
+                <?php require_once 'include/sponsors.inc.php'; ?>
                 <div class="row">
                     <div class="span12">
                         <hr class="dashed">
                     </div>
                 </div>
-                <?php include './include/apoyan.inc.php'; ?>
+                <?php require_once 'include/apoyan.inc.php'; ?>
             </div>
         </div>
     </div>
-    <?php require_once("footer.php"); ?>
-    <?php require_once("modals.php"); ?>
+    <?php require_once 'include/footer.php'; ?>
+    <?php require_once 'modals.php'; ?>
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>

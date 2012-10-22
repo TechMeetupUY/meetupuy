@@ -16,12 +16,12 @@ $results = $twitter->request('lists/members', array('slug'=>$twitterList, 'owner
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <?php require_once("head_meta.php"); ?>
+    <?php require_once 'include/head_meta.inc.php'; ?>
   </head>
 
   <body>
 
-    <?php require_once("navbar.php"); ?>
+    <?php require_once 'include/navbar.inc.php'; ?>
 
 	<div id="header">
 	  <div class="container">
@@ -53,8 +53,7 @@ $results = $twitter->request('lists/members', array('slug'=>$twitterList, 'owner
 	  </div>
 	</div>
 
-    <?php require_once("footer.php"); ?>
-    <?php require_once("modals.php"); ?>
+    <?php require_once 'include/footer.inc.php'; ?>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
