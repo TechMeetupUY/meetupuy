@@ -265,7 +265,7 @@
             </div>
         </div>
 
-        <?php require_once("footer.php"); ?>
+        <?php require_once 'include/footer.inc.php'; ?>
         <?php require_once("include/oradores_modals.inc.php"); ?>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
