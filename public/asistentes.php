@@ -35,7 +35,7 @@ $title = "Asistentes";
                     $results = $asistentesTbl->fetchAll();
                     foreach ($results as $result): ?>
                         <li class="span1">
-                            <a class="thumbnail" href="http://twitter.com/<?php echo $result->twitter_handle ?>" target="_blank">
+                            <a class="thumbnail" href="<?php if($result->twitter_handle) { echo 'http://twitter.com/'.$result->twitter_handle; } ?>" target="_blank">
                             <img width="48px" src="<?php echo $result->avatar_url; ?>" alt="<?php echo $result->nombre ?>" title="<?php echo $result->nombre ?>">
                             </a>
                         </li>
