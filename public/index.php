@@ -70,8 +70,7 @@
             </div>
         </div>
     </div>
-    <?php require_once 'include/footer.php'; ?>
-    <?php require_once 'modals.php'; ?>
+    <?php require_once 'include/footer.inc.php'; ?>
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
