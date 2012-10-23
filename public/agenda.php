@@ -255,7 +255,10 @@ $title = "Agenda";
                                 </div>
                             </div>
                         </div>
-                        <p>En los intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>... tendremos <big>sorpresas</big> en todas las instancias, no te lo podes perder - <a href="/convocatoria"><strong>Registrate aquí!</strong></a></p>
+                        <p>
+                            En los intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>, dinámicas de <big>coaching</big>... tendremos <big>sorpresas</big> en todas las instancias, no te lo podes perder - <a href="/convocatoria">
+                            <strong>Registrate aquí!</strong></a>
+                        </p>
                     </div>
                     <div class="span3">
                         <a class="thumbnail" >
