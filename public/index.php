@@ -61,12 +61,32 @@
                 <?php require_once 'include/registrate_row.inc.php' ?>
                 <hr class="dashed">
                 <?php require_once 'include/sponsors.inc.php'; ?>
+                <hr class="dashed">
+                <?php require_once 'include/apoyan.inc.php'; ?>
+                <hr class="dashed">
                 <div class="row">
                     <div class="span12">
-                        <hr class="dashed">
+                        <strong>Declarado de Interés del Área de Innovación, <br>Ciencia y Tecnología para el Desarrollo.</strong>
                     </div>
                 </div>
-                <?php require_once 'include/apoyan.inc.php'; ?>
+                <div class="row apoyan" style="padding-top: 10px;">
+                    <div class="span4 offset4">
+                        <ul class="thumbnails">
+                            <li class="span2">
+                                <a class="thumbnail" href="http://mec.gub.uy/?ref=meetup.uy" target="_blank">
+                                    <img alt="" src="/img/apoyan/mec.png">
+                                </a>
+                            </li>
+                            <li class="span2">
+                                <a class="thumbnail" href="http://www.dicyt.gub.uy/dcc/inicio/?ref=meetup.uy" target="_blank">
+                                    <img alt="" src="/img/apoyan/dicyt.png">
+                                </a>
+                            </li>
+                        </ul>
+                         <a href="/docs/mec.pdf" target="_blank"><small>decreto</small></a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

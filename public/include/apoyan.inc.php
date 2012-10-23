@@ -15,7 +15,7 @@
                 </a>
             </li>
             <li class="span2">
-                <a class="thumbnail" href="http://latu21.latu.org.uy/ingenio/" target="_blank">
+                <a class="thumbnail" href="http://latu21.latu.org.uy/ingenio/?ref=meetup.uy" target="_blank">
                     <img alt="" src="/img/apoyan/ingenio.png">
                 </a>
             </li>
