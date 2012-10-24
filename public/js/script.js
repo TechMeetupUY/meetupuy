@@ -4,5 +4,5 @@ $(window).load(function() {
 			scrollTop: 0
 		}, 300);
 		return false;
-	}); 
+	});
 });
