@@ -31,16 +31,18 @@ $title = "Asistentes";
                             <?php
                             $sql = "SELECT * FROM asistentes ORDER BY RANDOM();";
                             $results = $asistentesTbl->fetchAll();
+                            $results = $results->toArray();
+                            shuffle($results);
                             foreach ($results as $result):
                                 ?>
                                 <li class="span1">
-                                    <?php if ($result->twitter_handle != '') { ?>
-                                        <a class="thumbnail" href="<?php if ($result->twitter_handle) { echo 'http://twitter.com/' . $result->twitter_handle;} ?>" target="_blank"  data-placement="top" title="<?php echo $result->nombre ?>">
-                                            <img width="48px" src="<?php echo $result->avatar_url; ?>">
+                                    <?php if ($result['twitter_handle'] != '') { ?>
+                                        <a class="thumbnail" href="<?php if ($result['twitter_handle']) { echo 'http://twitter.com/' . $result['twitter_handle'];} ?>" target="_blank"  data-placement="top" title="<?php echo $result['nombre'] ?>">
+                                            <img width="48px" src="<?php echo $result['avatar_url']; ?>">
                                         </a>
                                         <?php } else { ?>
-                                        <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result->nombre ?>">
-                                            <img width="48px" src="/img/avatar.png" alt="<?php echo $result->nombre ?>" >
+                                        <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result['nombre'] ?>">
+                                            <img width="48px" src="/img/avatar.png" alt="<?php echo $result['nombre'] ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>
