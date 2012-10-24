@@ -19,6 +19,7 @@ try{
     $db->getConnection()->exec($sql_create);
     $sql_index = "CREATE INDEX IF NOT EXISTS tw_handle ON asistentes (twitter_handle);";
     $db->getConnection()->exec($sql_index);
+
     chmod($archivo_base, 0666);
 
 } catch (Exception $e){
