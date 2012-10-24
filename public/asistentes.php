@@ -1,6 +1,5 @@
 <?php
 require_once 'include/sqlite_asistentes.inc.php';
-
 $title = "Asistentes";
 ?>
 <!DOCTYPE html>
@@ -42,7 +41,7 @@ $title = "Asistentes";
                                         </a>
                                         <?php } else { ?>
                                         <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result['nombre'] ?>">
-                                            <img width="48px" src="/img/avatar.png" alt="<?php echo $result['nombre'] ?>" >
+                                            <img width="48px" src="/img/avatar<?php echo rand(1,5);?>.png" alt="<?php echo $result['nombre'] ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>
