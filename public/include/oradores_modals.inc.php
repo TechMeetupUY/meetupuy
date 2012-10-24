@@ -343,7 +343,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gabriel Camargo</h3>
-        <h4>Design driven process - Proceso de innovación</h4>
+        <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
     </div>
     <div class="modal-body">
         <div class="row">

@@ -86,8 +86,15 @@
         </a>
     </div>
     <div class="span4">
-        <a class="thumbnail" href="/sponsors">
-            <img alt="image" src="/img/sponsors/apoya.gif">
+        <a class="thumbnail" href="http://www.paganza.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/paganza.png">
+        </a>
+    </div>
+</div>
+<div class="row sponsors">
+    <div class="span4 offset4">
+        <a class="thumbnail" href="http://altimetrik.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/altimetrik.png">
         </a>
     </div>
 </div>

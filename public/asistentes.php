@@ -1,5 +1,4 @@
 <?php
-
 require_once 'include/sqlite_asistentes.inc.php';
 
 $title = "Asistentes";
@@ -40,8 +39,8 @@ $title = "Asistentes";
                                             <img width="48px" src="<?php echo $result->avatar_url; ?>">
                                         </a>
                                         <?php } else { ?>
-                                        <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo urlencode($result->nombre); ?>">
-                                            <img width="48px" src="/img/avatar.png" alt="<?php echo urlencode($result->nombre); ?>" >
+                                        <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result->nombre ?>">
+                                            <img width="48px" src="/img/avatar.png" alt="<?php echo $result->nombre ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>

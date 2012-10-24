@@ -1,5 +1,5 @@
 <?php
-    $title = "Agenda";
+$title = "Agenda";
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -81,12 +81,23 @@
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseDDP">
-                                        <i class="icon-chevron-right"></i> Design driven process - Proceso de innovación
+                                        <i class="icon-chevron-right"></i> Design Driven Innovation: Sistematizando la innovación radical
                                     </a>
                                 </div>
                                 <div id="collapseDDP" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p></p>
+                                        <p>
+                                            En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia.
+                                            La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.
+                                        </p>
+                                        <p>
+                                            En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p>
+                                        <p>
+                                            Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.
+                                        </p>
+                                        <p>
+                                            Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.
+                                        </p>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
@@ -244,7 +255,10 @@
                                 </div>
                             </div>
                         </div>
-                        <p>En los intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>... tendremos <big>sorpresas</big> en todas las instancias, no te lo podes perder - <a href="/convocatoria"><strong>Registrate aquí!</strong></a></p>
+                        <p>
+                            En los intervalos hablaremos de mucha <big>Tecnología</big> y se hará mucho <big>Networking</big>, dinámicas de <big>coaching</big>... tendremos <big>sorpresas</big> en todas las instancias, no te lo podes perder - <a href="/convocatoria">
+                            <strong>Registrate aquí!</strong></a>
+                        </p>
                     </div>
                     <div class="span3">
                         <a class="thumbnail" >
