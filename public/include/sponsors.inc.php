@@ -92,9 +92,19 @@
     </div>
 </div>
 <div class="row sponsors">
-    <div class="span4 offset4">
+    <div class="span4">
         <a class="thumbnail" href="http://altimetrik.com/?ref=meetup.uy" target="_blank">
             <img alt="image" src="/img/sponsors/altimetrik.png">
+        </a>
+    </div>
+    <div class="span4">
+        <a class="thumbnail" href="http://inconcertcc.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/inconcertcc.png">
+        </a>
+    </div>
+    <div class="span4">
+        <a class="thumbnail" href="#" target="_blank">
+            <img alt="image" src="/img/sponsors/cocacola.png">
         </a>
     </div>
 </div>
