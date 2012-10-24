@@ -5,10 +5,15 @@
  */
 
 //----------- Archivo CSV
+/*
 $archivo_csv_eventioz = "../tmp/meetupuy.csv";
 if(!is_file($archivo_csv_eventioz)){
     die("ups no accedo al archivo");
 }
+ */
+
+//$archivo_csv_eventioz = 'https://dl.dropbox.com/s/lo76s0exwx7c8ld/meetupuy.csv?dl=1';
+$archivo_csv_eventioz = '../tmp/meetupuy.csv';
 
 //----------- Base de datos
 require_once 'include/sqlite_asistentes.inc.php';
@@ -26,11 +31,23 @@ $twitter = new Twitter($consumerKey, $consumerSecret, $accessToken, $accessToken
 
 //----------- Comienzo procesamiento
 
-$readcsv = fopen($archivo_csv_eventioz, 'r');
+$readcsv = file($archivo_csv_eventioz);
+
+if ($readcsv == FALSE) {
+    echo 'No puedo abrir el archivo o archivo vacio';
+    die();
+}
+
+function borrar_comillas(&$elemento){
+    $elemento = str_replace('"', '', $elemento);
+    $elemento = str_replace("'", '', $elemento);
+}
 $registros_asistentes_nuevos = array();
 $registros_asistentes_viejos = array();
 $i = 1;
-while ($line = fgetcsv($readcsv,0,';')) {
+foreach ($readcsv as $line) {
+    $line = explode(";", $line);
+    array_walk($line, 'borrar_comillas');
     //Me tengo que saltar el primer registro
     if($i==1){
         $i=2;
@@ -48,7 +65,6 @@ while ($line = fgetcsv($readcsv,0,';')) {
      * TODO: hopearse la primer linea que es la que tiene los datos
      *       No procesar registros repetidos.
      */
-
     $registro_asistente = array(
         'nombre' => trim($line[3].' '.$line[2]),
         'twitter_handle' => trim($line[14]),
@@ -70,7 +86,12 @@ while ($line = fgetcsv($readcsv,0,';')) {
         $nuevo_registro->email = trim($line[4]);
         //traigo data de twitter.
         if($line[14] != '' && strtolower($line[14])!="twitter"){
-            $results = $twitter->request('users/show', array('screen_name'=>$line[14]), 'GET');
+            try{
+                $results = $twitter->request('users/show', array('screen_name'=>$line[14]), 'GET');
+            } catch (Exception $e){
+                echo $e->getMessage();
+                die();
+            }
             $avatar_url = $results->profile_image_url;
         } else {
             $avatar_url = '/img/asistente_default.jpg';
@@ -89,8 +110,7 @@ while ($line = fgetcsv($readcsv,0,';')) {
     }
 
 
-} // While
-fclose($readcsv);
+} // foreach
 ?>
 <!DOCTYPE html>
 <html lang="es">
