@@ -41,7 +41,7 @@ $title = "Asistentes";
                                         </a>
                                         <?php } else { ?>
                                         <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result['nombre'] ?>">
-                                            <img width="48px" src="/img/avatar<?php echo rand(1,4);?>.png" alt="<?php echo $result['nombre'] ?>" >
+                                            <img width="48px" src="/img/avatar<?php echo rand(1,6);?>.png" alt="<?php echo $result['nombre'] ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>
