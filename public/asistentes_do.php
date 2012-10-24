@@ -12,8 +12,8 @@ if(!is_file($archivo_csv_eventioz)){
 }
  */
 
-//$archivo_csv_eventioz = 'https://dl.dropbox.com/s/lo76s0exwx7c8ld/meetupuy.csv?dl=1';
-$archivo_csv_eventioz = '../tmp/meetupuy.csv';
+$archivo_csv_eventioz = 'https://dl.dropbox.com/s/lo76s0exwx7c8ld/meetupuy.csv?dl=1';
+//$archivo_csv_eventioz = '../tmp/meetupuy.csv';
 
 //----------- Base de datos
 require_once 'include/sqlite_asistentes.inc.php';
@@ -138,16 +138,24 @@ foreach ($readcsv as $line) {
               <div class="span12">
                   <h2>Agregados a la BD</h2>
                   <pre>
-                    <?php print_r($registros_asistentes_nuevos); ?>
+                    <?php
+                    foreach( $registros_asistentes_nuevos as $registro){
+                        echo '<li>',$registro["nombre"].'</li>';
+                    }
+                    ?>
                   </pre>
               </div>
           </div>
           <div class="row">
               <div class="span12">
                   <h2>Existentes</h2>
-                  <pre>
-                    <?php print_r($registros_asistentes_viejos); ?>
-                  </pre>
+                  <ul>
+                    <?php
+                    foreach( $registros_asistentes_viejos as $registro){
+                        echo '<li>',$registro["nombre"].'</li>';
+                    }
+                    ?>
+                  </li>
               </div>
           </div>
       </div>
