@@ -103,6 +103,13 @@
         </a>
     </div>
     <div class="span4">
+        <a class="thumbnail" href="http://github.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/github.png">
+        </a>
+    </div>
+</div>
+<div class="row sponsors">
+    <div class="span4 offset4">
         <a class="thumbnail" href="#" target="_blank">
             <img alt="image" src="/img/sponsors/cocacola.png">
         </a>
