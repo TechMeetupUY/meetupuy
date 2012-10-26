@@ -129,8 +129,10 @@
         <script src="/js/script.js"></script>
         <script type="text/javascript">
             $(document).ready(function(){
+                /*
                 var hashes = window.location.href.split("#");
                 $('#'+hashes[1]).modal();
+
 
                 $('a[data-toggle="modal"]').click(function(){
                     window.location = $(this).attr('href');
@@ -138,6 +140,7 @@
                 $('.modal').on('hidden', function () {
                     window.location = '#';
                 })
+                */
             });
         </script>
     </body>
