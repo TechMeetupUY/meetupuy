@@ -28,7 +28,7 @@ $title = "Asistentes";
                     <div class="span8 offset2">
                         <ul class="thumbnails">
                             <?php
-                            $sql = "SELECT * FROM asistentes ORDER BY RANDOM();";
+                            $sql = "SELECT twitter_handle, avatar_url, email FROM asistentes ORDER BY RANDOM();";
                             $results = $asistentesTbl->fetchAll();
                             $results = $results->toArray();
                             shuffle($results);
@@ -39,9 +39,14 @@ $title = "Asistentes";
                                         <a class="thumbnail" href="<?php if ($result['twitter_handle']) { echo 'http://twitter.com/' . $result['twitter_handle'];} ?>" target="_blank"  data-placement="top" title="<?php echo $result['nombre'] ?>">
                                             <img width="48px" src="<?php echo $result['avatar_url']; ?>">
                                         </a>
-                                        <?php } else { ?>
+                                        <?php } else {
+                                            $default_img_src= "http://meetup.uy/img/avatar".rand(1,6).".png";
+                                            //No tienen twitter, veamos si podemos traernos el gravatar
+                                            $email = strtolower( md5($result['email']) );
+                                            $img_src = "http://www.gravatar.com/avatar/".$email."?s=48&d=".urlencode($default_img_src);
+                                            ?>
                                         <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result['nombre'] ?>">
-                                            <img width="48px" src="/img/avatar<?php echo rand(1,6);?>.png" alt="<?php echo $result['nombre'] ?>" >
+                                            <img width="48px" src="<?php echo $img_src;?>" alt="<?php echo $result['nombre'] ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>
