@@ -25,7 +25,7 @@ $title = "Asistentes";
         <div id="content">
             <div class="container">
                 <div class="row">
-                    <div class="span8 offset2">
+                    <div class="span10 offset1">
                         <ul class="thumbnails">
                             <?php
                             $sql = "SELECT twitter_handle, avatar_url, email FROM asistentes ORDER BY RANDOM();";
@@ -34,19 +34,19 @@ $title = "Asistentes";
                             shuffle($results);
                             foreach ($results as $result):
                                 ?>
-                                <li class="span1">
+                                <li class="span2">
                                     <?php if ($result['twitter_handle'] != '') { ?>
                                         <a class="thumbnail" href="<?php if ($result['twitter_handle']) { echo 'http://twitter.com/' . $result['twitter_handle'];} ?>" target="_blank"  data-placement="top" title="<?php echo $result['nombre'] ?>">
-                                            <img width="48px" src="<?php echo $result['avatar_url']; ?>">
+                                            <img width="73px" src="<?php echo str_replace("_normal","_bigger", $result['avatar_url']); ?>">
                                         </a>
                                         <?php } else {
                                             $default_img_src= "http://meetup.uy/img/avatar".rand(1,6).".png";
                                             //No tienen twitter, veamos si podemos traernos el gravatar
                                             $email = strtolower( md5($result['email']) );
-                                            $img_src = "http://www.gravatar.com/avatar/".$email."?s=48&d=".urlencode($default_img_src);
+                                            $img_src = "http://www.gravatar.com/avatar/".$email."?s=73&d=".urlencode($default_img_src);
                                             ?>
                                         <a class="thumbnail" href="#" data-placement="top" rel="tooltip" title="<?php echo $result['nombre'] ?>">
-                                            <img width="48px" src="<?php echo $img_src;?>" alt="<?php echo $result['nombre'] ?>" >
+                                            <img width="73px" src="<?php echo $img_src;?>" alt="<?php echo $result['nombre'] ?>" >
                                         </a>
                                 <?php } ?>
                                 </li>
