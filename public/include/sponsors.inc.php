@@ -25,6 +25,11 @@
 </div>
 <div class="row sponsors">
     <div class="span4">
+        <a class="thumbnail" href="#">
+            <img alt="image" src="/img/sponsors/jordan.png">
+        </a>
+    </div>
+    <div class="span4">
         <a class="thumbnail" href="http://case-inc.com/?ref=meetup.uy" target="_blank">
             <img alt="image" src="/img/sponsors/case.png">
         </a>
@@ -32,11 +37,6 @@
     <div class="span4">
         <a class="thumbnail" href="http://d11.com.uy/?ref=meetup.uy" target="_blank">
             <img alt="image" src="/img/sponsors/d11.png">
-        </a>
-    </div>
-    <div class="span4">
-        <a class="thumbnail" href="http://userboss.com/?ref=meetup.uy" target="_blank">
-            <img alt="image" src="/img/sponsors/userboss.jpg">
         </a>
     </div>
 </div>
@@ -59,8 +59,8 @@
 </div>
 <div class="row sponsors">
     <div class="span4">
-        <a class="thumbnail" href="http://www.anii.org.uy/web/?ref=meetup.uy" target="_blank">
-            <img alt="image" src="/img/sponsors/anii.png">
+        <a class="thumbnail" href="http://userboss.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/userboss.jpg">
         </a>
     </div>
     <div class="span4">
@@ -109,9 +109,14 @@
     </div>
 </div>
 <div class="row sponsors">
-    <div class="span4 offset2">
+    <div class="span4">
         <a class="thumbnail" href="http://codigodelsur.com/?ref=meetup.uy" target="_blank">
             <img alt="image" src="/img/sponsors/codigo-del-sur.png">
+        </a>
+    </div>
+     <div class="span4">
+        <a class="thumbnail" href="http://www.anii.org.uy/web/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/anii.png">
         </a>
     </div>
     <div class="span4">
