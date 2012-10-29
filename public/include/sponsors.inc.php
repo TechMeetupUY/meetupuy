@@ -109,8 +109,13 @@
     </div>
 </div>
 <div class="row sponsors">
-    <div class="span4 offset4">
-        <a class="thumbnail" href="#" target="_blank">
+    <div class="span4 offset2">
+        <a class="thumbnail" href="http://codigodelsur.com/?ref=meetup.uy" target="_blank">
+            <img alt="image" src="/img/sponsors/codigo-del-sur.png">
+        </a>
+    </div>
+    <div class="span4">
+        <a class="thumbnail" href="#">
             <img alt="image" src="/img/sponsors/cocacola.png">
         </a>
     </div>
