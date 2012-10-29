@@ -187,7 +187,10 @@ $title = "Agenda";
                                 </div>
                                 <div id="collapseHtml5" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p></p>
+                                        <p>En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?
+                                        </p>
+                                        <p>
+Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.</p>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
