@@ -1,5 +1,5 @@
 <?php
-    $title = "Oradores";
+$title = "Oradores";
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -45,30 +45,31 @@
                         <a class="thumbnail" data-toggle="modal" href="#moreno"><img alt="image" src="/img/oradores/sebastian_moreno.jpg"></a>
                         <h2 class="sub">Sebastián Moreno <a data-toggle="modal" href="#moreno"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
-                    <div class="span4">
-
-                            <a class="thumbnail" data-toggle="modal" href="#martinez"><img alt="image" src="/img/oradores/maximo_martinez.jpg"></a>
-
-                        <h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                     <div class="span4">
+                        <div class="thumbnail">
+                            <a data-toggle="modal" href="#sanguinetti"><img alt="image" src="/img/oradores/nicolas_sanguinetti.jpg"></a>
+                        </div>
+                        <h2 class="sub">Nicolás Sanguinetti <a data-toggle="modal" href="#sanguinetti"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
+
                     <div class="span4 badge-inside">
-                            <span class="badge orange">Invitado</span>
-                            <a class="thumbnail"  data-toggle="modal" href="#firtman"><img alt="image" src="/img/oradores/maximiliano_firtman.jpg"></a>
+                        <span class="badge orange">Invitado</span>
+                        <a class="thumbnail"  data-toggle="modal" href="#firtman"><img alt="image" src="/img/oradores/maximiliano_firtman.jpg"></a>
                         <h2 class="sub">Maximiliano Firtman <a data-toggle="modal" href="#firtman"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
                 <hr class="dashed">
                 <div class="row">
                     <div class="span4">
-                            <a class="thumbnail" data-toggle="modal" href="#ipar"><img alt="image" src="/img/oradores/fernando_ipar.jpg"></a>
+                        <a class="thumbnail" data-toggle="modal" href="#ipar"><img alt="image" src="/img/oradores/fernando_ipar.jpg"></a>
                         <h2 class="sub">Fernando Ipar <a data-toggle="modal" href="#ipar"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                     <div class="span4">
-                            <a class="thumbnail" data-toggle="modal" href="#gomez"><img alt="image" src="/img/oradores/adrian.jpg"></a>
+                        <a class="thumbnail" data-toggle="modal" href="#gomez"><img alt="image" src="/img/oradores/adrian.jpg"></a>
                         <h2 class="sub">Adrian Gomez <a data-toggle="modal" href="#gomez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                     <div class="span4">
-                            <a class="thumbnail" data-toggle="modal" href="#zas"><img alt="image" src="/img/oradores/gian.jpg"></a>
+                        <a class="thumbnail" data-toggle="modal" href="#zas"><img alt="image" src="/img/oradores/gian.jpg"></a>
                         <h2 class="sub">Gianfranco Zas <a data-toggle="modal" href="#zas"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
@@ -86,20 +87,18 @@
 
                     <div class="span4">
 
-                            <a class="thumbnail" data-toggle="modal" href="#camargo"><img alt="image" src="/img/oradores/gabriel_camargo.jpg"></a>
+                        <a class="thumbnail" data-toggle="modal" href="#camargo"><img alt="image" src="/img/oradores/gabriel_camargo.jpg"></a>
                         <h2 class="sub">Gabriel Camargo <a data-toggle="modal" href="#camargo"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
-                <!--
-                        <div class="row">
-                          <div class="span4">
-                            <div class="thumbnail">
-                              <img alt="image" src="http://placehold.it/300x300&text=:)">
-                            </div>
-                            <h2 class="sub">Tu nombre!!!</h2>
-                          </div>
-                        </div>
-                -->
+                <hr class="dashed">
+                <div class="row">
+                    <div class="span4">
+                        <a class="thumbnail" data-toggle="modal" href="#martinez"><img alt="image" src="/img/oradores/maximo_martinez.jpg"></a>
+                        <h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                    </div>
+                </div>
+
                 <?php if (false) { ?>
                     <div class="row">
                         <div class="span12">
@@ -140,7 +139,7 @@
                 $('.modal').on('hidden', function () {
                     window.location = '#';
                 })
-                */
+                 */
             });
         </script>
     </body>
