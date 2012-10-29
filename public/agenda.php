@@ -165,7 +165,11 @@ $title = "Agenda";
                                 </div>
                                 <div id="collapseVagrant" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p></p>
+                                        <p>
+                                        Vagrant permite crear máquinas virtuales livianas y configurables en
+                                        forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como
+                                        crear un entorno de prueba configurable y fácilmente restaurable
+                                        usando este proyecto.
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
