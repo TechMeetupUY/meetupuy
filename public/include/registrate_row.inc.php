@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="span6">
+    <div class="span6 offset3">
         <div class="callout well">
             <h2>Ya queda poco.</h2>
             <p>No te la pierdas...</p>
@@ -9,6 +9,7 @@
             </a>
         </div>
     </div>
+    <!--
     <div class="span6">
         <div class="callout well">
             <h2>Entrada gratis?...</h2>
@@ -19,4 +20,5 @@
             </a>
         </div>
     </div>
+    -->
 </div>

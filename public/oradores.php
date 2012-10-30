@@ -46,10 +46,10 @@ $title = "Oradores";
                         <h2 class="sub">Sebastián Moreno <a data-toggle="modal" href="#moreno"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                      <div class="span4">
-                        <div class="thumbnail">
-                            <a data-toggle="modal" href="#sanguinetti"><img alt="image" src="/img/oradores/nicolas_sanguinetti.jpg"></a>
-                        </div>
-                        <h2 class="sub">Nicolás Sanguinetti <a data-toggle="modal" href="#sanguinetti"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                        <div class="span4">
+                        <a class="thumbnail" data-toggle="modal" href="#martinez"><img alt="image" src="/img/oradores/maximo_martinez.jpg"></a>
+                        <h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
+                    </div>
                     </div>
 
                     <div class="span4 badge-inside">
@@ -89,13 +89,6 @@ $title = "Oradores";
 
                         <a class="thumbnail" data-toggle="modal" href="#camargo"><img alt="image" src="/img/oradores/gabriel_camargo.jpg"></a>
                         <h2 class="sub">Gabriel Camargo <a data-toggle="modal" href="#camargo"><span class="icon-plus" data-original-title="Leer más"></a></h2>
-                    </div>
-                </div>
-                <hr class="dashed">
-                <div class="row">
-                    <div class="span4">
-                        <a class="thumbnail" data-toggle="modal" href="#martinez"><img alt="image" src="/img/oradores/maximo_martinez.jpg"></a>
-                        <h2 class="sub">Máximo Martinez <a data-toggle="modal" href="#martinez"><span class="icon-plus" data-original-title="Leer más"></a></h2>
                     </div>
                 </div>
 
