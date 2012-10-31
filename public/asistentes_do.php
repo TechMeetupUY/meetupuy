@@ -85,14 +85,14 @@ foreach ($readcsv as $line) {
         $nuevo_registro->twitter_handle = trim($line[14]);
         $nuevo_registro->email = trim($line[4]);
         //traigo data de twitter.
+        $avatar_url = '';
         if($line[14] != '' && strtolower($line[14])!="twitter"){
             try{
                 $results = $twitter->request('users/show', array('screen_name'=>$line[14]), 'GET');
+                $avatar_url = $results->profile_image_url;
             } catch (Exception $e){
-                echo $e->getMessage();
-                die();
+                 error_log("twitter error - ".$line[14]);
             }
-            $avatar_url = $results->profile_image_url;
         } else {
             $avatar_url = '/img/asistente_default.jpg';
         }
