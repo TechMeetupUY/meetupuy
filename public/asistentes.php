@@ -29,9 +29,10 @@ $title = "Asistentes";
                         <ul class="thumbnails">
                             <?php
                             $sql = "SELECT twitter_handle, avatar_url, email FROM asistentes ORDER BY nombre ASC;";
+			    error_log($sql);
                             $results = $asistentesTbl->fetchAll();
                             $results = $results->toArray();
-                            shuffle($results);
+			    shuffle($results);
                             foreach ($results as $result):
                                 ?>
                                 <li class="span2">
