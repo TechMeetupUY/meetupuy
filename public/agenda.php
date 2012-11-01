@@ -248,7 +248,16 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
                                 </div>
                                 <div id="collapseKinect" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p></p>
+                                        <p>
+                                        <ul>
+                                            <li>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla.</li>
+                                            <li>Bibliotecas y controladores existentes para la comunicación.</li>
+                                            <li>Información relevante y manejo de los datos provenientes del dispositivo.</li>
+                                            <li>Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect.</li>
+                                            <li>Ejemplos de aplicaciones existentes.</li>
+                                            <li>Desarrollo de aplicación de prueba con análisis del código.</li>
+                                        </ul>
+                                        </p>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
