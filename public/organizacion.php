@@ -31,8 +31,8 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="span9 offset130px">
-                        <ul class="thumbnails">
+                    <div class="span9 offset130px" >
+                        <ul class="thumbnails" >
                             <li class="span3">
                                 <div class="thumbnail" id="team">
                                     <img alt="" src="/img/organizacion/martin_loy.jpg">
@@ -121,21 +121,29 @@
                     <div class="span8 offset3">
                         <ul class="thumbnails">
                             <li class="span2">
-                                <a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank"><img class="img-rounded" alt="" src="/img/apoyan/pampa.jpg"></a>
+                                <a class="thumbnails" href="https://twitter.com/alepamparato" target="_blank"><img class="img-rounded" alt="Pampa" src="/img/apoyan/pampa.jpg"></a>
                                 <div class="caption">
                                     <h3>Pampa</h3>
                                 </div>
                             </li>
 
                             <li class="span2">
-                                <a class="thumbnails" href="https://twitter.com/soygero" target="_blank"><img class="img-rounded" alt="" src="/img/apoyan/gero.jpg"></a>
+                                <a class="thumbnails" href="https://twitter.com/soygero" target="_blank"><img class="img-rounded" alt="Gero" src="/img/apoyan/gero.jpg"></a>
                                 <div class="caption">
                                     <h3>Gero</h3>
                                 </div>
                             </li>
                             <li class="span2">
+                                <a class="thumbnails" href="https://twitter.com/taguerre" target="_blank"><img class="img-rounded" alt="Teresa" src="/img/apoyan/teresa.jpg"></a>
+                                <div class="caption">
+                                    <h3>Teresa</h3>
+                                </div>
+                            </li>
+                            <!--
+                            <li class="span2">
                                 <a class="thumbnails" href="mailto:info@meetup.uy"><img class="img-rounded" alt="" src="http://placehold.it/160x160&text=¡Apoyá!"></a>
                             </li>
+                            -->
                         </ul>
                     </div>
                 </div>
