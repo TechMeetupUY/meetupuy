@@ -121,6 +121,14 @@
     </div>
     <div class="span4">
         <a class="thumbnail" href="#">
+            <img alt="image" src="/img/sponsors/google.jpg">
+        </a>
+    </div>
+</div>
+<div class="row sponsors">
+
+    <div class="span4 offset4">
+        <a class="thumbnail" href="#">
             <img alt="image" src="/img/sponsors/cocacola.png">
         </a>
     </div>
