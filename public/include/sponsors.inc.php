@@ -120,7 +120,7 @@
         </a>
     </div>
     <div class="span4">
-        <a class="thumbnail" href="#">
+        <a class="thumbnail" href="https://www.google.com/?ref=meetup.uy" target="_blank">
             <img alt="image" src="/img/sponsors/google.jpg">
         </a>
     </div>
