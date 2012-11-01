@@ -28,7 +28,7 @@ $title = "Asistentes";
                     <div class="span10 offset1">
                         <ul class="thumbnails">
                             <?php
-                            $sql = "SELECT twitter_handle, avatar_url, email FROM asistentes ORDER BY nombre DESC;";
+                            $sql = "SELECT twitter_handle, avatar_url, email FROM asistentes ORDER BY nombre ASC;";
                             $results = $asistentesTbl->fetchAll();
                             $results = $results->toArray();
                             shuffle($results);
