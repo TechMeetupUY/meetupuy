@@ -47,8 +47,8 @@
                         </div>
                         <h2>Cuándo</h2>
                         <p>Sábado, 3 de Noviembre de 2012
-                            <br>Inicio 9:00am</p>
-                            <br>Fin 7:15pm</p>
+                            <br>Inicio 9:00am<br/>
+                            Fin 7:15pm</p>
                     </div>
                     <div class="span3 bouncy">
                         <div class="icon_wrapper">
