@@ -211,7 +211,7 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="" href="#collapseReview">
-                                        <i class="icon-chevron-right"></i> CI + Review
+                                        <i class="icon-chevron-right"></i> Require 'quality'
                                     </a>
                                 </div>
                                 <div id="collapseReview" class="accordion-body collapse">
