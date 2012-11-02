@@ -59,6 +59,20 @@
                             <br>Red Pagos - Colectivo No: 34264<br>paypal: pagos@meetup.uy</p>
                     </div>
                 </div>
+                <hr class="dashed">
+                <div class="row">
+                    <div class="span6">
+                        <a class="twitter-timeline" href="https://twitter.com/meetupUY" data-widget-id="264473265169375232">Tweets por @meetupUY</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                    </div>
+                    <div class="span6">
+                        <a class="twitter-timeline" href="https://twitter.com/search?q=%23meetupUY" data-widget-id="264470233258008576">Tweets sobre "#meetupUY"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+                    </div>
+                </div>
                 <?php require_once 'include/registrate_row.inc.php' ?>
                 <hr class="dashed">
                 <?php require_once 'include/sponsors.inc.php'; ?>
