@@ -57,11 +57,18 @@ $title = "Agenda";
                                         <p>
                                             Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua.
                                         </p>
-                                        <p>
-                                            <a href="https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado" target="_blank">
-                                                <i class="icon-th-large"></i> https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado
-                                            </a>
-                                        </p>
+                                        <ul class="unstyled">
+                                            <li>
+                                                <a href="https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado" target="_blank">
+                                                    <i class="icon-th-large"></i> https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://github.com/sebastianmoreno/meetup-uy-example" target="_blank">
+                                                    <i class="icon-th-large"></i> https://github.com/sebastianmoreno/meetup-uy-example
+                                                </a>
+                                            </li>
+                                        </ul>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
