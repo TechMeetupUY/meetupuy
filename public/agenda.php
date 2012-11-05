@@ -58,7 +58,9 @@ $title = "Agenda";
                                             Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua.
                                         </p>
                                         <p>
-                                            Todo el material usado para la demo va a estar disponible para que los asistentes puedan investigar a partir de donde los dejamos en la charla.
+                                            <a href="https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado">
+                                                <i class="icon-th-large"></i> https://speakerdeck.com/sebastianmoreno/continuous-improvement-o-como-poner-los-robots-de-tu-lado
+                                            </a>
                                         </p>
                                         <p>
                                         <ul class="thumbnails">
@@ -280,7 +282,9 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
                         <a class="thumbnail" >
                             <img src="/img/meetup_uy_charlas.jpg">
                         </a>
+                        <!--
                         <p style="text-align: center;"><small>El órden de las charlas se dará a conocer en el momento de la acreditación.</small></p>
+                        -->
                     </div>
                 </div>
                 <?php require_once 'include/registrate_row.inc.php' ?>

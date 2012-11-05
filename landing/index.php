@@ -36,17 +36,11 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="index.html">Bounce</a>
+                    <a class="brand" href=".">#meetupUY</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="alt.html">Alt. Home</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li class="active"><a href="features.html">Features</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
-                            <li><a href="login.html">Login</a></li>
-                            <li><a href="register.html">Register</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="http://twitter.com/meetupUY" target="_blank">@meetupUY</a></li>
+                            <li><a href="mailto:info@meetup.uy">Contacto</a></li>
                         </ul>
                     </div>
                 </div>
@@ -86,26 +80,26 @@
         'devfest' => array(
             'titulo'    => 'DevFest UY',
             'lugar'     => 'Universidad Católica del Uruguay',
-            'fecha'     => '2012/11/4 a 2012/11/4',
+            'fecha'     => '4/11/2012',
             'horario'   =>  '15:00 a 20:00',
             'costo'     => '',
-            'link'      => 'https://eventioz.com/devfest-uruguay/',
-            'descripcion' => ''
+            'link'      => 'http://gdg.uy/devfest',
+            'descripcion' => 'La temporada de DevFests ya ha comenzado en el mundo y en Uruguay se desarrollara el 5 de Noviembre desde las 15:00 en la Universidad Católica. El evento tendrá formato de conferencia donde participaran Ingenieros de Google y destacados expositores de la comunidad local donde se abordaran temas como Android, Go Language, HTML5, WebRTC, Google App Engine, Google APIs, YouTube APIs, Google Analytics entre otros.'
         ),
         '5MVDVALLEY' => array(
             'titulo'    => '5MVDVALLEY',
             'lugar'     => 'Luis Alberto de Herrera 1248 (Auditorium WTC), Montevideo.',
-            'fecha'     => '2012/11/10 a 2012/11/10',
+            'fecha'     => '10/11/2012',
             'horario'   =>  '10:00 a 23:00',
             'costo'     => 'U$S 20',
             'audiencia' => '',
-            'link'      => 'https://eventioz.com/5MVDValley',
+            'link'      => 'http://montevideovalley.com/',
             'descripcion' => ''
         ),
         'PyconUY' => array(
             'titulo'    => 'Pycon 2012',
             'lugar'     => 'Laboratorio Tecnológico del Uruguay, Av. Italia 6201, Montevideo',
-            'fecha'     => '2012/11/10 a 2012/11/11',
+            'fecha'     => '10/11/2012 a 11/11/2012',
             'horario'   =>  '9:00 a 19:00',
             'costo'     => '',
             'link'      => 'http://uy.pycon.org',
@@ -114,7 +108,7 @@
         'OWASP' => array(
             'titulo'    => 'OWASP AppSec 2012',
             'lugar'     => 'Auditorio Torre de las Telecomunicaciones, Montevideo',
-            'fecha'     => '2012/11/18 a 2012/11/21',
+            'fecha'     => '18/11/2012 a 21/11/2012',
             'horario'   =>  '8:00 a 17:30',
             'costo'     => 'U$S 250 ~ USD 800',
             'link'      => 'https://www.owasp.org/index.php/AppSecLatam2012',
@@ -123,7 +117,7 @@
          'DEVLATAM' => array(
             'titulo'    => 'Desarrollando América Latina',
             'lugar'     => 'Laboratorio Tecnológico del Uruguay, Av. Italia 6201, Montevideo',
-            'fecha'     => '2012/12/1 a 2012/12/2',
+            'fecha'     => '1/12/2012 a 2/12/2012',
             'horario'   =>  '9:00 a 17:00',
             'costo'     => '',
             'link'      => 'https://eventioz.com/DALuruguay',
@@ -132,7 +126,7 @@
         'Puntatech' => array(
             'titulo'    => 'Punta Tech Meetup',
             'lugar'     => 'Fundación Pablo Atchugarry, Punta del Este, Maldonado',
-            'fecha'     => '2013/1/8',
+            'fecha'     => '8/1/2013',
             'horario'   =>  '19:00',
             'costo'     => 'por invitación',
             'link'      => 'http://puntameetup.com/',
@@ -141,7 +135,7 @@
         'RybConf' => array(
             'titulo'    => 'RubyConf',
             'lugar'     => 'Auditorio Torre de las Telecomunicaciones, Montevideo',
-            'fecha'     => '2013/3',
+            'fecha'     => '3/2013',
             'horario'   => '',
             'costo'     => 'n/d',
             'link'      => 'http://www.rubyconfuruguay.org',
@@ -150,17 +144,91 @@
         'PlayaValley' => array(
             'titulo'    => '#PlayaValley',
             'lugar'     => 'Centro Cultural La Paloma, La Paloma, Rocha',
-            'fecha'     => '2013/5',
+            'fecha'     => '5/2013',
             'horario'   => '',
             'costo'     => '',
             'link'      => 'http://playavalley.com/',
             'descripcion' => ''
         ),
+        'TechMeetup' => array(
+            'titulo'    => 'tech.meetupUY',
+            'lugar'     => 'Auditorio Torre de las Telecomunicaciones, Montevideo',
+            'fecha'     => '11/2013',
+            'horario'   => '',
+            'costo'     => '',
+            'link'      => 'http://tech.meetup.uy',
+            'descripcion' => ''
+        ),
     );
 
-    $mensuales = array();
+    $mensuales = array(
+        'mysqlMeetup' => array(
+            'titulo'    => 'Mysql Meetup',
+            'lugar'     => 'UTU Buceo / Guruhub (ver link)',
+            'fecha'     => '2o jueves de mes',
+            'horario'   => '19:00',
+            'costo'     => '',
+            'link'      => 'http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group',
+            'descripcion' => ''
+        ),
+        'techNbeers' => array(
+            'titulo'    => 'Ruby Meetup',
+            'lugar'     => 'CoworkingMVD, Bulevar España 2529 Esq. Libertad, Montevideo',
+            'fecha'     => '2o martes de mes',
+            'horario'   => '',
+            'costo'     => '',
+            'link'      => 'http://www.meetup.com/rubymvd/',
+            'descripcion' => ''
+        ),
+        'techNbeers' => array(
+            'titulo'    => 'TecnNbeers',
+            'lugar'     => 'Asia de Cuba, Montevideo',
+            'fecha'     => '4o jueves de mes',
+            'horario'   => '',
+            'costo'     => '',
+            'link'      => 'http://montevideovalley.com/',
+            'descripcion' => ''
+        ),
+        'OpenCoffee' => array(
+            'titulo'    => 'Open Coffee',
+            'lugar'     => 'Amaretto Bakery Café',
+            'fecha'     => '2o Martes de mes',
+            'horario'   => '9:00',
+            'costo'     => '',
+            'link'      => 'http://opencoffeemvd.org/',
+            'descripcion' => ''
+        ),
+        'techNbeers' => array(
+            'titulo'    => 'TecnNbeers',
+            'lugar'     => 'Asia de Cuba, Montevideo',
+            'fecha'     => '4o jueves',
+            'horario'   => '',
+            'costo'     => '',
+            'link'      => 'http://montevideovalley.com/',
+            'descripcion' => ''
+        ),
+    );
 
     $anuales_chunks = array_chunk($anuales, 2);
+
+    function print_bloque($evento){
+        ?>
+        <div class="span5 well2">
+            <h2 class="sub"><a href="<?= $evento['link']; ?>" target="_blank"><?= $evento['titulo']; ?></a></h2>
+            <ul class="unstyled">
+                <li><i class="icon-map-marker"></i> <?=$evento['lugar']; ?></li>
+                <li><i class="icon-calendar"></i> <?= $evento['fecha']; ?></li>
+                <?php if(!empty($evento['horario']) && $evento['horario']!= ''): ?>
+                    <li><i class="icon-time"></i> <?= $evento['horario']; ?></li>
+                <?php endif; ?>
+
+                <?php if(!empty($evento['costo']) && $evento['costo'] != ''): ?>
+                    <li><i class="icon-money"></i> <?= $evento['costo']; ?></li>
+                <?php endif; ?>
+            </ul>
+        </div>
+        <?php
+    }
 ?>
         <div id="content">
             <div class="container">
@@ -176,22 +244,7 @@
                     <div class="row">
                         <?php
                         foreach($eventos_row as $evento):
-                            ?>
-                        <div class="span5 well2">
-                            <h2 class="sub"><a href="<?= $evento['link']; ?>" target="_blank"><?= $evento['titulo']; ?></a></h2>
-                            <ul class="unstyled">
-                                <li><i class="icon-map-marker"></i> <?=$evento['lugar']; ?></li>
-                                <li><i class="icon-calendar"></i> <?= $evento['fecha']; ?></li>
-                                <?php if(!empty($evento['horario']) && $evento['horario']!= ''): ?>
-                                    <li><i class="icon-time"></i> <?= $evento['horario']; ?></li>
-                                <?php endif; ?>
-
-                                <?php if(!empty($evento['costo']) && $evento['costo'] != ''): ?>
-                                    <li><i class="icon-money"></i> <?= $evento['costo']; ?></li>
-                                <?php endif; ?>
-                            </ul>
-                        </div>
-                            <?php
+                            print_bloque($evento);
                         endforeach;
                         ?>
                     </div>
@@ -211,21 +264,7 @@
                     <div class="row">
                         <?php
                         foreach($eventos_row as $evento):
-                            ?>
-                        <div class="span5 well2">
-                            <h2 class="sub"><?= $evento['titulo']; ?></h2>
-                            <ul class="unstyled">
-                                <li><i class="icon-map-marker"></i> <?=$evento['lugar']; ?></li>
-                                <li><i class="icon-calendar"></i> <?= $evento['fecha']; ?></li>
-                                <li><i class="icon-time"></i> <?= $evento['horario']; ?></li>
-                                <?php if(!empty($evento['costo'])): ?>
-                                    <li><i class="icon-money"></i> <?= $evento['costo']; ?></li>
-                                <?php endif; ?>
-
-                                <li><i class="icon-globe"></i> <?= $evento['link']; ?></li>
-                            </ul>
-                        </div>
-                            <?php
+                           print_bloque($evento);
                         endforeach;
                         ?>
                     </div>
@@ -252,7 +291,7 @@
                 </div>
             </div>
         </div>
-
+        <!--
         <div id="footer">
             <div class="container">
                 <div class="row">
@@ -292,12 +331,12 @@
                 </div>
             </div>
         </div>
-
+        -->
         <div id="copywrite">
             <div class="container">
                 <div class="row">
                     <div class="span12">
-                        <p>&copy; 2012 Bounce Template <span id="totop" class="pull-right">Back to Top <i class="icon-arrow-up"></i></span></p>
+                        <p>&copy; 2012 tech.Meetup.UY <span id="totop" class="pull-right">Back to Top <i class="icon-arrow-up"></i></span></p>
                     </div>
                 </div>
             </div>
