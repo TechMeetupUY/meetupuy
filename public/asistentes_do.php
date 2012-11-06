@@ -161,5 +161,8 @@ foreach ($readcsv as $line) {
           </div>
       </div>
     </div>
+
+      <?php require_once 'include/js.inc.php'; ?>
+      
   </body>
 </html>
