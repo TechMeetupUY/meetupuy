@@ -33,7 +33,7 @@
                                         if($i == 1){
                                             $active = 'active';
                                         }
-                                        echo '<div class="'.$active.' item"><a href="#"><img alt="" src="/img/2012_presentacion/tm2012-'.sprintf('%02d', $i).'.jpg"></a></div>';
+                                        echo '<div class="'.$active.' item"><a href="https://picasaweb.google.com/103831516229609535032/TechMeetupUY2012" target="_blank"><img alt="" src="/img/2012_presentacion/tm2012-'.sprintf('%02d', $i).'.jpg"></a></div>';
                                     }
                                 ?>
                             </div>
