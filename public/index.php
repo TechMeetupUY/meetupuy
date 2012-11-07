@@ -10,10 +10,18 @@
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2" style="text-align:center;">
+                    <h1>conferencia para y por desarrolladores.</h1>
+                </div>
+                    <div class="span8 offset2 " style="text-align:center;">
+                        <br>
+                        <iframe width="770" height="480" src="http://www.youtube.com/embed/MpHCfExOr_I" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <div class="span8 offset2" style="text-align:center;">
+                        <!--
                         <p>
                             <img src="/img/tech-meetup-logo-big.png">
                         </p>
-                        <h1>conferencia para y por desarrolladores, Bienvenidos.</h1>
+                    -->
 
                         <div id="myCarousel" class="carousel slide">
                             <div class="carousel-inner">
