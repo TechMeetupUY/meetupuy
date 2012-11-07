@@ -11,6 +11,7 @@
                 <div class="row">
                     <div class="span8 offset2" style="text-align:center;">
                     <h1>conferencia para y por desarrolladores.</h1>
+                    <h2>Video y fotos de la edición v2012</h2>
                 </div>
                     <div class="span8 offset2 " style="text-align:center;">
                         <br>
