@@ -266,7 +266,16 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
                                             <li>Ejemplos de aplicaciones existentes.</li>
                                             <li>Desarrollo de aplicación de prueba con análisis del código.</li>
                                         </ul>
+                                        <ul class="unstyled">
+                                            <li>
+                                                <a href="https://speakerdeck.com/rrivem/desarrollo-de-aplicaciones-con-kinect" target="_blank">
+                                                    <i class="icon-th-large"></i> https://speakerdeck.com/rrivem/desarrollo-de-aplicaciones-con-kinect
+                                                </a>
+                                            </li>
+                                           
+                                        </ul>
                                         </p>
+
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
@@ -303,7 +312,7 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
 
         <?php require_once 'include/js.inc.php'; ?>
 
-        
+
         <script>
             $(window).load(function() {
                 $("#totop").click(function () {
