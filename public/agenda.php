@@ -180,6 +180,14 @@ $title = "Agenda";
                                         crear un entorno de prueba configurable y fácilmente restaurable
                                         usando este proyecto.
                                         <p>
+                                            <ul class="unstyled">
+                                            <li>
+                                                <a href="https://github.com/fipar/presentacion_vagrant" target="_blank">
+                                                    <i class="icon-th-large"></i> https://github.com/fipar/presentacion_vagrant
+                                                </a>
+                                            </li>
+
+                                        </ul>
                                         <ul class="thumbnails">
                                             <li class="span1">
                                                 <a class="thumbnail" data-toggle="modal" href="#ipar">
@@ -272,7 +280,7 @@ Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos
                                                     <i class="icon-th-large"></i> https://speakerdeck.com/rrivem/desarrollo-de-aplicaciones-con-kinect
                                                 </a>
                                             </li>
-                                           
+
                                         </ul>
                                         </p>
 
