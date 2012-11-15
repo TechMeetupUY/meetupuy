@@ -153,7 +153,14 @@ $title = "Agenda";
                                 <div id="collapseMono" class="accordion-body collapse">
                                     <div class="accordion-inner">
                                         <p>La experiencia de Paganza desarrollando una app nativa para iOS y Android usando <a href="http://www.mono-project.com/" target="_blank">Mono</a>.</p><p>Hablaremos de que es Mono y tecnologias asociadas como <a href="http://xamarin.com/monotouch" target="_blank">MonoTouch</a> y Mono for Android. Cómo es desarrollar con estas herramientas, problemas encontrados y posibles caminos a seguir.</p>
-                                        <p>
+                                        <ul class="unstyled">
+                                            <li>
+                                                <a href="https://docs.google.com/presentation/d/1H2r5x9kM4doMLCM-t052-R_QfbjiO5xw5OBmlwSP1Oo/edit#slide=id.p" target="_blank">
+                                                    <i class="icon-th-large"></i> https://docs.google.com/presentation/d/1H2r5x9kM4doMLCM-t052-R_QfbjiO5xw5OBmlwSP1Oo/edit#slide=id.p
+                                                </a>
+                                            </li>
+
+                                        </ul>
                                         <ul class="thumbnails">
                                             <li class="span1">
                                                 <a class="thumbnail" data-toggle="modal" href="#martinez">
@@ -161,7 +168,6 @@ $title = "Agenda";
                                                 </a>
                                             </li>
                                         </ul>
-                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -175,12 +181,12 @@ $title = "Agenda";
                                 <div id="collapseVagrant" class="accordion-body collapse">
                                     <div class="accordion-inner">
                                         <p>
-                                        Vagrant permite crear máquinas virtuales livianas y configurables en
-                                        forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como
-                                        crear un entorno de prueba configurable y fácilmente restaurable
-                                        usando este proyecto.
+                                            Vagrant permite crear máquinas virtuales livianas y configurables en
+                                            forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como
+                                            crear un entorno de prueba configurable y fácilmente restaurable
+                                            usando este proyecto.
                                         <p>
-                                            <ul class="unstyled">
+                                        <ul class="unstyled">
                                             <li>
                                                 <a href="https://github.com/fipar/presentacion_vagrant" target="_blank">
                                                     <i class="icon-th-large"></i> https://github.com/fipar/presentacion_vagrant
@@ -211,7 +217,7 @@ $title = "Agenda";
                                         <p>En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?
                                         </p>
                                         <p>
-Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.</p>
+                                            Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.</p>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
