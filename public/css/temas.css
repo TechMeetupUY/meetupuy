@@ -26,16 +26,20 @@
     text-align: center;
     font-weight: 800;
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .product-plan.resumen h3.corto {
     font-size: 80px;
 }
 
+.product-plan.resumen .feature{
+    border-bottom: 0px;
+}
 .product-plan.resumen .feature h4{
     text-align: center;
     padding: 5px;
+    color: #999999;
 }
 
 .row.resumen{

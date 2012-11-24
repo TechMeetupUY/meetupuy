@@ -97,7 +97,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">245</h3>
+                                       <h3 class="corto text-info">245</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -114,7 +114,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">30+</h3>
+                                       <h3 class="corto text-info">30+</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -131,7 +131,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">10+</h3>
+                                       <h3 class="corto text-info">10+</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -151,7 +151,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">12</h3>
+                                       <h3 class="corto text-info">12</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -168,7 +168,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">9</h3>
+                                       <h3 class="corto text-info">9</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -185,7 +185,7 @@
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                       <h3 class="corto">20</h3>
+                                       <h3 class="corto text-info">20</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -216,6 +216,15 @@
                     }, 300);
                     return false;
                 });
+
+                $('.product-plan.resumen').hover(
+                    function(){
+                        $(this).addClass("popular");
+                    },
+                    function(){
+                        $(this).removeClass("popular");
+                    }
+                );
             });
         </script>
 
