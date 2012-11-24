@@ -20,3 +20,24 @@
 .lista-temas li.tema {
     padding: 5px 0;
 }
+
+.product-plan.resumen h3 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 800;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.product-plan.resumen h3.corto {
+    font-size: 80px;
+}
+
+.product-plan.resumen .feature h4{
+    text-align: center;
+    padding: 5px;
+}
+
+.row.resumen{
+    padding-top:20px;
+}
