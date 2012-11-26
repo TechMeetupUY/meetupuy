@@ -356,7 +356,7 @@ $title = "edición v2012";
                             <ul class="unstyled">
                                 <li>
                                     <div class="feature">
-                                        <h3>10:45</h3>
+                                        <h3>12:25</h3>
                                     </div>
                                 </li>
                             </ul>
@@ -395,6 +395,53 @@ $title = "edición v2012";
                         </div>
                     </div>
                 </div>
+
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>14:20</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/ipar.png">
+                        </div>
+                    </div>
+                    <div class="span6">
+                        <h4>Entornos de prueba en minutos con Vagrant.</h4>
+                        <p>
+                            Vagrant permite crear máquinas virtuales livianas y configurables en forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como crear un entorno de prueba configurable y fácilmente restaurable usando este proyecto.
+                        </p>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">vagrant</span>
+                            <span class="label label-info">deploy</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=NtUgPPwroME&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="https://github.com/fipar/presentacion_vagrant" target="_blank"><i class="icon-th-large"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
 
                 <hr class="dashed">
 
