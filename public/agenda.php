@@ -239,7 +239,16 @@ $title = "Agenda";
                                 </div>
                                 <div id="collapseReview" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p></p>
+                                        <p>
+                                            <ul class="unstyled">
+                                            <li>
+                                                <a href="https://speakerdeck.com/snmgian/require-quality" target="_blank">
+                                                    <i class="icon-th-large"></i> https://speakerdeck.com/snmgian/require-quality
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                        </p>
                                         <p>
                                         <ul class="thumbnails">
                                             <li class="span1">
