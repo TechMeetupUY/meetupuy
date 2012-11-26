@@ -442,6 +442,188 @@ $title = "edición v2012";
                     </div>
                 </div>
 
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>15:05</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/firtman.png">
+                        </div>
+                    </div>
+                    <div class="span6">
+                        <h4>Mobile / HTML5.</h4>
+                        <p>
+                            En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?</p>
+
+<p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
+                        </p>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">mobile</span>
+                            <span class="label label-info">html5</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=n5780gi5_Hk&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://firt.mobi/" target="_blank"><i class="icon-globe"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>16:15</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/max.png">
+                        </div>
+                    </div>
+                    <div class="span6">
+                        <h4>Desarrollo mobile con Mono.</h4>
+                        <p>La experiencia de Paganza desarrollando una app nativa para iOS y Android usando Mono.</p><p>Hablaremos de que es Mono y tecnologias asociadas como MonoTouch y Mono for Android. Cómo es desarrollar con estas herramientas, problemas encontrados y posibles caminos a seguir.
+                        </p>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">mono</span>
+                            <span class="label label-info">mobile</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=mRFRORVzyZo&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="https://docs.google.com/presentation/d/1H2r5x9kM4doMLCM-t052-R_QfbjiO5xw5OBmlwSP1Oo/edit#slide=id.p" target="_blank"><i class="icon-th-large"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>17:00</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/rodrigo.png">
+                        </div>
+                    </div>
+                    <div class="span6">
+                        <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
+                        <p>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla / Bibliotecas y controladores existentes para la comunicación. / Información relevante y manejo de los datos provenientes del dispositivo. / Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect. / Ejemplos de aplicaciones existentes. /  Desarrollo de aplicación de prueba con análisis del código.
+                        </p>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">kinect</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=-HcBxgxTbYA&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw&index=9"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="https://speakerdeck.com/rrivem/desarrollo-de-aplicaciones-con-kinect" target="_blank"><i class="icon-th-large"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>17:45</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/gabriel.png">
+                        </div>
+                    </div>
+                    <div class="span6 expandable">
+                        <span class="descripcion">
+                        <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
+                        <p>En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia. La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.</p><p>En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p><p>Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.</p><p>Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.</p>
+                        </span>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">ddi</span>
+                            <span class="label label-info">innovación</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=1A7xptZl0WM&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="#" target="_blank"><i class="icon-th-large"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
                 <hr class="dashed">
 
