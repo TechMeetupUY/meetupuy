@@ -215,6 +215,7 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6">
+                        <h4>Keynote.</h4>
                         <p>
                             Enrique Baliño es Socio fundador de Xn Consultores. Como consultor de la firma, diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa.
                         </p>
@@ -256,7 +257,7 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6">
-                        <h4> Mr. Pedro Fullstack, a sus órdenes.</h4>
+                        <h4>Mr. Pedro Fullstack, a sus órdenes.</h4>
                         <p>
                             A través de la experiencia de Mr. Pedro, te quiero contar cómo fue incorporando un framework Agile para la gestión de sus procesos dentro de su emprendimiento de software factory,
                             de forma empírica y basado en mejora contínua hizo viable su proyecto sin agregar overhead innecesario en la gestión y por sobre todas las cosas valorando a la gente como su mayor
@@ -319,8 +320,10 @@ $title = "edición v2012";
                         </span>
                         <p>
                             <i class="icon-tag"></i>
-                            <span class="label label-info">agile</span>
-                            <span class="label label-info">scrum</span>
+                            <span class="label label-info">ci</span>
+                            <span class="label label-info">jenkins</span>
+                            <span class="label label-info">chef</span>
+                            <span class="label label-info">automatización</span>
 
                         </p>
                     </div>
@@ -340,6 +343,52 @@ $title = "edición v2012";
                                 <li class="bouncy">
                                     <div class="icon_wrapper">
                                         <a href="https://github.com/sebastianmoreno/meetup-uy-example" target="_blank"><i class="icon-folder-open"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row-fluid agenda product-plan">
+                    <div class="span2 horario">
+                        <div class="">
+                            <ul class="unstyled">
+                                <li>
+                                    <div class="feature">
+                                        <h3>10:45</h3>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span3">
+                        <div class="thumbnails">
+                            <img class="img-rounded" alt="" src="/img/v2012/quality.png">
+                        </div>
+                    </div>
+                    <div class="span6">
+                        <h4>Require 'quality'.</h4>
+                        <p>
+                        </p>
+                        <p>
+                            <i class="icon-tag"></i>
+                            <span class="label label-info">review</span>
+                            <span class="label label-info">gerrit</span>
+                            <span class="label label-info">calidad</span>
+                        </p>
+                    </div>
+                    <div class="span1">
+                        <div>
+                            <ul class="unstyled">
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="http://www.youtube.com/watch?v=VFINJ4b4vdE&feature=BFa&list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw"><i class="icon-facetime-video"></i></a>
+                                    </div>
+                                </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="https://speakerdeck.com/snmgian/require-quality" target="_blank"><i class="icon-th-large"></i></a>
                                     </div>
                                 </li>
                             </ul>
