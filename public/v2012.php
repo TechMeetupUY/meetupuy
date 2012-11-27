@@ -219,11 +219,13 @@ $title = "edición v2012";
                         <p>
                             Enrique Baliño es Socio fundador de Xn Consultores. Como consultor de la firma, diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa.
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#balino" data-toggle="modal">Enrique Baliño</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">motivación</span>
                             <span class="label label-info">equipos</span>
                         </p>
+
                     </div>
                     <div class="span1">
                         <div>
@@ -263,6 +265,7 @@ $title = "edición v2012";
                             de forma empírica y basado en mejora contínua hizo viable su proyecto sin agregar overhead innecesario en la gestión y por sobre todas las cosas valorando a la gente como su mayor
                             capital de trabajo.
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#ledesma" data-toggle="modal">Gabriel Ledesma</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">agile</span>
@@ -318,6 +321,7 @@ $title = "edición v2012";
 <p> Vamos a hablar de los problemas que implementar estas técnicas trae y como se solucionan de la misma manera que se solucionan los problemas de desplegar la aplicación a producción: automatización, integración y entrega continuas. </p>
 <p> Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua. </p>
                         </span>
+                        <p><i class="icon-bullhorn"></i> <a href="#silva" data-toggle="modal">Fede Silva</a> - <a href="#moreno" data-toggle="modal">Sebastián Moreno</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">ci</span>
@@ -371,6 +375,7 @@ $title = "edición v2012";
                         <h4>Require 'quality'.</h4>
                         <p>
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#gomez" data-toggle="modal">Adrian Gomez</a> - <a href="#zas" data-toggle="modal">Gianfranco Zas</a> - <a href="#arreche" data-toggle="modal">Gonzalo Arreche</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">review</span>
@@ -418,6 +423,7 @@ $title = "edición v2012";
                         <p>
                             Vagrant permite crear máquinas virtuales livianas y configurables en forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como crear un entorno de prueba configurable y fácilmente restaurable usando este proyecto.
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#ipar" data-toggle="modal">Fernando Ipar</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">vagrant</span>
@@ -466,6 +472,7 @@ $title = "edición v2012";
 
 <p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#firtman" data-toggle="modal">Maximiliano Firtman</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">mobile</span>
@@ -511,6 +518,7 @@ $title = "edición v2012";
                         <h4>Desarrollo mobile con Mono.</h4>
                         <p>La experiencia de Paganza desarrollando una app nativa para iOS y Android usando Mono.</p><p>Hablaremos de que es Mono y tecnologias asociadas como MonoTouch y Mono for Android. Cómo es desarrollar con estas herramientas, problemas encontrados y posibles caminos a seguir.
                         </p>
+                        <p><i class="icon-bullhorn"></i> <a href="#martinez" data-toggle="modal">Máximo Martinez</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">mono</span>
@@ -552,10 +560,13 @@ $title = "edición v2012";
                             <img class="img-rounded" alt="" src="/img/v2012/rodrigo.png">
                         </div>
                     </div>
-                    <div class="span6">
+                    <div class="span6 expandable">
+                        <span class="descripcion">
                         <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
                         <p>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla / Bibliotecas y controladores existentes para la comunicación. / Información relevante y manejo de los datos provenientes del dispositivo. / Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect. / Ejemplos de aplicaciones existentes. /  Desarrollo de aplicación de prueba con análisis del código.
                         </p>
+                        </span>
+                        <p><i class="icon-bullhorn"></i> <a href="#rivera" data-toggle="modal">Rodrigo Rivera</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">kinect</span>
@@ -601,6 +612,7 @@ $title = "edición v2012";
                         <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
                         <p>En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia. La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.</p><p>En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p><p>Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.</p><p>Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.</p>
                         </span>
+                        <p><i class="icon-bullhorn"></i> <a href="#camargo" data-toggle="modal">Gabriel Camargo</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">ddi</span>
@@ -617,7 +629,7 @@ $title = "edición v2012";
                                 </li>
                                 <li class="bouncy">
                                     <div class="icon_wrapper">
-                                        <a href="#" target="_blank"><i class="icon-th-large"></i></a>
+                                        <a href="http://www.ingsw.com/designdriveninnovation.pdf" target="_blank"><i class="icon-th-large"></i></a>
                                     </div>
                                 </li>
                             </ul>
@@ -665,5 +677,6 @@ $title = "edición v2012";
         </script>
 
         <?php require_once 'include/footer.inc.php'; ?>
+        <?php require_once 'include/oradores_modals.inc.php'; ?>
     </body>
 </html>

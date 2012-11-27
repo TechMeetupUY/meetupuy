@@ -220,7 +220,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Adrian Gomez</h3>
-        <h4>CI + Review</h4>
+        <h4>Require 'quality'</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -248,7 +248,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gianfranco Zas - <a href="http://twitter.com/snmgian" target="_blank">@snmgian</a></h3>
-        <h4>CI + Review</h4>
+        <h4>Require 'quality'</h4>
     </div>
     <div class="modal-body">
         <div class="row">
@@ -274,7 +274,7 @@
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><i class="icon-remove"></i></button>
         <h3>Gonzalo Arreche - <a href="http://twitter.com/grilix" target="_blank">@grilix</a></h3>
-        <h4>CI + Review</h4>
+        <h4>Require 'quality'</h4>
     </div>
     <div class="modal-body">
         <div class="row">
