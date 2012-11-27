@@ -648,7 +648,7 @@ $title = "edición v2012";
 
                 <dif class="row-fluid">
                     <div class="span6">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/MpHCfExOr_I?rel=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLgJwmkWpD_oNKDZJFIJSSsSfUyfzeLZnw&amp;hl=es_ES" frameborder="0" allowfullscreen></iframe>
 
                     </div>
                     <div class="span6">
