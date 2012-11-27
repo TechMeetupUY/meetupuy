@@ -181,7 +181,7 @@ $title = "edición v2012";
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                        <h3 class="corto text-info">20</h3>
+                                        <h3 class="corto text-info">20+</h3>
                                     </div>
                                 </li>
                                 <li>
