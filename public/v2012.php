@@ -465,13 +465,15 @@ $title = "edición v2012";
                             <img class="img-rounded" alt="" src="/img/v2012/firtman.png">
                         </div>
                     </div>
-                    <div class="span6">
+                    <div class="span6 expandable">
+                        <span class="descripcion">
                         <h4>Mobile / HTML5.</h4>
                         <p>
                             En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?</p>
 
                         <p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
                         </p>
+                        </span>
                         <p><i class="icon-bullhorn"></i> <a href="#firtman" data-toggle="modal">Maximiliano Firtman</a></p>
                         <p>
                             <i class="icon-tag"></i>
@@ -668,13 +670,13 @@ $title = "edición v2012";
                         </p>
                     </div>
                     <div class="span3">
-                        <h3>¿Estas trabajando?</h3>
+                        <h3># trabajan actualmente</h3>
                         <p>
                             <div id="grafica-trabajo" class="graph span4"></div>
                         </p>
                     </div>
                     <div class="span3">
-                        <h3>¿Estudias actualmente?</h3>
+                        <h3># estudian actualmente</h3>
                         <p>
                             <div id="grafica-estudio" class="graph span4"></div>
                         </p>
@@ -682,6 +684,16 @@ $title = "edición v2012";
                 </div>
                 <hr class="dashed" style="float: none;">
 
+                <div class="row-fluid">
+                    <div class="span12">
+                        <div class="callout well">
+                            <h1>Ya estamos trabajando para la próxima edición.</h1>
+                            <p>Muchas gracias a todos por sus comentarios e ideas, las tendremos en cuenta para el año que viene.</p>
+                            <p>Si todavía no contestaste la encuesta por favor hacelo.</p>
+                            <a class="btn btn-large btn-info" href="#">completá la encuesta</a>
+                        </div>
+                    </div>
+                </div>
                 <?php require_once 'include/sponsors.inc.php'; ?>
             </div>
         </div>
