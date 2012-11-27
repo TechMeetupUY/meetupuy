@@ -690,7 +690,7 @@ $title = "edición v2012";
                             <h1>Ya estamos trabajando para la próxima edición.</h1>
                             <p>Muchas gracias a todos por sus comentarios e ideas, las tendremos en cuenta para el año que viene.</p>
                             <p>Si todavía no contestaste la encuesta por favor hacelo.</p>
-                            <a class="btn btn-large btn-info" href="#">completá la encuesta</a>
+                            <a class="btn btn-large btn-info" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dDZZQmE5SWtZSDJ6b2ZqNDF1WXpMLWc6MQ#gid=0" target="_blank">completá la encuesta</a>
                         </div>
                     </div>
                 </div>
