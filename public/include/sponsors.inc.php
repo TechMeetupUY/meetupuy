@@ -2,7 +2,7 @@
     // Listado de sponsors
 ?>
 <div class="row">
-    <div class="span12">
+    <div class="span12 txt-middle">
         <h2>Sponsors</h2>
     </div>
 </div>

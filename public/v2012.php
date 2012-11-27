@@ -312,14 +312,14 @@ $title = "edición v2012";
                     <div class="span6 expandable">
                         <h4>Continuous Improvement - o cómo poner los robots de tu lado.</h4>
                         <span class="descripcion">
-                        <p>
-                            <a target="_blank" href="http://inconcertcc.com/">inConcert</a> es una empresa de plaza que produce software de telecomunicaciones. Nuestro último producto es el Social Desktop o "<strong>i6</strong>".</p>
-<p> i6 está compuesto por varios servicios (17) y una larga lista de proyectos internos (30+). </p>
-<p> La cantidad interacciones entre la funcionalidad de cada uno de estos módulos y las formas de configurarlos para comprobar calidad, performance, etc nos llevaron a que el equipo implementara un par de "técnicas" interesantes: </p>
-<ul><li>Integración Continua</li><li>(y luego) Entrega continua.</li></ul>
-<p> La intención de la charla es introducir la problemática y los mecanismos que utilizamos para simplificar el desarrollo, la configuración de sistemas de prueba y de producción y la infraestructura que le da soporte a estas técnicas. </p>
-<p> Vamos a hablar de los problemas que implementar estas técnicas trae y como se solucionan de la misma manera que se solucionan los problemas de desplegar la aplicación a producción: automatización, integración y entrega continuas. </p>
-<p> Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua. </p>
+                            <p>
+                                <a target="_blank" href="http://inconcertcc.com/">inConcert</a> es una empresa de plaza que produce software de telecomunicaciones. Nuestro último producto es el Social Desktop o "<strong>i6</strong>".</p>
+                            <p> i6 está compuesto por varios servicios (17) y una larga lista de proyectos internos (30+). </p>
+                            <p> La cantidad interacciones entre la funcionalidad de cada uno de estos módulos y las formas de configurarlos para comprobar calidad, performance, etc nos llevaron a que el equipo implementara un par de "técnicas" interesantes: </p>
+                            <ul><li>Integración Continua</li><li>(y luego) Entrega continua.</li></ul>
+                            <p> La intención de la charla es introducir la problemática y los mecanismos que utilizamos para simplificar el desarrollo, la configuración de sistemas de prueba y de producción y la infraestructura que le da soporte a estas técnicas. </p>
+                            <p> Vamos a hablar de los problemas que implementar estas técnicas trae y como se solucionan de la misma manera que se solucionan los problemas de desplegar la aplicación a producción: automatización, integración y entrega continuas. </p>
+                            <p> Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua. </p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#silva" data-toggle="modal">Fede Silva</a> - <a href="#moreno" data-toggle="modal">Sebastián Moreno</a></p>
                         <p>
@@ -470,7 +470,7 @@ $title = "edición v2012";
                         <p>
                             En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?</p>
 
-<p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
+                        <p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
                         </p>
                         <p><i class="icon-bullhorn"></i> <a href="#firtman" data-toggle="modal">Maximiliano Firtman</a></p>
                         <p>
@@ -562,9 +562,9 @@ $title = "edición v2012";
                     </div>
                     <div class="span6 expandable">
                         <span class="descripcion">
-                        <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
-                        <p>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla / Bibliotecas y controladores existentes para la comunicación. / Información relevante y manejo de los datos provenientes del dispositivo. / Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect. / Ejemplos de aplicaciones existentes. /  Desarrollo de aplicación de prueba con análisis del código.
-                        </p>
+                            <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
+                            <p>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla / Bibliotecas y controladores existentes para la comunicación. / Información relevante y manejo de los datos provenientes del dispositivo. / Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect. / Ejemplos de aplicaciones existentes. /  Desarrollo de aplicación de prueba con análisis del código.
+                            </p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#rivera" data-toggle="modal">Rodrigo Rivera</a></p>
                         <p>
@@ -609,8 +609,8 @@ $title = "edición v2012";
                     </div>
                     <div class="span6 expandable">
                         <span class="descripcion">
-                        <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
-                        <p>En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia. La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.</p><p>En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p><p>Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.</p><p>Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.</p>
+                            <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
+                            <p>En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia. La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.</p><p>En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p><p>Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.</p><p>Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.</p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#camargo" data-toggle="modal">Gabriel Camargo</a></p>
                         <p>
@@ -637,8 +637,52 @@ $title = "edición v2012";
                     </div>
                 </div>
 
-                <hr class="dashed">
+                <div class="row-fluid" style="padding-top: 30px;">
+                    <div class="span12" style="text-align: center;">
+                        <h2>Multimedia</h2>
+                    </div>
+                </div>
 
+
+                <dif class="row-fluid">
+                    <div class="span6">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/MpHCfExOr_I?rel=0" frameborder="0" allowfullscreen></iframe>
+
+                    </div>
+                    <div class="span6">
+                        <a href="https://picasaweb.google.com/103831516229609535032/TechMeetupUY2012#slideshow/5807386998558354130" target="_blank"><img class="img-rounded" src="/img/pics.png"/></a>
+                    </div>
+                </dif>
+                <hr class="dashed">
+                <div class="row-fluid">
+                    <div class="span12" style="text-align: center;">
+                        <h2>Estadísticas de la encuesta <small>(111 respuesas)</small></h2>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span3 offset1" >
+                        <h3>Edad</h3>
+                        <p>
+                            <div id="grafica-edad" class="graph span4"></div>
+                        </p>
+                    </div>
+                    <div class="span3">
+                        <h3>¿Estas trabajando?</h3>
+                        <p>
+                            <div id="grafica-trabajo" class="graph span4"></div>
+                        </p>
+                    </div>
+                    <div class="span3">
+                        <h3>¿Estudias actualmente?</h3>
+                        <p>
+                            <div id="grafica-estudio" class="graph span4"></div>
+                        </p>
+                    </div>
+                </div>
+                <hr class="dashed" style="float: none;">
+
+                <?php require_once 'include/sponsors.inc.php'; ?>
             </div>
         </div>
 
@@ -647,6 +691,9 @@ $title = "edición v2012";
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script src="/js/jquery.expander.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+        <script language="javascript" type="text/javascript" src="/js/jquery.flot.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/jquery.flot.pie.js"></script>
+
         <script src="js/bootstrap.js"></script>
         <script>
             $(window).load(function() {
@@ -658,13 +705,13 @@ $title = "edición v2012";
                 });
 
                 $('.product-plan.resumen').hover(
-                    function(){
-                        $(this).addClass("popular");
-                    },
-                    function(){
-                        $(this).removeClass("popular");
-                    }
-                );
+                function(){
+                    $(this).addClass("popular");
+                },
+                function(){
+                    $(this).removeClass("popular");
+                }
+            );
 
                 $('div.expandable span').expander({
                     slicePoint:       400,  // default is 100
@@ -672,7 +719,90 @@ $title = "edición v2012";
                     expandText:       '[...]', // default is 'read more'
                     //collapseTimer:    5000, // re-collapses after 5 seconds; default is 0, so no re-collapsing
                     userCollapseText: '[^]'  // default is 'read less'
-                  });
+                });
+
+
+                var data = [
+                    { label: "< 20",  data: [[1,4]]},
+                    { label: "20 - 30",  data: [[1,67]]},
+                    { label: "31 - 40",  data: [[1,29]]},
+                    { label: "> 40",  data: [[1,1]]},
+                ];
+
+                $.plot($("#grafica-edad"), data,
+                {
+                    series: {
+                        pie: {
+                            show: true,
+                            radius: 1,
+                            label: {
+                                show: true,
+                                radius: 2/4,
+                                formatter: function(label, series){
+                                    return '<div style="font-size:8pt;text-align:center;padding:2px;color:white;">'+label+'<br/>'+Math.round(series.percent)+'%</div>';
+                                },
+                                background: { opacity: 0.5 }
+
+                            }
+                        }
+                    },
+                    legend: {
+                        show: false
+                    }
+                });
+
+                var data_trabajo = [
+                    { label: "SI",  data: [[1,91]]},
+                    { label: "NO",  data: [[1,9]]},
+                ];
+                $.plot($("#grafica-trabajo"), data_trabajo,
+                {
+                    series: {
+                        pie: {
+                            show: true,
+                            radius: 1,
+                            label: {
+                                show: true,
+                                radius: 3/4,
+                                formatter: function(label, series){
+                                    return '<div style="font-size:8pt;text-align:center;padding:2px;color:white;">'+label+'<br/>'+Math.round(series.percent)+'%</div>';
+                                },
+                                background: { opacity: 0.5 }
+
+                            }
+                        }
+                    },
+                    legend: {
+                        show: false
+                    }
+                });
+
+                var data_estudio = [
+                    { label: "SI",  data: [[1,58]]},
+                    { label: "NO",  data: [[1,42]]},
+                ];
+                $.plot($("#grafica-estudio"), data_estudio,
+                {
+                    series: {
+                        pie: {
+                            show: true,
+                            radius: 1,
+                            label: {
+                                show: true,
+                                radius: 3/4,
+                                formatter: function(label, series){
+                                    return '<div style="font-size:8pt;text-align:center;padding:2px;color:white;">'+label+'<br/>'+Math.round(series.percent)+'%</div>';
+                                },
+                                background: { opacity: 0.5 }
+
+                            }
+                        }
+                    },
+                    legend: {
+                        show: false
+                    }
+                });
+
             });
         </script>
 
