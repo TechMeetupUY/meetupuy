@@ -8,47 +8,46 @@
         <?php require_once 'include/navbar.inc.php'; ?>
         <div id="landing">
             <div class="container">
-                <div class="row">
+                <div class="row-fluid">
                     <div class="span8 offset2" style="text-align:center;">
-                    <h1>conferencia para y por desarrolladores.</h1>
-                    <h2>Video y fotos de la edición v2012</h2>
-                </div>
-                    <div class="span8 offset2 " style="text-align:center;">
-                        <br>
-                        <iframe width="770" height="480" src="http://www.youtube.com/embed/MpHCfExOr_I" frameborder="0" allowfullscreen></iframe>
+                        <h1>conferencia para y por desarrolladores.</h1>
                     </div>
+                </div>
+                <div class="row-fluid">
                     <div class="span8 offset2" style="text-align:center;">
                         <!--
                         <p>
                             <img src="/img/tech-meetup-logo-big.png">
                         </p>
-                    -->
-
+                        -->
+                        <br>
                         <div id="myCarousel" class="carousel slide">
                             <div class="carousel-inner">
                                 <?php
-
-                                    for($i=1; $i<=14; $i++){
-                                        $active = '';
-                                        if($i == 1){
-                                            $active = 'active';
-                                        }
-                                        echo '<div class="'.$active.' item"><a href="https://picasaweb.google.com/103831516229609535032/TechMeetupUY2012#slideshow/5807386998558354130" target="_blank"><img alt="" src="/img/2012_presentacion/tm2012-'.sprintf('%02d', $i).'.jpg"></a></div>';
+                                for ($i = 1; $i <= 14; $i++) {
+                                    $active = '';
+                                    if ($i == 1) {
+                                        $active = 'active';
                                     }
+                                    echo '<div class="' . $active . ' item"><a href="https://picasaweb.google.com/103831516229609535032/TechMeetupUY2012#slideshow/5807386998558354130" target="_blank"><img alt="" src="/img/2012_presentacion/tm2012-' . sprintf('%02d', $i) . '.jpg"></a></div>';
+                                }
                                 ?>
                             </div>
                             <a class="carousel-control left" href="#myCarousel" data-slide="prev"><i class="icon-chevron-left"></i></a>
                             <a class="carousel-control right" href="#myCarousel" data-slide="next"><i class="icon-chevron-right"></i></a>
                         </div>
+                        <br>
+                        <a class="btn btn-primary btn-action" href="/v2012">Resúmen de la edición v2012</a>
                     </div>
 
                 </div>
+
             </div>
         </div>
 
         <div id="content" class="txt-middle">
             <div class="container">
-                <div class="row">
+                <div class="row-fluid">
                     <div class="span3 bouncy">
                         <div class="icon_wrapper">
                             <i class="icon-user"></i>
