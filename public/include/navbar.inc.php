@@ -26,6 +26,7 @@ $pagina = $_SERVER["REQUEST_URI"];
           <div class="nav-collapse collapse">
 
           <ul class="nav pull-right" style="margin-top:20px;">
+              <li class="<?php if($pagina=='/v2012'){ echo 'active'; }; ?>"><a href="v2012">v2012</a></li>
             <li class="<?php if($pagina=='/oradores'){ echo 'active'; }; ?>"><a href="oradores">Oradores</a></li>
             <li class="<?php if($pagina=='/agenda'){ echo 'active'; }; ?>"><a href="agenda">Agenda</a></li>
             <li class="<?php if($pagina=='/asistentes'){ echo 'active'; }; ?>"><a href="asistentes">Asistentes</a></li>

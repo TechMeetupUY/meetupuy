@@ -494,6 +494,11 @@ $title = "edición v2012";
                                         <a href="http://firt.mobi/" target="_blank"><i class="icon-globe"></i></a>
                                     </div>
                                 </li>
+                                <li class="bouncy">
+                                    <div class="icon_wrapper">
+                                        <a href="/docs/v2012/TechMeetupUY-HTML5-firtman.pdf" target="_blank"><i class="icon-th-large"></i></a>
+                                    </div>
+                                </li>
                             </ul>
                         </div>
                     </div>
