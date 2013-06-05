@@ -9,7 +9,27 @@ $title = "edición v2012";
 
     <body>
 
-        <?php require_once 'include/navbar.inc.php'; ?>
+        <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+            <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-primary btn-dropnav collapsed">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+
+          <a class="brand" href="/">
+            <img src="/img/tech-meetup-logo-small.png" height="70px" alt="#meetupUY">
+          </a>
+          <div class="nav-collapse collapse">
+
+          <ul class="nav pull-right" style="margin-top:20px;">
+              <li class="<?php if($pagina=='/v2013'){ echo 'active'; }; ?>"><a href="v2013">v2013</a></li>
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
 
         <div id="header">
             <div class="container-fluid">
