@@ -1,3 +1,7 @@
+<?php
+    Header("Location:/v2013");
+    exit();
+?>
 <!DOCTYPE html>
 <html lang="es">
     <head>
