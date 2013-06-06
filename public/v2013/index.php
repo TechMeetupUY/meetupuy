@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Template &middot; Bootstrap</title>
+    <title>techMeetupUY v2013</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="techMeetupUY conferencia por y para desarrolladores de Uruguay">
     <meta name="author" content="Diego Sapriza">
