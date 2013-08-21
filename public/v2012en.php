@@ -1,5 +1,5 @@
 <?php
-$title = "edición v2012";
+$title = "Edition v2012";
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -24,6 +24,7 @@ $title = "edición v2012";
           <div class="nav-collapse collapse">
 
           <ul class="nav pull-right" style="margin-top:20px;">
+              <li class=""><a href="./v2012.php">en español</a></li>
               <li class="<?php if($pagina=='/v2013'){ echo 'active'; }; ?>"><a href="v2013">v2013</a></li>
           </ul>
           </div>
@@ -35,7 +36,7 @@ $title = "edición v2012";
             <div class="container-fluid">
                 <div class="row-fluid">
                     <div class="span12">
-                        <h1>2012 edition</h1>
+                        <h1>edition v2012</h1>
                     </div>
                 </div>
             </div>
@@ -58,7 +59,7 @@ $title = "edición v2012";
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                        <h3>Nov 3rd, 2012</h3>
+                                        <h3>3/11/2012</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -75,7 +76,7 @@ $title = "edición v2012";
                             <ul class="unstyled plans">
                                 <li>
                                     <div class="feature">
-                                        <h3 style="font-size: 30px;">Torre Telecom. Antel</h3>
+                                        <h3 style="font-size: 30px;">Antel Telecomm. Tower</h3>
                                     </div>
                                 </li>
                                 <li>
@@ -135,7 +136,7 @@ $title = "edición v2012";
                                 </li>
                                 <li>
                                     <div class="feature">
-                                        <h4>studentship</h4>
+                                        <h4>scholarships</h4>
                                     </div>
                                 </li>
                             </ul>
@@ -237,13 +238,14 @@ $title = "edición v2012";
                     <div class="span6">
                         <h4>Keynote.</h4>
                         <p>
-                            Enrique Baliño es Socio fundador de Xn Consultores. Como consultor de la firma, diseña y facilita la implementación de soluciones de desarrollo ejecutivo y cambio organizacional basado en Indagación Apreciativa.
+                            Enrique Baliño is a founding partner of Xn Consultores. As a consultant, he designs and facilitates the implementation of executive development and organizational change solutions based in Appreciative Inquiry.
+
                         </p>
                         <p><i class="icon-bullhorn"></i> <a href="#balino" data-toggle="modal">Enrique Baliño</a></p>
                         <p>
                             <i class="icon-tag"></i>
-                            <span class="label label-info">motivación</span>
-                            <span class="label label-info">equipos</span>
+                            <span class="label label-info">motivation</span>
+                            <span class="label label-info">teams</span>
                         </p>
 
                     </div>
@@ -279,11 +281,9 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6">
-                        <h4>Mr. Pedro Fullstack, a sus órdenes.</h4>
+                        <h4>Mr. Pedro Fullstack, at your service.</h4>
                         <p>
-                            A través de la experiencia de Mr. Pedro, te quiero contar cómo fue incorporando un framework Agile para la gestión de sus procesos dentro de su emprendimiento de software factory,
-                            de forma empírica y basado en mejora contínua hizo viable su proyecto sin agregar overhead innecesario en la gestión y por sobre todas las cosas valorando a la gente como su mayor
-                            capital de trabajo.
+                            Through Mr. Pedro's experience, I would like to tell you how incorporating an Agile framework to his process' management in his software factory endeavor, based on empirical evidence and ongoing improvement, made his project viable without adding unnecessary overhead to the management and, above all, valuing people as his biggest working capital.
                         </p>
                         <p><i class="icon-bullhorn"></i> <a href="#ledesma" data-toggle="modal">Gabriel Ledesma</a></p>
                         <p>
@@ -330,16 +330,16 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6 expandable">
-                        <h4>Continuous Improvement - o cómo poner los robots de tu lado.</h4>
+                        <h4>Continuous Improvement - or how to put robots on your side.</h4>
                         <span class="descripcion">
                             <p>
-                                <a target="_blank" href="http://inconcertcc.com/">inConcert</a> es una empresa de plaza que produce software de telecomunicaciones. Nuestro último producto es el Social Desktop o "<strong>i6</strong>".</p>
-                            <p> i6 está compuesto por varios servicios (17) y una larga lista de proyectos internos (30+). </p>
-                            <p> La cantidad interacciones entre la funcionalidad de cada uno de estos módulos y las formas de configurarlos para comprobar calidad, performance, etc nos llevaron a que el equipo implementara un par de "técnicas" interesantes: </p>
-                            <ul><li>Integración Continua</li><li>(y luego) Entrega continua.</li></ul>
-                            <p> La intención de la charla es introducir la problemática y los mecanismos que utilizamos para simplificar el desarrollo, la configuración de sistemas de prueba y de producción y la infraestructura que le da soporte a estas técnicas. </p>
-                            <p> Vamos a hablar de los problemas que implementar estas técnicas trae y como se solucionan de la misma manera que se solucionan los problemas de desplegar la aplicación a producción: automatización, integración y entrega continuas. </p>
-                            <p> Finalmente vamos a presentar una pequeña demo de como usamos herramientas para automatizar la creación de un pequeño cluster de Jenkins - un server de integración continua. </p>
+                                <a target="_blank" href="http://inconcertcc.com/">inConcert</a> is a company which produces telecommunication software. Our latest product is the Social Desktop or "<strong>i6</strong>".</p>
+                            <p> i6 is comprised of several services (17) and a long list of internal projects (30+). </p>
+                            <p>The amount of interactions between functionality and each one of these modules and the ways to configure them to prove quality, performance, etc. led the team to implement a couple of interesting "techniques":
+                            <ul><li>Continuous integration</li><li>(and then) Continuous delivery.</li></ul>
+                            <p>This talk is meant to introduce the problematic and mechanisms we use to simplify the development, the test and production systems' configuration and the infrastructure that supports these techniques.</p>
+                            <p>We will talk about the problems brought by the implementation of these techniques and how they are solved the same way deploying the application to production problems are solved: automatization, integration and continuous deliveries.</p>
+                            <p>Finally we will present a little demo of how we use tools to automatize the creation of a small Jenkins cluster - a continuous integration server.</p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#silva" data-toggle="modal">Fede Silva</a> - <a href="#moreno" data-toggle="modal">Sebastián Moreno</a></p>
                         <p>
@@ -347,7 +347,7 @@ $title = "edición v2012";
                             <span class="label label-info">ci</span>
                             <span class="label label-info">jenkins</span>
                             <span class="label label-info">chef</span>
-                            <span class="label label-info">automatización</span>
+                            <span class="label label-info">automatization</span>
 
                         </p>
                     </div>
@@ -400,7 +400,7 @@ $title = "edición v2012";
                             <i class="icon-tag"></i>
                             <span class="label label-info">review</span>
                             <span class="label label-info">gerrit</span>
-                            <span class="label label-info">calidad</span>
+                            <span class="label label-info">quality</span>
                         </p>
                     </div>
                     <div class="span1">
@@ -439,9 +439,9 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6">
-                        <h4>Entornos de prueba en minutos con Vagrant.</h4>
+                        <h4>Test environments in minutes with Vagrant</h4>
                         <p>
-                            Vagrant permite crear máquinas virtuales livianas y configurables en forma dinámica, usando Oracle VirtualBox. En esta sesión, veremos como crear un entorno de prueba configurable y fácilmente restaurable usando este proyecto.
+                            Vagrant allows to create light and customizable virtual machines dynamically using Oracle VirtualBox. In this session we will see how to create a customizable and easily restorable test environment using this project.
                         </p>
                         <p><i class="icon-bullhorn"></i> <a href="#ipar" data-toggle="modal">Fernando Ipar</a></p>
                         <p>
@@ -489,9 +489,11 @@ $title = "edición v2012";
                         <span class="descripcion">
                         <h4>Mobile / HTML5.</h4>
                         <p>
-                            En esta conferencia analizaremos qué es HTML5 realmente y cómo nos puede ayudar a crear aplicaciones móviles multiplataforma. Analizaremos las principales ventajas y los mayores desafíos que tendremos que enfrentarnos al utilizar esta metodología. ¿Qué le pasó a Facebook con HTML5? Nativo o HTML5, ¿es una discusión válida?</p>
+                            In this conference we will analyze what HTML5 actually is and how it can help us to create multi-platform mobile applications. We will analyze the main advantages and the biggest challenges we will have to face when using this methodology. What happened to Facebook with HTML5? Native or HTML5, is it a valid discussion?    
+                        </p>
 
-                        <p>Analizaremos las plataformas que hoy y mañana soportan HTML5 y veremos ejemplos concretos y reales de implementaciones y código funcionando.
+                        <p>
+                            We will analyze the platforms that support HTML5 now and tomorrow and specific and real examples of implementations and working code.
                         </p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#firtman" data-toggle="modal">Maximiliano Firtman</a></p>
@@ -542,8 +544,10 @@ $title = "edición v2012";
                         </div>
                     </div>
                     <div class="span6">
-                        <h4>Desarrollo mobile con Mono.</h4>
-                        <p>La experiencia de Paganza desarrollando una app nativa para iOS y Android usando Mono.</p><p>Hablaremos de que es Mono y tecnologias asociadas como MonoTouch y Mono for Android. Cómo es desarrollar con estas herramientas, problemas encontrados y posibles caminos a seguir.
+                        <h4>Mobile development with Mono.</h4>
+                        <p>Paganza's experience developing a native app for iOS and Android using Mono</p>
+                        <p>
+                            We will talk about what "Mono" is and also about associate technologies such as MonoTouch for Android, how to develop with these tools, problems found and possible ways to go.
                         </p>
                         <p><i class="icon-bullhorn"></i> <a href="#martinez" data-toggle="modal">Máximo Martinez</a></p>
                         <p>
@@ -589,8 +593,9 @@ $title = "edición v2012";
                     </div>
                     <div class="span6 expandable">
                         <span class="descripcion">
-                            <h4>Desarrollo de aplicaciones con Kinect, ventajas y limitaciones.</h4>
-                            <p>Cómo comunicarse con el dispositivo Kinect, que información brinda y como manipularla / Bibliotecas y controladores existentes para la comunicación. / Información relevante y manejo de los datos provenientes del dispositivo. / Limitaciones importantes a considerar en el diseño de aplicaciones que hagan uso de Kinect. / Ejemplos de aplicaciones existentes. /  Desarrollo de aplicación de prueba con análisis del código.
+                            <h4>Applications' development with Kinect, advantages and limitations.</h4>
+                            <p>
+                                How to communicate with the Kinect device; what information provides and how to use it / Libraries and existing controlling devices. / Relevant information and use of the incoming data from the device. / Important limitations to take into account in the design of applications that make use of Kinect. / Examples of existing applications / Test application development with code analysis.
                             </p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#rivera" data-toggle="modal">Rodrigo Rivera</a></p>
@@ -636,14 +641,26 @@ $title = "edición v2012";
                     </div>
                     <div class="span6 expandable">
                         <span class="descripcion">
-                            <h4>Design Driven Innovation: Sistematizando la innovación radical</h4>
-                            <p>En el mundo de la tecnología, la innovación es normalmente la diferencia entre el éxito y la intrascendencia. La buena noticia es que innovar es mas facil de lo que parece si se aplica una metodología y se busca de manera persistente.</p><p>En esta charla se comenzará con un breve repaso de la importancia que tiene la innovación en el futuro de la industria tecnologica en el Uruguay, así como del estado actual de su evolución a nivel local.</p><p>Luego nos centraremos en desmitificar la innovación, conociendo la metodología de innovación basada en el diseño y mostrando algunos ejemplos de aplicación.</p><p>Terminaremos compartiendo algunos consejos acerca de como atacar las mayores barreras socioculturales que nos separan de ser capaces de crear innovaciones globales.</p>
+                            <h4>Design Driven Innovation: Systematizing the radical innovation.</h4>
+                            <p>
+                                In the world of technology, innovation is usually the difference between success and irrelevance. The good news is that innovating is easier than it looks like if a methodology is applied and if you search persistently.
+                            </p>
+                            <p>
+                                In this talk we will begin with a short summary of the importance that innovation has in the future of the Uruguayan technologic industry, as well as the current status of its evolution locally.
+                            </p>
+                            <p>
+                                Then we will focus on demystifying the innovation, learning the innovation methodology based on design and showing a couple application examples.
+                            </p>
+                            <p>
+                                Finally we will share some advices on how to tackle the biggest socio-cultural barriers that keep us from being capable of creating global innovations.
+
+                            </p>
                         </span>
                         <p><i class="icon-bullhorn"></i> <a href="#camargo" data-toggle="modal">Gabriel Camargo</a></p>
                         <p>
                             <i class="icon-tag"></i>
                             <span class="label label-info">ddi</span>
-                            <span class="label label-info">innovación</span>
+                            <span class="label label-info">innovation</span>
                         </p>
                     </div>
                     <div class="span1">
@@ -683,25 +700,25 @@ $title = "edición v2012";
                 <hr class="dashed">
                 <div class="row-fluid">
                     <div class="span12" style="text-align: center;">
-                        <h2>Survey<small>(111 answers)</small></h2>
+                        <h2>Survey statistics <small>(111 responses)</small></h2>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="span3 offset1" >
-                        <h3>Edad</h3>
+                        <h3>Age</h3>
                         <p>
                             <div id="grafica-edad" class="graph span4"></div>
                         </p>
                     </div>
                     <div class="span3">
-                        <h3># trabajan actualmente</h3>
+                        <h3># currently working</h3>
                         <p>
                             <div id="grafica-trabajo" class="graph span4"></div>
                         </p>
                     </div>
                     <div class="span3">
-                        <h3># estudian actualmente</h3>
+                        <h3># currently studying</h3>
                         <p>
                             <div id="grafica-estudio" class="graph span4"></div>
                         </p>
@@ -712,8 +729,8 @@ $title = "edición v2012";
                 <div class="row-fluid">
                     <div class="span12">
                         <div class="callout well">
-                            <h1>We are working in the next edition.</h1>
-                            <p>If you want to be part of it just send us a line.</p>
+                            <h1><a href="http://tech.meetup.uy/v2013">We are working for the next edition.</a></h1>
+                            <p>Many thanks to everyone for your comments and ideas, we will keep them in mind for next year.</p>
                         </div>
                     </div>
                 </div>
@@ -841,7 +858,29 @@ $title = "edición v2012";
             });
         </script>
 
-        <?php require_once 'include/footer.inc.php'; ?>
+        <div id="copywrite">
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <p>&copy; 2012 <a href="http://twitter.com/meetupUY">@MeetupUY</a> - <a href="mailto:info@meetup.uy">info@meetup.uy</a><span id="totop" class="pull-right">Up <i class="icon-arrow-up"></i></span></p>          
+      </div>          
+    </div>    
+  </div>      
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34814216-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
         <?php require_once 'include/oradores_modals.inc.php'; ?>
     </body>
 </html>

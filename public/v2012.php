@@ -24,6 +24,7 @@ $title = "edición v2012";
           <div class="nav-collapse collapse">
 
           <ul class="nav pull-right" style="margin-top:20px;">
+              <li class=""><a href="./v2012en.php">in english</a></li>
               <li class="<?php if($pagina=='/v2013'){ echo 'active'; }; ?>"><a href="v2013">v2013</a></li>
           </ul>
           </div>
