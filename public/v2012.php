@@ -713,7 +713,7 @@ $title = "edición v2012";
                 <div class="row-fluid">
                     <div class="span12">
                         <div class="callout well">
-                            <h1>Ya estamos trabajando para la próxima edición.</h1>
+                            <h1><a href="http://tech.meetup.uy/v2013/">Ya estamos trabajando para la próxima edición.</a></h1>
                             <p>Muchas gracias a todos por sus comentarios e ideas, las tendremos en cuenta para el año que viene.</p>
                         </div>
                     </div>
