@@ -72,7 +72,7 @@
       <hr>
 
       <div class="jumbotron">
-        <h1>22, 23 de Noviembre</h1>
+        <h1>23 de Noviembre</h1>
         <p class="lead">Se viene la segunda edición de techMeetupUY<br>la conferencia para y por desarrolladores de Uruguay.</p>
         <p class="lead">Próximamente habrá más noticias, mientras tanto <br><a href="/v2012">mirá lo que pasó en la edición anterior...</a></p>
 
